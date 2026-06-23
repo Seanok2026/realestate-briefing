@@ -6,8 +6,8 @@
     <title>부동산 브리핑</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f0f2f5; min-height: 100vh; padding: 16px; }
-        .header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); color: white; padding: 24px 20px; border-radius: 16px; margin-bottom: 16px; text-align: center; }
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f0f2f5; min-height: 100vh; padding: 16px; }
+        .header { background: linear-gradient(135deg, #1a1a2e, #0f3460); color: white; padding: 24px 20px; border-radius: 16px; margin-bottom: 16px; text-align: center; }
         .header h1 { font-size: 24px; margin-bottom: 6px; }
         .header p { font-size: 13px; opacity: 0.8; }
         .card { background: white; border-radius: 12px; padding: 18px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
@@ -29,19 +29,15 @@
         .songpa-box .price { font-size: 22px; font-weight: 800; color: #667eea; }
         .songpa-box .sub { font-size: 12px; color: #666; margin-top: 4px; }
         .signal-item { background: #fff5e6; border-left: 3px solid #f59e0b; padding: 10px 12px; margin-bottom: 8px; border-radius: 0 8px 8px 0; font-size: 13px; color: #333; line-height: 1.5; }
-        .video-item { border-left: 3px solid #667eea; padding: 10px 12px; margin-bottom: 8px; background: #f8f9ff; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .video-link { display: block; text-decoration: none; margin-bottom: 8px; }
+        .video-item { border-left: 3px solid #667eea; padding: 10px 12px; background: #f8f9ff; border-radius: 0 8px 8px 0; font-size: 13px; }
         .video-ch { font-size: 11px; color: #667eea; font-weight: 700; margin-bottom: 3px; }
         .video-title { color: #333; line-height: 1.4; }
-        .video-rel { font-size: 11px; margin-top: 4px; padding: 2px 6px; border-radius: 4px; display: inline-block; }
-        .rel-pos { background: #d4edda; color: #155724; }
-        .rel-neu { background: #fff3cd; color: #856404; }
-        .rel-neg { background: #f8d7da; color: #721c24; }
+        .video-play { font-size: 11px; color: #999; margin-top: 4px; }
         .empty { color: #aaa; font-size: 13px; text-align: center; padding: 16px 0; }
         .btn-kakao { width: 100%; padding: 14px; background: #FFE812; color: #000; border: none; border-radius: 10px; font-size: 15px; font-weight: 700; cursor: pointer; margin-top: 4px; }
         .btn-refresh { width: 100%; padding: 12px; background: #f0f2f5; color: #333; border: none; border-radius: 10px; font-size: 14px; font-weight: 600; cursor: pointer; margin-top: 8px; }
         .timestamp { text-align: center; color: #bbb; font-size: 11px; margin-top: 12px; padding-bottom: 20px; }
-        .tag-up { color: #e74c3c; font-weight: 700; }
-        .tag-dn { color: #3498db; font-weight: 700; }
         .loading { text-align: center; padding: 40px; color: #aaa; }
     </style>
 </head>
@@ -50,35 +46,22 @@
         <h1>🏠 부동산 브리핑</h1>
         <p id="date-display">로드 중...</p>
     </div>
-
     <div id="app"><div class="loading">데이터 로드 중...</div></div>
-
     <div class="timestamp" id="timestamp"></div>
 
     <script>
-    async function load() {
-        try {
-            const r = await fetch('briefing.json?t=' + Date.now());
-            if (!r.ok) throw new Error('fetch fail');
-            const d = await r.json();
-            render(d);
-        } catch(e) {
-            document.getElementById('app').innerHTML = '<div class="card"><div class="empty">⚠️ 데이터를 불러올 수 없습니다.<br>잠시 후 새로고침해 주세요.</div></div>';
-        }
-    }
-
     function fmt(n) {
         if (n >= 10000) return (n/10000).toFixed(1) + '억';
         return n.toLocaleString() + '만';
     }
 
     function render(d) {
-        document.getElementById('date-display').textContent = (d.date || '') + (d.data_month ? ' (' + d.data_month + ' 기준)' : '');
+        var dateStr = (d.date || '') + (d.data_month ? ' (' + d.data_month + ' 기준)' : '');
+        document.getElementById('date-display').textContent = dateStr;
 
-        const m = d.market || {};
-        let html = '';
+        var m = d.market || {};
+        var html = '';
 
-        // 서울 시장 현황
         if (m.total_count > 0) {
             html += '<div class="card">';
             html += '<div class="card-title">📊 서울 아파트 시장 현황</div>';
@@ -86,96 +69,104 @@
             html += '<div class="stat-box"><div class="val">' + (m.total_count || 0).toLocaleString() + '건</div><div class="lbl">총 거래량</div></div>';
             html += '<div class="stat-box"><div class="val">' + (m.total_districts || 0) + '개구</div><div class="lbl">거래 발생 지역</div></div>';
             html += '</div>';
-
-            // 평균가 TOP 5
             if (m.top5_districts && m.top5_districts.length > 0) {
                 html += '<div style="font-size:13px;font-weight:700;color:#333;margin-bottom:8px;">🔴 평균가 상위 5개구</div>';
-                m.top5_districts.forEach(([name, info]) => {
+                for (var i = 0; i < m.top5_districts.length; i++) {
+                    var d5 = m.top5_districts[i];
                     html += '<div class="district-item">';
-                    html += '<span class="district-name">' + name + '</span>';
-                    html += '<span><span class="district-price">' + fmt(info.avg) + '</span> <span class="district-count">(' + info.count + '건)</span></span>';
+                    html += '<span class="district-name">' + d5[0] + '</span>';
+                    html += '<span><span class="district-price">' + fmt(d5[1].avg) + '</span> <span class="district-count">(' + d5[1].count + '건)</span></span>';
                     html += '</div>';
-                });
+                }
             }
             html += '</div>';
 
-            // 송파구 현황
             if (m.songpa_count > 0) {
                 html += '<div class="card">';
-                html += '<div class="card-title">🎯 송파구 현황 (관심지역)</div>';
+                html += '<div class="card-title">🎯 송파구 현황</div>';
                 html += '<div class="songpa-box">';
                 html += '<div class="price">' + fmt(m.songpa_avg) + '</div>';
-                html += '<div class="sub">평균 거래가 · 총 ' + m.songpa_count + '건 거래</div>';
-                html += '</div>';
-                html += '</div>';
+                html += '<div class="sub">평균 거래가 · 총 ' + m.songpa_count + '건</div>';
+                html += '</div></div>';
             }
 
-            // 고가 거래 TOP 5
             if (m.top5_trades && m.top5_trades.length > 0) {
                 html += '<div class="card">';
-                html += '<div class="card-title">💰 서울 최고가 거래 TOP 5</div>';
-                m.top5_trades.forEach((t, i) => {
+                html += '<div class="card-title">💰 서울 최고가 TOP 5</div>';
+                for (var j = 0; j < m.top5_trades.length; j++) {
+                    var t = m.top5_trades[j];
                     html += '<div class="trade-item">';
-                    html += '<div class="trade-name">' + (i+1) + '. ' + t.name + ' · ' + t.dong + '</div>';
+                    html += '<div class="trade-name">' + (j+1) + '. ' + t.name + ' · ' + t.dong + '</div>';
                     html += '<div class="trade-price">' + fmt(t.price) + '</div>';
                     html += '<div class="trade-detail">' + t.area + '㎡ · ' + t.floor + '층 · ' + t.date + '</div>';
                     html += '</div>';
-                });
+                }
                 html += '</div>';
             }
         } else {
             html += '<div class="card"><div class="empty">📡 실거래가 데이터 준비 중<br>(API 승인 후 1~2일 소요)</div></div>';
         }
 
-        // 처분 신호
         html += '<div class="card">';
         html += '<div class="card-title">⏰ 보유 처분 신호</div>';
-        (d.signals || []).forEach(s => {
-            html += '<div class="signal-item">' + s + '</div>';
-        });
+        var signals = d.signals || [];
+        for (var s = 0; s < signals.length; s++) {
+            html += '<div class="signal-item">' + signals[s] + '</div>';
+        }
         html += '</div>';
 
-        // 관심 영상
         html += '<div class="card">';
         html += '<div class="card-title">📺 관심 유튜브 영상</div>';
-        if (d.videos && d.videos.length > 0) {
-            d.videos.forEach(v => {
-                const relClass = v.relevance && v.relevance.includes('긍정') ? 'rel-pos' : v.relevance && v.relevance.includes('주의') ? 'rel-neg' : 'rel-neu';
+        var videos = d.videos || [];
+        if (videos.length > 0) {
+            for (var v = 0; v < videos.length; v++) {
+                var vid = videos[v];
+                var link = vid.link || '';
+                html += '<a href="' + link + '" target="_blank" class="video-link">';
                 html += '<div class="video-item">';
-                html += '<div class="video-ch">' + v.channel + '</div>';
-                html += '<div class="video-title">' + v.title + '</div>';
-                html += '<span class="video-rel ' + relClass + '">' + (v.relevance || '') + '</span>';
-                html += '</div>';
-            });
+                html += '<div class="video-ch">' + vid.channel + (vid.pub_date ? ' · ' + vid.pub_date : '') + '</div>';
+                html += '<div class="video-title">' + vid.title + '</div>';
+                html += '<div class="video-play">▶ 영상 보러가기</div>';
+                html += '</div></a>';
+            }
         } else {
             html += '<div class="empty">신규 관련 영상 없음</div>';
         }
         html += '</div>';
 
-        // 오늘의 체크
         html += '<div class="card">';
         html += '<div class="card-title">✅ 오늘의 체크</div>';
         html += '<div class="signal-item" style="background:#e0f2fe;border-color:#0ea5e9;color:#0369a1">' + (d.daily_check || '') + '</div>';
         html += '</div>';
 
-        // 버튼
-        html += '<button class="btn-kakao" onclick="sendKakao()">💬 카톡으로 내용 복사</button>';
-        html += '<button class="btn-refresh" onclick="load()">🔄 새로고침</button>';
+        html += '<button class="btn-kakao" onclick="copyKakao()">💬 카톡으로 내용 복사</button>';
+        html += '<button class="btn-refresh" onclick="loadData()">🔄 새로고침</button>';
 
         document.getElementById('app').innerHTML = html;
         document.getElementById('timestamp').textContent = '마지막 업데이트: ' + new Date().toLocaleString('ko-KR');
     }
 
-    function sendKakao() {
-        const d = document.getElementById('app').innerText;
-        navigator.clipboard.writeText(d).then(() => {
-            alert('내용이 복사되었습니다.\n카카오톡 나에게 보내기에 붙여넣으세요.');
-        }).catch(() => {
-            alert('복사 실패. 직접 내용을 선택해서 복사해 주세요.');
-        });
+    function copyKakao() {
+        var text = document.getElementById('app').innerText;
+        if (navigator.clipboard) {
+            navigator.clipboard.writeText(text).then(function() {
+                alert('복사 완료! 카카오톡 나에게 보내기에 붙여넣으세요.');
+            });
+        } else {
+            alert('복사 기능을 지원하지 않는 브라우저입니다.');
+        }
     }
 
-    load();
+    function loadData() {
+        fetch('briefing.json?t=' + Date.now())
+            .then(function(r) { return r.json(); })
+            .then(function(d) { render(d); })
+            .catch(function() {
+                document.getElementById('app').innerHTML = '<div class="card"><div class="empty">⚠️ 데이터를 불러올 수 없습니다.</div></div>';
+            });
+    }
+
+    loadData();
     </script>
 </body>
 </html>
