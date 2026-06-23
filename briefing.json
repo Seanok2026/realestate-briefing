@@ -1,7 +1,85 @@
 {
   "date": "2026.06.23",
   "data_month": "2026년 05월",
-  "videos": [],
+  "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "경기도 신축 vs 서울 구축, 10년 뒤 승자는 '이곳'입니다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/d4NLujUHDPk",
+      "pub_ts": 1782253825.0,
+      "pub_date": "06/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "언론도 쉬쉬하고 있어요, 부동산 시장에 나타난 이상현상 [플팩 강연옥 대표 1부]",
+      "link": "https://www.youtube.com/watch?v=joRHYkYqq2c",
+      "pub_ts": 1782208829.0,
+      "pub_date": "06/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"언론이 착시를 만들고 있어요\" 지금 부동산 시장 이렇습니다 [박원갑 위원 1부]",
+      "link": "https://www.youtube.com/watch?v=l_50-dUwnF4",
+      "pub_ts": 1782205228.0,
+      "pub_date": "06/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "매매 전세 다 오릅니다, 무주택자 이렇게 하세요 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/bTR8tjrkRjk",
+      "pub_ts": 1782194410.0,
+      "pub_date": "06/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "부동산에 선전포고한 정부, 7월부터 집값 이렇게 됩니다 [망고쌤 풀버전]",
+      "link": "https://www.youtube.com/watch?v=641ZAdx-Rxo",
+      "pub_ts": 1782126043.0,
+      "pub_date": "06/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "앞으로 4년 집값 문재인 정부 압축판일 겁니다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/2Mr-nEYMHuo",
+      "pub_ts": 1782081009.0,
+      "pub_date": "06/21"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "서울 경기도 소액 '이곳' 사세요, 앞으로 인생이 바뀔 겁니다 [망고쌤 4부]",
+      "link": "https://www.youtube.com/watch?v=dZKXw5C30lQ",
+      "pub_ts": 1782039617.0,
+      "pub_date": "06/21"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"남편만 믿고 이사했는데.. 너무 후회됩니다.\" 연봉 1억도 가난해지는 이유 (구해줘월부 부동산 사연)",
+      "link": "https://www.youtube.com/watch?v=cZF1NNnzBos",
+      "pub_ts": 1781733619.0,
+      "pub_date": "06/17"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"이해하면 소름돋는다\" 7년 전 과거로 보는 2026년 집값의 미래 (#자모의월간부동산 26년 6월편)",
+      "link": "https://www.youtube.com/watch?v=MQ4AU7eZ50w",
+      "pub_ts": 1781665210.0,
+      "pub_date": "06/17"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "'부동산 세재개편 예고..'집값 상승보다 더 심각한 문제는 따로 있습니다(구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=gbgod3qi_DA",
+      "pub_ts": 1781474419.0,
+      "pub_date": "06/14"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "전세계 시가총액 7위 스페이스x, 뉴스보고 따라 샀다가 큰 코 다치는 이유 (광화문금융러의 기업분석.ep1)",
+      "link": "https://www.youtube.com/watch?v=pBp7jXcBhUo",
+      "pub_ts": 1781215229.0,
+      "pub_date": "06/11"
+    }
+  ],
   "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
