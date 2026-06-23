@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>부동산 브리핑</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+        .header p {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        .content {
+            padding: 30px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+        }
+        .section-icon {
+            font-size: 20px;
+            margin-right: 8px;
+        }
+        .video-item {
+            background: #f5f7fa;
+            border-left: 4px solid #667eea;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .video-channel {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 13px;
+        }
+        .video-title {
+            color: #333;
+            margin: 4px 0;
+        }
+        .video-relevance {
+            color: #666;
+            font-size: 13px;
+            margin-top: 4px;
+        }
+        .signal-item {
+            background: #fff5e6;
+            border-left: 4px solid #f59e0b;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .daily-check {
+            background: #e0f2fe;
+            border-left: 4px solid #0ea5e9;
+            padding: 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #0369a1;
+            line-height: 1.6;
+        }
+        .empty {
+            color: #999;
+            font-style: italic;
+            font-size: 14px;
+            padding: 10px;
+        }
+        .buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid #eee;
+        }
+        .btn {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .btn-kakao {
+            background: #FFE812;
+            color: #000;
+        }
+        .btn-kakao:hover {
+            background: #ffd600;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(255, 232, 18, 0.4);
+        }
+        .btn-refresh {
+            background: #667eea;
+            color: white;
+        }
+        .btn-refresh:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+        }
+        .timestamp {
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏠 부동산 브리핑</h1>
+            <p id="date-display">로드 중...</p>
+        </div>
+        
+        <div class="content">
+            <!-- 관심 영상 섹션 -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="section-icon">📺</span>
+                    관심 영상
+                </div>
+                <div id="videos-list">
+                    <div class="empty">영상 데이터 로드 중...</div>
+                </div>
+            </div>
+
+            <!-- 보유 처분 신호 섹션 -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="section-icon">⏰</span>
+                    보유 처분 신호
+                </div>
+                <div id="signals-list">
+                    <div class="empty">신호 데이터 로드 중...</div>
+                </div>
+            </div>
+
+            <!-- 오늘의 체크 섹션 -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="section-icon">✅</span>
+                    오늘의 체크
+                </div>
+                <div id="daily-check" class="daily-check">
+                    데이터 로드 중...
+                </div>
+            </div>
+
+            <!-- 버튼 -->
+            <div class="buttons">
+                <button class="btn btn-kakao" id="kakao-btn">
+                    💬 카톡으로 보내기
+                </button>
+                <button class="btn btn-refresh" id="refresh-btn">
+                    🔄 새로고침
+                </button>
+            </div>
+
+            <div class="timestamp" id="timestamp"></div>
+        </div>
+    </div>
+
+    <script>
+        // 데이터 로드 및 렌더링
+        async function loadBriefing() {
+            try {
+                const response = await fetch('briefing.json');
+                if (!response.ok) throw new Error('데이터 로드 실패');
+                const data = await response.json();
+                renderBriefing(data);
+            } catch (error) {
+                console.error(error);
+                document.getElementById('videos-list').innerHTML = 
+                    '<div class="empty">⚠️ 데이터를 불러올 수 없습니다. 나중에 다시 시도해주세요.</div>';
+            }
+        }
+
+        function renderBriefing(data) {
+            const today = new Date();
+            const dateStr = `${today.getFullYear()}.${String(today.getMonth()+1).padStart(2,'0')}.${String(today.getDate()).padStart(2,'0')}`;
+            document.getElementById('date-display').textContent = dateStr;
+
+            // 영상 렌더링
+            const videosList = document.getElementById('videos-list');
+            if (data.videos && data.videos.length > 0) {
+                videosList.innerHTML = data.videos.map(v => `
+                    <div class="video-item">
+                        <div class="video-channel">${v.channel}</div>
+                        <div class="video-title">${v.title}</div>
+                        <div class="video-relevance">관련성: ${v.relevance}</div>
+                    </div>
+                `).join('');
+            } else {
+                videosList.innerHTML = '<div class="empty">신규 관련 영상 없음</div>';
+            }
+
+            // 신호 렌더링
+            const signalsList = document.getElementById('signals-list');
+            if (data.signals && data.signals.length > 0) {
+                signalsList.innerHTML = data.signals.map(s => 
+                    `<div class="signal-item">${s}</div>`
+                ).join('');
+            }
+
+            // 오늘의 체크
+            document.getElementById('daily-check').textContent = data.daily_check || '정보 없음';
+
+            // 타임스탬프
+            const now = new Date();
+            const timeStr = now.toLocaleString('ko-KR', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit'
+            });
+            document.getElementById('timestamp').textContent = `마지막 업데이트: ${timeStr}`;
+        }
+
+        // 카카오톡 나에게 보내기
+        document.getElementById('kakao-btn').addEventListener('click', function() {
+            const text = document.body.innerText
+                .split('\n')
+                .filter(line => line.trim())
+                .join('\n');
+            
+            const url = `https://story.kakao.com/s/chats?text=${encodeURIComponent(text)}`;
+            
+            // 카카오톡 설치되어 있으면 앱 열기, 아니면 웹 버전
+            if (navigator.userAgent.includes('KAKAOTALK')) {
+                window.location.href = `kakaolink://send?text=${encodeURIComponent(text)}`;
+            } else {
+                // 임시: 복사 기능으로 대체
+                navigator.clipboard.writeText(text).then(() => {
+                    alert('브리핑 내용이 복사되었습니다.\n카톡 앱을 열어 나에게 보내기에 붙여넣으세요.');
+                });
+            }
+        });
+
+        // 새로고침 버튼
+        document.getElementById('refresh-btn').addEventListener('click', loadBriefing);
+
+        // 초기 로드
+        loadBriefing();
+    </script>
+</body>
+</html>
