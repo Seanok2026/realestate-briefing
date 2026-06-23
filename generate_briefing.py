@@ -111,7 +111,7 @@ KEYWORDS = ["송파", "신축", "분양", "양도세", "다주택", "금리", "�
 
 videos = []
 now = dt.datetime.now(dt.timezone.utc)
-cutoff = now - dt.timedelta(hours=25)
+cutoff = now - dt.timedelta(days=30)
 for key, cid in CHANNELS:
     url = "https://www.youtube.com/feeds/videos.xml?channel_id=" + cid
     try:
@@ -126,9 +126,12 @@ for key, cid in CHANNELS:
             title = e.get("title", "")
             if not any(k in title for k in KEYWORDS):
                 continue
-            videos.append({"channel": CHANNEL_NAMES[key], "title": title, "link": e.get("link", "")})
+            videos.append({"channel": CHANNEL_NAMES[key], "title": title, "link": e.get("link", ""), "pub_ts": pub_dt.timestamp()})
     except Exception as ex:
         print("channel error: " + str(ex))
+
+# 최신순 정렬 (30일치 최대 20개)
+videos = sorted(videos, key=lambda x: x.get("pub_ts", 0), reverse=True)[:20]
 
 # 실거래가 데이터 수집
 today = dt.date.today()
