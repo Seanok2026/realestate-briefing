@@ -1,22 +1,28 @@
 import os
 import json
+import re
 import datetime as dt
 import feedparser
 from anthropic import Anthropic
 
 CHANNELS = [
-    ("월급쟁이부자들TV", "UCDSj40X9FFUAnx1nv7gQhcA"),
-    ("부읽남TV", "UC2QeHNJFfuQWB4cy3M-745g"),
-    ("아포유 AforU", "UCK6bIuN3aDIV4F53QQ4__Ng"),
+    ("wolbu", "UCDSj40X9FFUAnx1nv7gQhcA"),
+    ("buiknnam", "UC2QeHNJFfuQWB4cy3M-745g"),
+    ("aforU", "UCK6bIuN3aDIV4F53QQ4__Ng"),
 ]
+CHANNEL_NAMES = {
+    "wolbu": "월급쟁이부자들TV",
+    "buiknnam": "부읽남TV",
+    "aforU": "아포유 AforU",
+}
 KEYWORDS = ["송파", "신축", "분양", "양도세", "다주택", "금리", "공급", "정책"]
 
 videos = []
 now = dt.datetime.now(dt.timezone.utc)
 cutoff = now - dt.timedelta(hours=25)
 
-for name, cid in CHANNELS:
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
+for key, cid in CHANNELS:
+    url = "https://www.youtube.com/feeds/videos.xml?channel_id=" + cid
     try:
         feed = feedparser.parse(url)
         for e in feed.entries:
@@ -30,12 +36,12 @@ for name, cid in CHANNELS:
             if not any(k in title for k in KEYWORDS):
                 continue
             videos.append({
-                "channel": name,
+                "channel": CHANNEL_NAMES[key],
                 "title": title,
                 "link": e.get("link", "")
             })
     except Exception as ex:
-        print(f"채널 오류 {name}: {ex}")
+        print("channel error: " + str(ex))
 
 client = Anthropic()
 briefing_data = {
@@ -49,4 +55,29 @@ briefing_data = {
 }
 
 if videos:
-    vid_text = "\n".join(f"[{v['channel']}] {v['title']
+    lines = []
+    for v in videos:
+        lines.append("[" + v["channel"] + "] " + v["title"])
+    vid_text = "\n".join(lines)
+
+    prompt = "부동산 유튜브 영상 목록:\n" + vid_text + "\n\n"
+    prompt += "각 영상을 JSON 배열로만 반환하세요. 다른 텍스트 없이 JSON만.\n"
+    prompt += '[{"channel":"채널명","title":"핵심내용 1줄","relevance":"긍정 또는 중립 또는 주의"}]'
+
+    resp = client.messages.create(
+        model="claude-sonnet-4-6",
+        max_tokens=500,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    text = "".join(b.text for b in resp.content if b.type == "text")
+    try:
+        match = re.search(r'\[.*\]', text, re.DOTALL)
+        if match:
+            briefing_data["videos"] = json.loads(match.group())
+    except Exception as ex:
+        print("json error: " + str(ex))
+
+with open('briefing.json', 'w', encoding='utf-8') as f:
+    json.dump(briefing_data, f, ensure_ascii=False, indent=2)
+
+print("done: " + str(len(briefing_data["videos"])) + " videos")
