@@ -1,0 +1,11 @@
+{
+  "name": "realestate-briefing",
+  "version": "1.0.0",
+  "description": "부동산 시장 브리핑 웹앱",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["realestate", "briefing", "korea"],
+  "author": "Seank",
+  "license": "MIT"
+}
