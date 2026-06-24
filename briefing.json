@@ -1,7 +1,35 @@
 {
-  "date": "2026.06.23",
+  "date": "2026.06.24",
   "data_month": "2026년 05월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "'내 가난을 아이에게 물려주고 싶지 않아요' (구해줘월부 부동산 상담)",
+      "link": "https://www.youtube.com/watch?v=kamMq0pBqEE",
+      "pub_ts": 1782338439.0,
+      "pub_date": "06/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "모두가 7월을 기다리고 있어요, 부동산 시장 난리날 겁니다",
+      "link": "https://www.youtube.com/watch?v=9-xYshbV5cI",
+      "pub_ts": 1782298820.0,
+      "pub_date": "06/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "이제 집 사고 싶어도 못 산다? 앞으로 대출 이만큼 줄어들 겁니다 [플팩 강연옥 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=5oAPey6aWOA",
+      "pub_ts": 1782295239.0,
+      "pub_date": "06/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "새 정책 벌써 검토 끝났다? 하반기 집값 이렇게 됩니다 [박원갑 위원 2부]",
+      "link": "https://www.youtube.com/watch?v=axErEVhjueQ",
+      "pub_ts": 1782291630.0,
+      "pub_date": "06/24"
+    },
     {
       "channel": "부읽남TV",
       "title": "경기도 신축 vs 서울 구축, 10년 뒤 승자는 '이곳'입니다 [망고쌤]",
@@ -36,20 +64,6 @@
       "link": "https://www.youtube.com/watch?v=641ZAdx-Rxo",
       "pub_ts": 1782126043.0,
       "pub_date": "06/22"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "앞으로 4년 집값 문재인 정부 압축판일 겁니다 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/2Mr-nEYMHuo",
-      "pub_ts": 1782081009.0,
-      "pub_date": "06/21"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 경기도 소액 '이곳' 사세요, 앞으로 인생이 바뀔 겁니다 [망고쌤 4부]",
-      "link": "https://www.youtube.com/watch?v=dZKXw5C30lQ",
-      "pub_ts": 1782039617.0,
-      "pub_date": "06/21"
     },
     {
       "channel": "월급쟁이부자들TV",
