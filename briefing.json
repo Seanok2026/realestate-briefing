@@ -1,7 +1,21 @@
 {
-  "date": "2026.06.24",
+  "date": "2026.06.25",
   "data_month": "2026년 05월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "'12년 투자하면서 이런 상황은 진짜 처음봅니다' (주간머니이슈)",
+      "link": "https://www.youtube.com/watch?v=bJJYPnrZ8JM",
+      "pub_ts": 1782424804.0,
+      "pub_date": "06/25"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "보유세 양도세 다 올린다, 집값은 이렇게 됩니다",
+      "link": "https://www.youtube.com/watch?v=aYDZILpLzC8",
+      "pub_ts": 1782385229.0,
+      "pub_date": "06/25"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "'내 가난을 아이에게 물려주고 싶지 않아요' (구해줘월부 부동산 상담)",
@@ -57,13 +71,6 @@
       "link": "https://www.youtube.com/shorts/bTR8tjrkRjk",
       "pub_ts": 1782194410.0,
       "pub_date": "06/23"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "부동산에 선전포고한 정부, 7월부터 집값 이렇게 됩니다 [망고쌤 풀버전]",
-      "link": "https://www.youtube.com/watch?v=641ZAdx-Rxo",
-      "pub_ts": 1782126043.0,
-      "pub_date": "06/22"
     },
     {
       "channel": "월급쟁이부자들TV",
