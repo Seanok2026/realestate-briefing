@@ -3,7 +3,6 @@ import json
 import re
 import datetime as dt
 import urllib.request
-import urllib.parse
 import feedparser
 
 MOLIT_API_KEY = os.environ.get("MOLIT_API_KEY", "")
@@ -19,11 +18,9 @@ SEOUL_DISTRICTS = {
 }
 
 def get_apt_trades(region_code, ym):
-    base = "https://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"
-    encoded_key = urllib.parse.quote(MOLIT_API_KEY, safe="")
     full_url = (
-        base
-        + "?serviceKey=" + encoded_key
+        "https://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"
+        "?serviceKey=" + MOLIT_API_KEY
         + "&LAWD_CD=" + region_code
         + "&DEAL_YMD=" + ym
         + "&numOfRows=100&pageNo=1"
@@ -31,10 +28,7 @@ def get_apt_trades(region_code, ym):
     try:
         with urllib.request.urlopen(full_url, timeout=10) as resp:
             data = resp.read().decode("utf-8")
-        items = re.findall(r"<item>(.*?)</item>", data, re.DOTALL)
-        trades = []
-        for item in items:
-            def g(tag):
+        items = re.find            def g(tag):
                 m = re.search(r"<" + tag + r">\s*(.*?)\s*</" + tag + r">", item)
                 return m.group(1).strip() if m else ""
             try:
