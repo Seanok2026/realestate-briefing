@@ -19,7 +19,7 @@ SEOUL_DISTRICTS = {
 }
 
 def get_apt_trades(region_code, ym):
-    base = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTrade/getRTMSDataSvcAptTrade"
+    base = "https://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"
     encoded_key = urllib.parse.quote(MOLIT_API_KEY, safe="")
     full_url = (
         base
