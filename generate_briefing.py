@@ -5,7 +5,7 @@ import datetime as dt
 import urllib.request
 import feedparser
 
-MOLIT_API_KEY = os.environ.get("MOLIT_API_KEY", "")
+MOLIT_API_KEY = "ee8883447c4d8c05d973af02950c6285b930073d7cb5bbd0a4a19443ae950e9a"
 
 SEOUL_DISTRICTS = {
     "강남구": "11680", "강동구": "11740", "강북구": "11305", "강서구": "11500",
