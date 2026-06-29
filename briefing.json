@@ -4,6 +4,20 @@
   "videos": [
     {
       "channel": "부읽남TV",
+      "title": "서울 경기도 '여기' 주목하세요, 지금이 마지막 저점입니다 [윤지해 랩장 4부]",
+      "link": "https://www.youtube.com/watch?v=bR3A8mt5irg",
+      "pub_ts": 1782723628.0,
+      "pub_date": "06/29"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "언론은 '이걸' 보도 안해요, 지금 부동산 시장 이렇습니다 [박원갑 위원 풀버전]",
+      "link": "https://www.youtube.com/watch?v=IJ9gA-H8Mfc",
+      "pub_ts": 1782720012.0,
+      "pub_date": "06/29"
+    },
+    {
+      "channel": "부읽남TV",
       "title": "서울 부동산 완전히 돌아섰다, 집값 '이때까지' 무서울 겁니다 [홍춘욱 대표 3부]",
       "link": "https://www.youtube.com/watch?v=vxbn_zVVbf8",
       "pub_ts": 1782633610.0,
@@ -15,13 +29,6 @@
       "link": "https://www.youtube.com/watch?v=WrIin0QHNkk",
       "pub_ts": 1782608425.0,
       "pub_date": "06/28"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "갭투자 집사고 싶은데 부모님이 절대 반대합니다",
-      "link": "https://www.youtube.com/watch?v=svZhtdPBFBU",
-      "pub_ts": 1782558031.0,
-      "pub_date": "06/27"
     },
     {
       "channel": "부읽남TV",
