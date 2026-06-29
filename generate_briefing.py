@@ -19,23 +19,23 @@ SEOUL_DISTRICTS = {
 }
 
 def get_apt_trades(region_code, ym):
-    url = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTrade/getRTMSDataSvcAptTrade"
-   params = {
-        "serviceKey": urllib.parse.quote(MOLIT_API_KEY, safe=''),
-        "LAWD_CD": region_code,
-        "DEAL_YMD": ym,
-        "numOfRows": "100",
-        "pageNo": "1"
-    }
+    base = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTrade/getRTMSDataSvcAptTrade"
+    encoded_key = urllib.parse.quote(MOLIT_API_KEY, safe="")
+    full_url = (
+        base
+        + "?serviceKey=" + encoded_key
+        + "&LAWD_CD=" + region_code
+        + "&DEAL_YMD=" + ym
+        + "&numOfRows=100&pageNo=1"
+    )
     try:
-        full_url = url + "?" + urllib.parse.urlencode(params)
         with urllib.request.urlopen(full_url, timeout=10) as resp:
             data = resp.read().decode("utf-8")
-        items = re.findall(r'<item>(.*?)</item>', data, re.DOTALL)
+        items = re.findall(r"<item>(.*?)</item>", data, re.DOTALL)
         trades = []
         for item in items:
             def g(tag):
-                m = re.search(r'<' + tag + r'>\s*(.*?)\s*</' + tag + r'>', item)
+                m = re.search(r"<" + tag + r">\s*(.*?)\s*</" + tag + r">", item)
                 return m.group(1).strip() if m else ""
             try:
                 price = int(g("dealAmount").replace(",", ""))
@@ -76,7 +76,9 @@ def analyze_seoul(ym):
     sorted_up = sorted(district_summary.items(), key=lambda x: x[1]["avg"], reverse=True)
     top5 = sorted_up[:5]
     top_trades = sorted(all_trades, key=lambda x: x["price"], reverse=True)[:5]
-    songpa_trades = [t for t in all_trades if t.get("dong","") in ["신천동","잠실동","문정동","가락동","송파동","방이동","오금동","거여동","마천동"]]
+    songpa_trades = [t for t in all_trades if t.get("dong", "") in [
+        "신천동", "잠실동", "문정동", "가락동", "송파동", "방이동", "오금동", "거여동", "마천동"
+    ]]
     return {
         "total_count": len(all_trades),
         "total_districts": len(district_summary),
@@ -148,7 +150,7 @@ briefing_data = {
     "daily_check": "송파 30평대 신축 17~18억 형성 → 매수 타이밍 및 대출한도 점검 권장"
 }
 
-with open('briefing.json', 'w', encoding='utf-8') as f:
+with open("briefing.json", "w", encoding="utf-8") as f:
     json.dump(briefing_data, f, ensure_ascii=False, indent=2)
 
 print("완료: 서울 " + str(summary.get("total_count", 0)) + "건, 영상 " + str(len(videos)) + "건")
