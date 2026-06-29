@@ -28,7 +28,10 @@ def get_apt_trades(region_code, ym):
     try:
         with urllib.request.urlopen(full_url, timeout=10) as resp:
             data = resp.read().decode("utf-8")
-        items = re.find            def g(tag):
+        items = re.findall(r"<item>(.*?)</item>", data, re.DOTALL)
+        trades = []
+        for item in items:
+            def g(tag):
                 m = re.search(r"<" + tag + r">\s*(.*?)\s*</" + tag + r">", item)
                 return m.group(1).strip() if m else ""
             try:
