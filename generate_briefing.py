@@ -20,8 +20,8 @@ SEOUL_DISTRICTS = {
 
 def get_apt_trades(region_code, ym):
     url = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTrade/getRTMSDataSvcAptTrade"
-    params = {
-        "serviceKey": MOLIT_API_KEY,
+   params = {
+        "serviceKey": urllib.parse.quote(MOLIT_API_KEY, safe=''),
         "LAWD_CD": region_code,
         "DEAL_YMD": ym,
         "numOfRows": "100",
