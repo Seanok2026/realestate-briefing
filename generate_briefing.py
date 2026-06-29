@@ -151,4 +151,4 @@ briefing_data = {
 with open('briefing.json', 'w', encoding='utf-8') as f:
     json.dump(briefing_data, f, ensure_ascii=False, indent=2)
 
-print("완료: 서울 " + str(summary.get("total_count", 0)) + "건, 영상 " + str(le
+print("완료: 서울 " + str(summary.get("total_count", 0)) + "건, 영상 " + str(len(videos)) + "건")
