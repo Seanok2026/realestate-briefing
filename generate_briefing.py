@@ -19,7 +19,7 @@ SEOUL_DISTRICTS = {
 }
 
 def get_apt_trades(region_code, ym):
-    url = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"
+    url = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTrade/getRTMSDataSvcAptTrade"
     params = {
         "serviceKey": MOLIT_API_KEY,
         "LAWD_CD": region_code,
@@ -86,7 +86,6 @@ def analyze_seoul(ym):
         "songpa_avg": sum(t["price"] for t in songpa_trades) // max(len(songpa_trades), 1)
     }, all_trades
 
-# 유튜브 RSS (Claude 요약 없이 직접 표시 - 비용 $0)
 CHANNELS = [
     ("월급쟁이부자들TV", "UCDSj40X9FFUAnx1nv7gQhcA"),
     ("부읽남TV", "UC2QeHNJFfuQWB4cy3M-745g"),
@@ -124,7 +123,6 @@ for name, cid in CHANNELS:
 videos = sorted(videos, key=lambda x: x.get("pub_ts", 0), reverse=True)[:15]
 print("유튜브 영상: " + str(len(videos)) + "건")
 
-# 실거래가
 today = dt.date.today()
 ym = today.strftime("%Y%m")
 prev_ym = (today.replace(day=1) - dt.timedelta(days=1)).strftime("%Y%m")
@@ -153,4 +151,4 @@ briefing_data = {
 with open('briefing.json', 'w', encoding='utf-8') as f:
     json.dump(briefing_data, f, ensure_ascii=False, indent=2)
 
-print("완료: 서울 " + str(summary.get("total_count", 0)) + "건, 영상 " + str(len(videos)) + "건")
+print("완료: 서울 " + str(summary.get("total_count", 0)) + "건, 영상 " + str(le
