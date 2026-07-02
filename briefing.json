@@ -1,7 +1,28 @@
 {
-  "date": "2026.07.01",
+  "date": "2026.07.02",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "'부동산 규제 지역 추가 지정' 앞으로 부동산 이렇게 됩니다. (너나위의 주간머니이슈)",
+      "link": "https://www.youtube.com/watch?v=L8bMoCu9T5w",
+      "pub_ts": 1783029618.0,
+      "pub_date": "07/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"다음은 세금 인상입니다\" 증세의 시대, 집값 이렇게 된다",
+      "link": "https://www.youtube.com/watch?v=3hheT10Svbk",
+      "pub_ts": 1782990020.0,
+      "pub_date": "07/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "전세의 월세화는 정상화 과정? 앞으로 부동산 시장에 벌어질 일들 [김준영 소장 3부]",
+      "link": "https://www.youtube.com/watch?v=CZCU8Si00gI",
+      "pub_ts": 1782975606.0,
+      "pub_date": "07/02"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "'은퇴 전 마지막 기회인데..진짜 매매가 가장 좋은 선택일까요?' (구해줘월부 사연)",
@@ -18,14 +39,14 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "\"솔직히 말씀드릴게요\" 앞으로 전국 집값 이렇게 됩니다 [김준영 소장 2부]",
+      "title": "전국 부동산 시장 앞으로 이렇게 됩니다 [김준영 소장 2부]",
       "link": "https://www.youtube.com/watch?v=EE7bw9tWkm8",
       "pub_ts": 1782896407.0,
       "pub_date": "07/01"
     },
     {
       "channel": "부읽남TV",
-      "title": "부동산에 선전포고한 정부, 앞으로 집값 이렇게 됩니다 [윤지해 랩장 풀버전]",
+      "title": "아무도 짐작 못한 부동산 정책, 앞으로 집값 더 무서워집니다 [윤지해 랩장 풀버전]",
       "link": "https://www.youtube.com/watch?v=uU1x4vZ3pwA",
       "pub_ts": 1782889202.0,
       "pub_date": "07/01"
@@ -52,34 +73,6 @@
       "pub_date": "06/30"
     },
     {
-      "channel": "부읽남TV",
-      "title": "언론이 숨기는 집값의 실체, 지금 서울 집값에 속지 마세요 [박원갑 위원]",
-      "link": "https://www.youtube.com/shorts/PXd3CbojzX8",
-      "pub_ts": 1782788405.0,
-      "pub_date": "06/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "1년에 1억 모아도 '집' 못 사는 이유, 집값 오르는 속도 '이렇게' 됩니다 [윤지해 랩장]",
-      "link": "https://www.youtube.com/shorts/pbuRPBBKdLU",
-      "pub_ts": 1782772236.0,
-      "pub_date": "06/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 경기도 '여기' 주목하세요, 지금이 마지막 저점입니다 [윤지해 랩장 4부]",
-      "link": "https://www.youtube.com/watch?v=bR3A8mt5irg",
-      "pub_ts": 1782723628.0,
-      "pub_date": "06/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "언론은 '이걸' 보도 안해요, 지금 부동산 시장 이렇습니다 [박원갑 위원 풀버전]",
-      "link": "https://www.youtube.com/watch?v=IJ9gA-H8Mfc",
-      "pub_ts": 1782720012.0,
-      "pub_date": "06/29"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "\"앞으로 한 달 남았다\" IMF 때부터 투자해왔지만, 이런 부동산 시장은 처음 봅니다 (40년차 투자자 아기곰)",
       "link": "https://www.youtube.com/watch?v=UJmT8aqr8BI",
@@ -99,104 +92,97 @@
       "link": "https://www.youtube.com/watch?v=kamMq0pBqEE",
       "pub_ts": 1782338439.0,
       "pub_date": "06/24"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"남편만 믿고 이사했는데.. 너무 후회됩니다.\" 연봉 1억도 가난해지는 이유 (구해줘월부 부동산 사연)",
-      "link": "https://www.youtube.com/watch?v=cZF1NNnzBos",
-      "pub_ts": 1781733619.0,
-      "pub_date": "06/17"
     }
   ],
   "market": {
-    "total_count": 6,
-    "total_districts": 6,
+    "total_count": 28,
+    "total_districts": 12,
     "top5_districts": [
       [
-        "관악구",
+        "영등포구",
         {
-          "count": 1,
-          "avg": 116000,
-          "max_price": 116000,
-          "max_name": "봉천동아"
+          "count": 2,
+          "avg": 189750,
+          "max_price": 243500,
+          "max_name": "당산센트럴아이파크"
         }
       ],
       [
-        "중랑구",
+        "서대문구",
         {
-          "count": 1,
-          "avg": 80000,
-          "max_price": 80000,
-          "max_name": "건영2차아파트"
+          "count": 3,
+          "avg": 130166,
+          "max_price": 197000,
+          "max_name": "힐스테이트신촌"
         }
       ],
       [
         "양천구",
         {
-          "count": 1,
-          "avg": 70000,
-          "max_price": 70000,
-          "max_name": "푸른마을2"
+          "count": 2,
+          "avg": 94500,
+          "max_price": 119000,
+          "max_name": "롯데캐슬"
+        }
+      ],
+      [
+        "관악구",
+        {
+          "count": 3,
+          "avg": 93166,
+          "max_price": 116000,
+          "max_name": "봉천동아"
         }
       ],
       [
         "구로구",
         {
-          "count": 1,
-          "avg": 62000,
-          "max_price": 62000,
-          "max_name": "센츄리"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 1,
-          "avg": 59500,
-          "max_price": 59500,
-          "max_name": "테라펠리체송파"
+          "count": 4,
+          "avg": 80800,
+          "max_price": 109000,
+          "max_name": "신도림롯데아파트"
         }
       ]
     ],
     "top5_trades": [
+      {
+        "name": "당산센트럴아이파크",
+        "dong": "당산동5가",
+        "area": 84.98,
+        "price": 243500,
+        "floor": "17",
+        "date": "2026.07.01"
+      },
+      {
+        "name": "힐스테이트신촌",
+        "dong": "북아현동",
+        "area": 84.9715,
+        "price": 197000,
+        "floor": "15",
+        "date": "2026.07.01"
+      },
+      {
+        "name": "양평한신",
+        "dong": "양평동5가",
+        "area": 59.94,
+        "price": 136000,
+        "floor": "15",
+        "date": "2026.07.01"
+      },
+      {
+        "name": "롯데캐슬",
+        "dong": "신월동",
+        "area": 84.984,
+        "price": 119000,
+        "floor": "13",
+        "date": "2026.07.01"
+      },
       {
         "name": "봉천동아",
         "dong": "봉천동",
         "area": 114.69,
         "price": 116000,
         "floor": "1",
-        "date": "2026.07.01"
-      },
-      {
-        "name": "건영2차아파트",
-        "dong": "상봉동",
-        "area": 84.96,
-        "price": 80000,
-        "floor": "20",
-        "date": "2026.07.01"
-      },
-      {
-        "name": "푸른마을2",
-        "dong": "신정동",
-        "area": 59.99,
-        "price": 70000,
-        "floor": "5",
-        "date": "2026.07.01"
-      },
-      {
-        "name": "센츄리",
-        "dong": "고척동",
-        "area": 84.56,
-        "price": 62000,
-        "floor": "1",
-        "date": "2026.07.01"
-      },
-      {
-        "name": "테라펠리체송파",
-        "dong": "가락동",
-        "area": 29.1078,
-        "price": 59500,
-        "floor": "5",
         "date": "2026.07.01"
       }
     ],
