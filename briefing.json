@@ -1,7 +1,21 @@
 {
-  "date": "2026.07.03",
+  "date": "2026.07.04",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "동탄 전세 살고 있어요, 저희 이제 어찌해야 하나요",
+      "link": "https://www.youtube.com/watch?v=ihuEHAD24lI",
+      "pub_ts": 1783162822.0,
+      "pub_date": "07/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "그동안 7억 오른 이 지역 \"죄송하지만 오래 못 갑니다\" (40년차 투자자 아기곰)",
+      "link": "https://www.youtube.com/watch?v=M9ShQBnNpt0",
+      "pub_ts": 1783119624.0,
+      "pub_date": "07/03"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "'부동산 규제 지역 추가 지정' 앞으로 부동산 이렇게 됩니다. (너나위의 주간머니이슈)",
@@ -28,20 +42,6 @@
       "title": "'은퇴 전 마지막 기회인데..진짜 매매가 가장 좋은 선택일까요?' (구해줘월부 사연)",
       "link": "https://www.youtube.com/watch?v=AR3r_ks1tMM",
       "pub_ts": 1782943221.0,
-      "pub_date": "07/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "부동산 추가 규제 나왔다, 앞으로 집값 이렇게 됩니다",
-      "link": "https://www.youtube.com/watch?v=pDBAulzSKzk",
-      "pub_ts": 1782903631.0,
-      "pub_date": "07/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"최악의 상황이 올 겁니다\" 전국 집값 이렇게 됩니다 [김준영 소장 2부]",
-      "link": "https://www.youtube.com/watch?v=EE7bw9tWkm8",
-      "pub_ts": 1782896407.0,
       "pub_date": "07/01"
     },
     {
@@ -74,7 +74,7 @@
     }
   ],
   "market": {
-    "total_count": 62,
+    "total_count": 64,
     "total_districts": 19,
     "top5_districts": [
       [
