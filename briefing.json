@@ -1,13 +1,13 @@
 {
-  "date": "2026.07.05",
+  "date": "2026.07.06",
   "data_month": "2026년 07월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "동탄 전세 살고 있어요, 저희 이제 어찌해야 하나요",
-      "link": "https://www.youtube.com/watch?v=ihuEHAD24lI",
-      "pub_ts": 1783162822.0,
-      "pub_date": "07/04"
+      "title": "\"도저히 막을 수 없습니다\" 집값 상승하는 진짜 이유 [김준영 소장 풀버전]",
+      "link": "https://www.youtube.com/watch?v=06_9Op9qrEw",
+      "pub_ts": 1783324810.0,
+      "pub_date": "07/06"
     },
     {
       "channel": "부읽남TV",
@@ -28,13 +28,6 @@
       "title": "'부동산 규제 지역 추가 지정' 앞으로 부동산 이렇게 됩니다. (너나위의 주간머니이슈)",
       "link": "https://www.youtube.com/watch?v=L8bMoCu9T5w",
       "pub_ts": 1783029618.0,
-      "pub_date": "07/02"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "정부 충격적인 규제 발표했다, 앞으로 부동산 시장에 벌어질 일들",
-      "link": "https://www.youtube.com/watch?v=3hheT10Svbk",
-      "pub_ts": 1782990020.0,
       "pub_date": "07/02"
     },
     {
@@ -74,8 +67,8 @@
     }
   ],
   "market": {
-    "total_count": 67,
-    "total_districts": 19,
+    "total_count": 148,
+    "total_districts": 20,
     "top5_districts": [
       [
         "서초구",
@@ -87,37 +80,37 @@
         }
       ],
       [
-        "동작구",
+        "광진구",
         {
-          "count": 1,
-          "avg": 227000,
-          "max_price": 227000,
-          "max_name": "e편한세상상도노빌리티"
+          "count": 2,
+          "avg": 211000,
+          "max_price": 290000,
+          "max_name": "더샵스타시티"
         }
       ],
       [
         "영등포구",
         {
-          "count": 3,
-          "avg": 176166,
+          "count": 5,
+          "avg": 160560,
           "max_price": 243500,
           "max_name": "당산센트럴아이파크"
         }
       ],
       [
-        "종로구",
+        "동작구",
         {
-          "count": 1,
-          "avg": 160000,
-          "max_price": 160000,
-          "max_name": "인왕산아이파크"
+          "count": 5,
+          "avg": 133000,
+          "max_price": 227000,
+          "max_name": "e편한세상상도노빌리티"
         }
       ],
       [
         "송파구",
         {
-          "count": 5,
-          "avg": 139780,
+          "count": 6,
+          "avg": 123316,
           "max_price": 219000,
           "max_name": "가락(1차)쌍용아파트"
         }
@@ -131,6 +124,14 @@
         "price": 330000,
         "floor": "23",
         "date": "2026.07.02"
+      },
+      {
+        "name": "더샵스타시티",
+        "dong": "자양동",
+        "area": 163.53,
+        "price": 290000,
+        "floor": "44",
+        "date": "2026.07.06"
       },
       {
         "name": "당산센트럴아이파크",
@@ -155,18 +156,10 @@
         "price": 219000,
         "floor": "17",
         "date": "2026.07.02"
-      },
-      {
-        "name": "힐스테이트신촌",
-        "dong": "북아현동",
-        "area": 84.9715,
-        "price": 197000,
-        "floor": "15",
-        "date": "2026.07.01"
       }
     ],
-    "songpa_count": 5,
-    "songpa_avg": 139780
+    "songpa_count": 6,
+    "songpa_avg": 123316
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
