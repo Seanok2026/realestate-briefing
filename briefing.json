@@ -1,7 +1,35 @@
 {
-  "date": "2026.07.08",
+  "date": "2026.07.09",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"1주택자에게 기회가 오고 있습니다\" 8월 이후 부동산 이렇게 됩니다",
+      "link": "https://www.youtube.com/watch?v=7PRgr93iRu8",
+      "pub_ts": 1783634439.0,
+      "pub_date": "07/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"규제할수록 더 오를 겁니다\" 집값, 두더지 잡기 게임 시작",
+      "link": "https://www.youtube.com/watch?v=fUnspwb6sxA",
+      "pub_ts": 1783594827.0,
+      "pub_date": "07/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 현장은 난리났어요, 부동산 시장 이렇게 됩니다 [제네시스박 1부]",
+      "link": "https://www.youtube.com/watch?v=trJ9efemDyc",
+      "pub_ts": 1783591229.0,
+      "pub_date": "07/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"다음은 세금 인상이다\" 증세의 시대, 집값 이렇게 됩니다 [송승현 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=1mqjvPsN6aY",
+      "pub_ts": 1783587617.0,
+      "pub_date": "07/09"
+    },
     {
       "channel": "부읽남TV",
       "title": "오히려 반대로 하고 있어요, OECD가 알려주는 집값 대책",
@@ -15,13 +43,6 @@
       "link": "https://www.youtube.com/watch?v=jNff3VMy7qU",
       "pub_ts": 1783422015.0,
       "pub_date": "07/07"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"도저히 막을 수 없습니다\" 집값 상승하는 진짜 이유 [김준영 소장 풀버전]",
-      "link": "https://www.youtube.com/watch?v=06_9Op9qrEw",
-      "pub_ts": 1783324810.0,
-      "pub_date": "07/06"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -57,35 +78,19 @@
       "link": "https://www.youtube.com/watch?v=UJmT8aqr8BI",
       "pub_ts": 1782514803.0,
       "pub_date": "06/26"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "'12년 투자하면서 이런 상황은 진짜 처음봅니다' (주간머니이슈)",
-      "link": "https://www.youtube.com/watch?v=bJJYPnrZ8JM",
-      "pub_ts": 1782424804.0,
-      "pub_date": "06/25"
     }
   ],
   "market": {
-    "total_count": 357,
+    "total_count": 457,
     "total_districts": 24,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 7,
-          "avg": 174771,
-          "max_price": 390000,
-          "max_name": "개포래미안포레스트"
-        }
-      ],
-      [
-        "광진구",
-        {
-          "count": 4,
-          "avg": 166750,
-          "max_price": 290000,
-          "max_name": "더샵스타시티"
+          "count": 11,
+          "avg": 184354,
+          "max_price": 410000,
+          "max_name": "롯데캐슬프레미어"
         }
       ],
       [
@@ -98,25 +103,42 @@
         }
       ],
       [
+        "광진구",
+        {
+          "count": 5,
+          "avg": 163200,
+          "max_price": 290000,
+          "max_name": "더샵스타시티"
+        }
+      ],
+      [
         "송파구",
         {
-          "count": 15,
-          "avg": 150780,
+          "count": 17,
+          "avg": 157158,
           "max_price": 299000,
           "max_name": "올림픽선수기자촌2단지"
         }
       ],
       [
-        "영등포구",
+        "양천구",
         {
-          "count": 13,
-          "avg": 123946,
-          "max_price": 243500,
-          "max_name": "당산센트럴아이파크"
+          "count": 36,
+          "avg": 129708,
+          "max_price": 335000,
+          "max_name": "목동신시가지13"
         }
       ]
     ],
     "top5_trades": [
+      {
+        "name": "롯데캐슬프레미어",
+        "dong": "삼성동",
+        "area": 122.485,
+        "price": 410000,
+        "floor": "20",
+        "date": "2026.07.02"
+      },
       {
         "name": "개포래미안포레스트",
         "dong": "개포동",
@@ -124,6 +146,14 @@
         "price": 390000,
         "floor": "27",
         "date": "2026.07.06"
+      },
+      {
+        "name": "목동신시가지13",
+        "dong": "신정동",
+        "area": 151.76,
+        "price": 335000,
+        "floor": "11",
+        "date": "2026.07.04"
       },
       {
         "name": "메이플자이",
@@ -140,26 +170,10 @@
         "price": 310000,
         "floor": "8",
         "date": "2026.07.04"
-      },
-      {
-        "name": "목동신시가지7",
-        "dong": "목동",
-        "area": 101.2,
-        "price": 300000,
-        "floor": "3",
-        "date": "2026.07.07"
-      },
-      {
-        "name": "올림픽선수기자촌2단지",
-        "dong": "방이동",
-        "area": 83.06,
-        "price": 299000,
-        "floor": "9",
-        "date": "2026.07.03"
       }
     ],
-    "songpa_count": 15,
-    "songpa_avg": 150780
+    "songpa_count": 17,
+    "songpa_avg": 157158
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
