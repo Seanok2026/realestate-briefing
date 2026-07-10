@@ -1,10 +1,24 @@
 {
-  "date": "2026.07.09",
+  "date": "2026.07.10",
   "data_month": "2026년 07월",
   "videos": [
     {
+      "channel": "부읽남TV",
+      "title": "당분간 주가 무서울 겁니다, 삼전닉스 꽉 잡으세요 [이창대 대표 풀버전]",
+      "link": "https://www.youtube.com/watch?v=YD_cRtDn_ck",
+      "pub_ts": 1783674028.0,
+      "pub_date": "07/10"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"실직 후 전업투자 해도 되나요?\" AI 때문에 실직되게 생겼습니다 [상남자들]",
+      "link": "https://www.youtube.com/watch?v=C3lBqzD1-iU",
+      "pub_ts": 1783670427.0,
+      "pub_date": "07/10"
+    },
+    {
       "channel": "월급쟁이부자들TV",
-      "title": "\"1주택자에게 기회가 오고 있습니다\" 8월 이후 부동산 이렇게 됩니다",
+      "title": "\"1주택자에게 기회가 오고 있습니다\" 8월 이후 부동산 이렇게 됩니다 (주간머니이슈 | 너나위)",
       "link": "https://www.youtube.com/watch?v=7PRgr93iRu8",
       "pub_ts": 1783634439.0,
       "pub_date": "07/09"
@@ -36,13 +50,6 @@
       "link": "https://www.youtube.com/watch?v=h30R2UN0MGI",
       "pub_ts": 1783508415.0,
       "pub_date": "07/08"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "부동산 충격 규제 나왔다, 앞으로 집값 이렇게 됩니다 [송승현 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=jNff3VMy7qU",
-      "pub_ts": 1783422015.0,
-      "pub_date": "07/07"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -81,52 +88,52 @@
     }
   ],
   "market": {
-    "total_count": 457,
-    "total_districts": 24,
+    "total_count": 570,
+    "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 11,
-          "avg": 184354,
+          "count": 14,
+          "avg": 189278,
           "max_price": 410000,
           "max_name": "롯데캐슬프레미어"
         }
       ],
       [
-        "종로구",
-        {
-          "count": 3,
-          "avg": 165000,
-          "max_price": 250000,
-          "max_name": "광화문스페이스본(101동~105동)"
-        }
-      ],
-      [
         "광진구",
         {
-          "count": 5,
-          "avg": 163200,
+          "count": 6,
+          "avg": 181000,
           "max_price": 290000,
           "max_name": "더샵스타시티"
         }
       ],
       [
-        "송파구",
+        "성동구",
         {
-          "count": 17,
-          "avg": 157158,
-          "max_price": 299000,
-          "max_name": "올림픽선수기자촌2단지"
+          "count": 4,
+          "avg": 173750,
+          "max_price": 261500,
+          "max_name": "서울숲리버뷰자이"
         }
       ],
       [
-        "양천구",
+        "송파구",
         {
-          "count": 36,
-          "avg": 129708,
-          "max_price": 335000,
-          "max_name": "목동신시가지13"
+          "count": 21,
+          "avg": 167033,
+          "max_price": 305000,
+          "max_name": "올림픽훼밀리타운"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 2,
+          "avg": 133500,
+          "max_price": 205000,
+          "max_name": "이촌코오롱(A)"
         }
       ]
     ],
@@ -172,8 +179,8 @@
         "date": "2026.07.04"
       }
     ],
-    "songpa_count": 17,
-    "songpa_avg": 157158
+    "songpa_count": 21,
+    "songpa_avg": 167033
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
