@@ -1,7 +1,21 @@
 {
-  "date": "2026.07.10",
+  "date": "2026.07.11",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "“모두가 7월을 걱정하고 있어요” 안타깝지만 집값 이렇게 됩니다 [제네시스박 2부]",
+      "link": "https://www.youtube.com/watch?v=G7xsn_NWYu4",
+      "pub_ts": 1783756822.0,
+      "pub_date": "07/11"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"이제 매매 전세 월세 함께 오른다\" 부동산 시장 더 불안해질 겁니다 [송승현 대표 3부]",
+      "link": "https://www.youtube.com/watch?v=zZMoxoo6KUY",
+      "pub_ts": 1783731633.0,
+      "pub_date": "07/11"
+    },
     {
       "channel": "부읽남TV",
       "title": "당분간 주가 무서울 겁니다, 삼전닉스 꽉 잡으세요 [이창대 대표 풀버전]",
@@ -88,7 +102,7 @@
     }
   ],
   "market": {
-    "total_count": 570,
+    "total_count": 574,
     "total_districts": 25,
     "top5_districts": [
       [
