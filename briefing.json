@@ -1,5 +1,5 @@
 {
-  "date": "2026.07.17",
+  "date": "2026.07.18",
   "data_month": "2026년 07월",
   "videos": [
     {
@@ -31,39 +31,11 @@
       "pub_date": "07/16"
     },
     {
-      "channel": "부읽남TV",
-      "title": "개인투자자 10명 중 9명은 '이 실수' 대문에 큰돈 잃습니다 [박정호 교수]",
-      "link": "https://www.youtube.com/shorts/UFBGH0o21wg",
-      "pub_ts": 1784170800.0,
-      "pub_date": "07/16"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "서울 아파트 가격 격차 줄어드는 진짜 이유",
       "link": "https://www.youtube.com/shorts/LGmYpnNBXNs",
       "pub_ts": 1784168210.0,
       "pub_date": "07/16"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "충격적 부동산 대책 나왔다, 부동산 앞으로 더 심각해진다",
-      "link": "https://www.youtube.com/watch?v=-WdwXoh4sng",
-      "pub_ts": 1784113206.0,
-      "pub_date": "07/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "이제 집 사고 싶어도 살 수가 없다, 앞으로 집값 이렇게 됩니다 [김건우 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=LJX4uvsMKmc",
-      "pub_ts": 1784109610.0,
-      "pub_date": "07/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "정확히 1년 안에 부동산 시장 이런 일들이 일어날 겁니다 [제네시스박 풀버전]",
-      "link": "https://www.youtube.com/watch?v=mr4asTtpjNI",
-      "pub_ts": 1784106001.0,
-      "pub_date": "07/15"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -81,7 +53,7 @@
     }
   ],
   "market": {
-    "total_count": 1255,
+    "total_count": 1267,
     "total_districts": 25,
     "top5_districts": [
       [
@@ -124,7 +96,7 @@
         "서초구",
         {
           "count": 34,
-          "avg": 155279,
+          "avg": 162161,
           "max_price": 900000,
           "max_name": "래미안원베일리"
         }
