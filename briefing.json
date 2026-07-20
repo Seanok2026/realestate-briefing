@@ -1,12 +1,33 @@
 {
-  "date": "2026.07.19",
+  "date": "2026.07.20",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "모두가 7월을 걱정하고 있어요, 부동산 시장 난리날 거예요 [메디테라 2부]",
+      "link": "https://www.youtube.com/watch?v=PK9dmj7g_wk",
+      "pub_ts": 1784541622.0,
+      "pub_date": "07/20"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "미국 물가 6년 만에 최저 드디어 금리 인하 신호탄?",
+      "link": "https://www.youtube.com/shorts/mo_8LCSQMEk",
+      "pub_ts": 1784515331.0,
+      "pub_date": "07/20"
+    },
     {
       "channel": "부읽남TV",
       "title": "전월세 씨가 말랐습니다, 앞으로 집값 이렇게 될 겁니다 [박정호 교수 4부]",
       "link": "https://www.youtube.com/watch?v=BlNF9G6h7yM",
       "pub_ts": 1784458839.0,
+      "pub_date": "07/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "안 가본 분들은 전혀 몰라요, 서울 넘어선 경기도 현장 분위기 [메디테라 1부]",
+      "link": "https://www.youtube.com/watch?v=4_yVYvQsd8U",
+      "pub_ts": 1784448010.0,
       "pub_date": "07/19"
     },
     {
@@ -21,13 +42,6 @@
       "title": "하루 아침에 반토막된 주택담보대출, 2026년 하반기 어떻게 대응해야 할까요? (#주간머니이슈)",
       "link": "https://www.youtube.com/watch?v=tq0eHhOyQ8Y",
       "pub_ts": 1784242820.0,
-      "pub_date": "07/16"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "정부 집값 잡기 성공한다? '이때' 되면 진짜 큰일입니다 [김건우 대표]",
-      "link": "https://www.youtube.com/shorts/kPVqppJGu80",
-      "pub_ts": 1784241035.0,
       "pub_date": "07/16"
     },
     {
@@ -46,14 +60,14 @@
     }
   ],
   "market": {
-    "total_count": 1270,
+    "total_count": 1447,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 37,
-          "avg": 324659,
+          "count": 39,
+          "avg": 331587,
           "max_price": 1125000,
           "max_name": "신현대12차"
         }
@@ -61,8 +75,8 @@
       [
         "용산구",
         {
-          "count": 8,
-          "avg": 227624,
+          "count": 9,
+          "avg": 240555,
           "max_price": 529998,
           "max_name": "래미안첼리투스"
         }
@@ -70,10 +84,10 @@
       [
         "성동구",
         {
-          "count": 21,
-          "avg": 185495,
-          "max_price": 261500,
-          "max_name": "서울숲리버뷰자이"
+          "count": 28,
+          "avg": 194746,
+          "max_price": 465000,
+          "max_name": "트리마제"
         }
       ],
       [
@@ -88,8 +102,8 @@
       [
         "송파구",
         {
-          "count": 50,
-          "avg": 175824,
+          "count": 54,
+          "avg": 175538,
           "max_price": 405700,
           "max_name": "주공아파트 5단지"
         }
@@ -137,8 +151,8 @@
         "date": "2026.07.06"
       }
     ],
-    "songpa_count": 43,
-    "songpa_avg": 176997
+    "songpa_count": 46,
+    "songpa_avg": 176386
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
