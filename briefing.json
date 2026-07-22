@@ -1,7 +1,28 @@
 {
-  "date": "2026.07.21",
+  "date": "2026.07.22",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"딱 일주일 남았다\" IMF 때부터 투자해왔지만, 이런 부동산 시장은 처음 봅니다 (40년차 투자자 아기곰 | 풀)",
+      "link": "https://www.youtube.com/watch?v=_wS5KySVtqc",
+      "pub_ts": 1784757613.0,
+      "pub_date": "07/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "삼전닉스 8월달에 정말 무서울 겁니다, 한 주라도 있다면 ‘이렇게’ 하세요 [이화진 차장 2부]",
+      "link": "https://www.youtube.com/watch?v=OOOAehvrmlk",
+      "pub_ts": 1784714410.0,
+      "pub_date": "07/22"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "외국인이 계속 파는 이유 모르면 당하는 투자 원칙",
+      "link": "https://www.youtube.com/shorts/pd1ECkmIXds",
+      "pub_ts": 1784694518.0,
+      "pub_date": "07/22"
+    },
     {
       "channel": "부읽남TV",
       "title": "\"모두가 7월 말을 걱정하고 있어요\" 부동산 시장 난리 날 겁니다 [이장원 세무사 1부]",
@@ -57,24 +78,17 @@
       "link": "https://www.youtube.com/shorts/LGmYpnNBXNs",
       "pub_ts": 1784168210.0,
       "pub_date": "07/16"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"1주택자에게 기회가 오고 있습니다\" 8월 이후 부동산 이렇게 됩니다 (주간머니이슈 | 너나위)",
-      "link": "https://www.youtube.com/watch?v=7PRgr93iRu8",
-      "pub_ts": 1783634439.0,
-      "pub_date": "07/09"
     }
   ],
   "market": {
-    "total_count": 1554,
+    "total_count": 1643,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 42,
-          "avg": 328973,
+          "count": 52,
+          "avg": 316353,
           "max_price": 1125000,
           "max_name": "신현대12차"
         }
@@ -91,8 +105,8 @@
       [
         "성동구",
         {
-          "count": 31,
-          "avg": 197093,
+          "count": 32,
+          "avg": 196990,
           "max_price": 465000,
           "max_name": "트리마제"
         }
@@ -100,8 +114,8 @@
       [
         "서초구",
         {
-          "count": 42,
-          "avg": 186345,
+          "count": 43,
+          "avg": 184802,
           "max_price": 900000,
           "max_name": "래미안원베일리"
         }
@@ -109,8 +123,8 @@
       [
         "송파구",
         {
-          "count": 69,
-          "avg": 180588,
+          "count": 72,
+          "avg": 177362,
           "max_price": 405700,
           "max_name": "주공아파트 5단지"
         }
@@ -158,8 +172,8 @@
         "date": "2026.07.06"
       }
     ],
-    "songpa_count": 59,
-    "songpa_avg": 182632
+    "songpa_count": 62,
+    "songpa_avg": 178787
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
