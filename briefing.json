@@ -1,7 +1,42 @@
 {
-  "date": "2026.07.22",
+  "date": "2026.07.23",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "대출 막히면 어때요. '근저당 잡고 집 팔면 되죠' (주간머니이슈 | 너나위)",
+      "link": "https://www.youtube.com/watch?v=K0hJsDJ9UC8",
+      "pub_ts": 1784844014.0,
+      "pub_date": "07/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"저희는 왜 대출 안 해주나요\" 매매,전세,월세 답 없는 무주택자들",
+      "link": "https://www.youtube.com/watch?v=0iIxgLqmKP4",
+      "pub_ts": 1784804422.0,
+      "pub_date": "07/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 개미들만 모르고 있어요, 삼전 앞으로 더 무서울 겁니다 [권영화 교수 1부]",
+      "link": "https://www.youtube.com/watch?v=fs8DBSgUKIw",
+      "pub_ts": 1784800822.0,
+      "pub_date": "07/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "현장은 지금 난리났어요, 하반기 부동산 시장 이렇게 될 거예요 [메디테라 풀버전]",
+      "link": "https://www.youtube.com/watch?v=uehuXJ9tKqo",
+      "pub_ts": 1784793620.0,
+      "pub_date": "07/23"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "집값 오를 수밖에 없어? 돈의 흐름을 읽는 기술",
+      "link": "https://www.youtube.com/shorts/dS9A9rJGA10",
+      "pub_ts": 1784782175.0,
+      "pub_date": "07/23"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"딱 일주일 남았다\" IMF 때부터 투자해왔지만, 이런 부동산 시장은 처음 봅니다 (40년차 투자자 아기곰 | 풀)",
@@ -59,36 +94,22 @@
       "pub_date": "07/19"
     },
     {
-      "channel": "부읽남TV",
-      "title": "단단히 꼬여버린 부동산 시장, 세금을 올려도 집값 못 잡는다 [김건우 대표 풀버전]",
-      "link": "https://www.youtube.com/watch?v=yMAyjaFSpmo",
-      "pub_ts": 1784430006.0,
-      "pub_date": "07/19"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "하루 아침에 반토막된 주택담보대출, 2026년 하반기 어떻게 대응해야 할까요? (#주간머니이슈)",
       "link": "https://www.youtube.com/watch?v=tq0eHhOyQ8Y",
       "pub_ts": 1784242820.0,
       "pub_date": "07/16"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "서울 아파트 가격 격차 줄어드는 진짜 이유",
-      "link": "https://www.youtube.com/shorts/LGmYpnNBXNs",
-      "pub_ts": 1784168210.0,
-      "pub_date": "07/16"
     }
   ],
   "market": {
-    "total_count": 1643,
+    "total_count": 1734,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 52,
-          "avg": 316353,
+          "count": 59,
+          "avg": 314066,
           "max_price": 1125000,
           "max_name": "신현대12차"
         }
@@ -96,17 +117,26 @@
       [
         "용산구",
         {
-          "count": 9,
-          "avg": 240555,
+          "count": 15,
+          "avg": 215699,
           "max_price": 529998,
           "max_name": "래미안첼리투스"
         }
       ],
       [
+        "송파구",
+        {
+          "count": 87,
+          "avg": 193805,
+          "max_price": 575000,
+          "max_name": "아시아선수촌아파트"
+        }
+      ],
+      [
         "성동구",
         {
-          "count": 32,
-          "avg": 196990,
+          "count": 37,
+          "avg": 189951,
           "max_price": 465000,
           "max_name": "트리마제"
         }
@@ -118,15 +148,6 @@
           "avg": 184802,
           "max_price": 900000,
           "max_name": "래미안원베일리"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 72,
-          "avg": 177362,
-          "max_price": 405700,
-          "max_name": "주공아파트 5단지"
         }
       ]
     ],
@@ -172,8 +193,8 @@
         "date": "2026.07.06"
       }
     ],
-    "songpa_count": 62,
-    "songpa_avg": 178787
+    "songpa_count": 73,
+    "songpa_avg": 197901
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
