@@ -1,7 +1,14 @@
 {
-  "date": "2026.07.26",
+  "date": "2026.07.27",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "집값 잡는 것보다 시급한 국민들의 진짜 속마음",
+      "link": "https://www.youtube.com/shorts/OXYOt3cSz-k",
+      "pub_ts": 1785151626.0,
+      "pub_date": "07/27"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"솔직히 놀랐습니다\" 이번 부동산 대토론회 보니 다음 부동산 세금 규제 방향이 보입니다 (구해줘월부 기사)",
@@ -57,24 +64,17 @@
       "link": "https://www.youtube.com/watch?v=_wS5KySVtqc",
       "pub_ts": 1784757613.0,
       "pub_date": "07/22"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "외국인이 계속 파는 이유 모르면 당하는 투자 원칙",
-      "link": "https://www.youtube.com/shorts/pd1ECkmIXds",
-      "pub_ts": 1784694518.0,
-      "pub_date": "07/22"
     }
   ],
   "market": {
-    "total_count": 1793,
+    "total_count": 1859,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 64,
-          "avg": 308264,
+          "count": 71,
+          "avg": 314238,
           "max_price": 1125000,
           "max_name": "신현대12차"
         }
@@ -82,26 +82,17 @@
       [
         "용산구",
         {
-          "count": 18,
-          "avg": 235722,
+          "count": 21,
+          "avg": 239357,
           "max_price": 529998,
           "max_name": "래미안첼리투스"
         }
       ],
       [
-        "송파구",
-        {
-          "count": 97,
-          "avg": 195207,
-          "max_price": 575000,
-          "max_name": "아시아선수촌아파트"
-        }
-      ],
-      [
         "성동구",
         {
-          "count": 37,
-          "avg": 189951,
+          "count": 45,
+          "avg": 191015,
           "max_price": 465000,
           "max_name": "트리마제"
         }
@@ -109,10 +100,19 @@
       [
         "서초구",
         {
-          "count": 43,
-          "avg": 184802,
+          "count": 45,
+          "avg": 189077,
           "max_price": 900000,
           "max_name": "래미안원베일리"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 100,
+          "avg": 187930,
+          "max_price": 575000,
+          "max_name": "아시아선수촌아파트"
         }
       ]
     ],
@@ -158,8 +158,8 @@
         "date": "2026.07.06"
       }
     ],
-    "songpa_count": 82,
-    "songpa_avg": 199156
+    "songpa_count": 86,
+    "songpa_avg": 189479
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
