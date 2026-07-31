@@ -1,7 +1,28 @@
 {
-  "date": "2026.07.30",
+  "date": "2026.07.31",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "대출 규제해도 집값 신고가? 요즘 매수자들의 특이현상 [레오 김은진 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=xQs7zdU5RNo",
+      "pub_ts": 1785492033.0,
+      "pub_date": "07/31"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "주식과 부동산 결정적 차이 레버리지 쓰면 위험한 이유",
+      "link": "https://www.youtube.com/shorts/PGMrAjgOrTg",
+      "pub_ts": 1785465961.0,
+      "pub_date": "07/31"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "'12년 투자하면서 처음봅니다' 지금 현장은 완전 난리났어요 (#주간머니이슈)",
+      "link": "https://www.youtube.com/watch?v=W1Z-__tEV-U",
+      "pub_ts": 1785448820.0,
+      "pub_date": "07/30"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "5개월 만에 2억 상승 최고가인 아파트 사도 되나요?",
@@ -52,13 +73,6 @@
       "pub_date": "07/28"
     },
     {
-      "channel": "부읽남TV",
-      "title": "지금 개미들만 모르고 있어요, 삼전 앞으로 훨씬 무서울 겁니다 [권영화 교수 풀버전]",
-      "link": "https://www.youtube.com/watch?v=aQtg4zLTjjc",
-      "pub_ts": 1785225611.0,
-      "pub_date": "07/28"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "집값 잡는 것보다 시급한 국민들의 진짜 속마음",
       "link": "https://www.youtube.com/shorts/OXYOt3cSz-k",
@@ -74,14 +88,14 @@
     }
   ],
   "market": {
-    "total_count": 2031,
+    "total_count": 2072,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 92,
-          "avg": 321850,
+          "count": 98,
+          "avg": 317293,
           "max_price": 1125000,
           "max_name": "신현대12차"
         }
@@ -89,8 +103,8 @@
       [
         "용산구",
         {
-          "count": 37,
-          "avg": 243594,
+          "count": 41,
+          "avg": 237658,
           "max_price": 560000,
           "max_name": "시티파크(2단지)"
         }
@@ -99,7 +113,7 @@
         "송파구",
         {
           "count": 100,
-          "avg": 194220,
+          "avg": 197930,
           "max_price": 575000,
           "max_name": "아시아선수촌아파트"
         }
@@ -107,8 +121,8 @@
       [
         "서초구",
         {
-          "count": 46,
-          "avg": 193445,
+          "count": 49,
+          "avg": 190228,
           "max_price": 900000,
           "max_name": "래미안원베일리"
         }
@@ -116,8 +130,8 @@
       [
         "성동구",
         {
-          "count": 50,
-          "avg": 188604,
+          "count": 51,
+          "avg": 185523,
           "max_price": 465000,
           "max_name": "트리마제"
         }
@@ -166,7 +180,7 @@
       }
     ],
     "songpa_count": 89,
-    "songpa_avg": 197035
+    "songpa_avg": 201204
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
