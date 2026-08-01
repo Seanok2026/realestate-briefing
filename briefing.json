@@ -1,7 +1,28 @@
 {
-  "date": "2026.07.31",
+  "date": "2026.08.01",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "\"집값 오르는 게 무섭습니다\" 20대 내집마련 정말 답 없나요",
+      "link": "https://www.youtube.com/watch?v=TkoIR9aNhNE",
+      "pub_ts": 1785582017.0,
+      "pub_date": "08/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 사지도 팔지도 못하고 있어요, 부동산 시장 점점 더 꼬이는 이유 [레오 김은진 대표 3부]",
+      "link": "https://www.youtube.com/watch?v=pQWwC7JsITY",
+      "pub_ts": 1785571223.0,
+      "pub_date": "08/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "잔금 치르는 무주택자, '이 시기' 놓치면 대출 못 받습니다 [레오 김은진 대표]",
+      "link": "https://www.youtube.com/shorts/6ceMS0-mN9w",
+      "pub_ts": 1785544205.0,
+      "pub_date": "08/01"
+    },
     {
       "channel": "부읽남TV",
       "title": "대출 규제해도 집값 신고가? 요즘 매수자들의 특이현상 [레오 김은진 대표 2부]",
@@ -39,7 +60,7 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "\"제발 대출규제 좀 풀어주세요\" 지금 현장은 완전히 난리났어요 [레오 김은진 대표 1부]",
+      "title": "“다들 이건 잘 모르고 계세요” 실제 서울 경기도 현장 분위기 [레오 김은진 대표 1부]",
       "link": "https://www.youtube.com/watch?v=Tlr0yci_NkY",
       "pub_ts": 1785402038.0,
       "pub_date": "07/30"
@@ -66,13 +87,6 @@
       "pub_date": "07/28"
     },
     {
-      "channel": "부읽남TV",
-      "title": "집값 심상치 않을 겁니다, 무주택자 반드시 이렇게 하세요 [김인만 소장 풀버전]",
-      "link": "https://www.youtube.com/watch?v=BfqdxC0rU4Q",
-      "pub_ts": 1785229238.0,
-      "pub_date": "07/28"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "집값 잡는 것보다 시급한 국민들의 진짜 속마음",
       "link": "https://www.youtube.com/shorts/OXYOt3cSz-k",
@@ -88,7 +102,7 @@
     }
   ],
   "market": {
-    "total_count": 2072,
+    "total_count": 2071,
     "total_districts": 25,
     "top5_districts": [
       [
