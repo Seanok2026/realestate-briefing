@@ -1,20 +1,27 @@
 {
-  "date": "2026.08.02",
+  "date": "2026.08.03",
   "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "다음 규제 답안지 유출됐다. 동탄 다음 토허제 추가될 이 3곳을 기억하세요 (김시덕 1부)",
+      "link": "https://www.youtube.com/watch?v=-yk4XYT9Mq0",
+      "pub_ts": 1785794404.0,
+      "pub_date": "08/03"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "“다들 이건 잘 모르고 계세요” 실제 서울 경기도 현장 분위기 [레오 김은진 대표 풀버전]",
+      "link": "https://www.youtube.com/watch?v=JVefbuhgSh8",
+      "pub_ts": 1785747617.0,
+      "pub_date": "08/03"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"같은 돈으로 서울 30평대 살 수 있는데, 왜 경기도를 봐요?\" 오늘 다 떠먹여드릴게요. 앞으로 이런 아파트를 사야 합니다. (구해줘월부 사연)",
       "link": "https://www.youtube.com/watch?v=0rFWz0g7uxM",
       "pub_ts": 1785708030.0,
       "pub_date": "08/02"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"집값 오르는 게 무섭습니다\" 20대 내집마련 정말 답 없나요",
-      "link": "https://www.youtube.com/watch?v=TkoIR9aNhNE",
-      "pub_ts": 1785582017.0,
-      "pub_date": "08/01"
     },
     {
       "channel": "부읽남TV",
@@ -73,13 +80,6 @@
       "pub_date": "07/30"
     },
     {
-      "channel": "부읽남TV",
-      "title": "“다들 이건 잘 모르고 계세요” 실제 서울 경기도 현장 분위기 [레오 김은진 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=Tlr0yci_NkY",
-      "pub_ts": 1785402038.0,
-      "pub_date": "07/30"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "지금 서울에서 가장 많이 오른 지역 TOP4",
       "link": "https://www.youtube.com/shorts/cCYzR8imMMI",
@@ -109,26 +109,94 @@
     }
   ],
   "market": {
-    "total_count": 1,
-    "total_districts": 1,
+    "total_count": 20,
+    "total_districts": 14,
     "top5_districts": [
+      [
+        "강동구",
+        {
+          "count": 1,
+          "avg": 150000,
+          "max_price": 150000,
+          "max_name": "삼성광나루"
+        }
+      ],
+      [
+        "금천구",
+        {
+          "count": 1,
+          "avg": 130000,
+          "max_price": 130000,
+          "max_name": "금천롯데캐슬골드파크1차"
+        }
+      ],
       [
         "은평구",
         {
+          "count": 3,
+          "avg": 122666,
+          "max_price": 162000,
+          "max_name": "DMC파인시티자이"
+        }
+      ],
+      [
+        "강서구",
+        {
           "count": 1,
-          "avg": 48000,
-          "max_price": 48000,
-          "max_name": "한성산장"
+          "avg": 110000,
+          "max_price": 110000,
+          "max_name": "강변"
+        }
+      ],
+      [
+        "동대문구",
+        {
+          "count": 1,
+          "avg": 107500,
+          "max_price": 107500,
+          "max_name": "쌍용"
         }
       ]
     ],
     "top5_trades": [
       {
-        "name": "한성산장",
-        "dong": "구산동",
-        "area": 120.0,
-        "price": 48000,
-        "floor": "5",
+        "name": "DMC파인시티자이",
+        "dong": "수색동",
+        "area": 84.94,
+        "price": 162000,
+        "floor": "20",
+        "date": "2026.08.01"
+      },
+      {
+        "name": "DMC센트럴자이(2단지)",
+        "dong": "증산동",
+        "area": 59.97,
+        "price": 158000,
+        "floor": "9",
+        "date": "2026.08.02"
+      },
+      {
+        "name": "삼성광나루",
+        "dong": "암사동",
+        "area": 157.24,
+        "price": 150000,
+        "floor": "24",
+        "date": "2026.08.03"
+      },
+      {
+        "name": "금천롯데캐슬골드파크1차",
+        "dong": "독산동",
+        "area": 84.8114,
+        "price": 130000,
+        "floor": "31",
+        "date": "2026.08.01"
+      },
+      {
+        "name": "강변",
+        "dong": "가양동",
+        "area": 49.5,
+        "price": 110000,
+        "floor": "13",
         "date": "2026.08.01"
       }
     ],
