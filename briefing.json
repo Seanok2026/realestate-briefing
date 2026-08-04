@@ -1,7 +1,49 @@
 {
-  "date": "2026.08.03",
+  "date": "2026.08.04",
   "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"역세권 22평 vs 비역세권 34평\" 현장에선 의외로 '이 평수' 아파트가 오릅니다 (#자모의부동산기초)",
+      "link": "https://www.youtube.com/watch?v=5LkfwdxfFZI",
+      "pub_ts": 1785880813.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "이재명 부동산 정책 - 폭망할 수 밖에 없는 결정적 이유...",
+      "link": "https://www.youtube.com/watch?v=z4OXYXCCzAc",
+      "pub_ts": 1785876351.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울 팔고 경기도 간다니요? 같은 돈으로 서울 30평 사는 법",
+      "link": "https://www.youtube.com/shorts/Bfv2-JNVLlw",
+      "pub_ts": 1785844322.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "세제개편안 드디어 발표됐다, 집값 앞으로 이렇게 됩니다 [김제경 박사 1부]",
+      "link": "https://www.youtube.com/watch?v=FqNYOeUpGSc",
+      "pub_ts": 1785837637.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "충격적인 세제개편안 방향, 이제 집값은 이렇게 됩니다 [심형석 교수 1부]",
+      "link": "https://www.youtube.com/watch?v=FAcSFK5kqLg",
+      "pub_ts": 1785834004.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "문재인 정부와 소름돋게 닮았다, 안타깝지만 집값 이렇게 될 겁니다 [이현훈 교수 4부]",
+      "link": "https://www.youtube.com/watch?v=nsw76TKWA_I",
+      "pub_ts": 1785830405.0,
+      "pub_date": "08/04"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "다음 규제 답안지 유출됐다. 동탄 다음 토허제 추가될 이 3곳을 기억하세요 (김시덕 1부)",
@@ -25,31 +67,10 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "지금 사지도 팔지도 못하고 있어요, 부동산 시장 점점 더 꼬이는 이유 [레오 김은진 대표 3부]",
+      "title": "“집 팔았는데 새 집 대출 안 나와요” 이거 모르는 분들 진짜 큰일납니다 [레오 김은진 대표 3부]",
       "link": "https://www.youtube.com/watch?v=pQWwC7JsITY",
       "pub_ts": 1785571223.0,
       "pub_date": "08/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 개미들만 모르고 있어요, 삼성전자 앞으로 무서울 겁니다 [박준영 대표 풀버전]",
-      "link": "https://www.youtube.com/watch?v=8OmTVAqGZzc",
-      "pub_ts": 1785546006.0,
-      "pub_date": "08/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "잔금 치르는 무주택자, '이 시기' 놓치면 대출 못 받습니다 [레오 김은진 대표]",
-      "link": "https://www.youtube.com/shorts/6ceMS0-mN9w",
-      "pub_ts": 1785544205.0,
-      "pub_date": "08/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "이제 집 사기 더 힘들 거예요, 앞으로 부동산 시장 이렇게 됩니다 [레오 김은진 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=xQs7zdU5RNo",
-      "pub_ts": 1785492033.0,
-      "pub_date": "07/31"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -73,45 +94,35 @@
       "pub_date": "07/30"
     },
     {
-      "channel": "부읽남TV",
-      "title": "보유세 양도세 동시 인상, 세계 최고 수준 세금이 온다",
-      "link": "https://www.youtube.com/watch?v=NJ69orwB_aY",
-      "pub_ts": 1785409200.0,
-      "pub_date": "07/30"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "지금 서울에서 가장 많이 오른 지역 TOP4",
       "link": "https://www.youtube.com/shorts/cCYzR8imMMI",
       "pub_ts": 1785307949.0,
       "pub_date": "07/29"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"6억→13억.. 요즘 무서울만큼 올라요\" 매년 2억씩 오르는 구축 아파트의 특징 (#자모의부동산기초)",
-      "link": "https://www.youtube.com/watch?v=cWD6kDNYv2A",
-      "pub_ts": 1785276017.0,
-      "pub_date": "07/28"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "집값 잡는 것보다 시급한 국민들의 진짜 속마음",
-      "link": "https://www.youtube.com/shorts/OXYOt3cSz-k",
-      "pub_ts": 1785151626.0,
-      "pub_date": "07/27"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"솔직히 놀랐습니다\" 이번 부동산 대토론회 보니 다음 부동산 세금 규제 방향이 보입니다 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=wvoQU4lBYSU",
-      "pub_ts": 1785103211.0,
-      "pub_date": "07/26"
     }
   ],
   "market": {
-    "total_count": 20,
-    "total_districts": 14,
+    "total_count": 34,
+    "total_districts": 16,
     "top5_districts": [
+      [
+        "서초구",
+        {
+          "count": 1,
+          "avg": 354000,
+          "max_price": 354000,
+          "max_name": "반포르엘"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 1,
+          "avg": 187000,
+          "max_price": 187000,
+          "max_name": "CJ나인파크"
+        }
+      ],
       [
         "강동구",
         {
@@ -122,19 +133,10 @@
         }
       ],
       [
-        "금천구",
-        {
-          "count": 1,
-          "avg": 130000,
-          "max_price": 130000,
-          "max_name": "금천롯데캐슬골드파크1차"
-        }
-      ],
-      [
         "은평구",
         {
-          "count": 3,
-          "avg": 122666,
+          "count": 4,
+          "avg": 118875,
           "max_price": 162000,
           "max_name": "DMC파인시티자이"
         }
@@ -147,18 +149,25 @@
           "max_price": 110000,
           "max_name": "강변"
         }
-      ],
-      [
-        "동대문구",
-        {
-          "count": 1,
-          "avg": 107500,
-          "max_price": 107500,
-          "max_name": "쌍용"
-        }
       ]
     ],
     "top5_trades": [
+      {
+        "name": "반포르엘",
+        "dong": "잠원동",
+        "area": 59.9446,
+        "price": 354000,
+        "floor": "13",
+        "date": "2026.08.03"
+      },
+      {
+        "name": "CJ나인파크",
+        "dong": "문배동",
+        "area": 97.24,
+        "price": 187000,
+        "floor": "23",
+        "date": "2026.08.03"
+      },
       {
         "name": "DMC파인시티자이",
         "dong": "수색동",
@@ -182,22 +191,6 @@
         "price": 150000,
         "floor": "24",
         "date": "2026.08.03"
-      },
-      {
-        "name": "금천롯데캐슬골드파크1차",
-        "dong": "독산동",
-        "area": 84.8114,
-        "price": 130000,
-        "floor": "31",
-        "date": "2026.08.01"
-      },
-      {
-        "name": "강변",
-        "dong": "가양동",
-        "area": 49.5,
-        "price": 110000,
-        "floor": "13",
-        "date": "2026.08.01"
       }
     ],
     "songpa_count": 0,
