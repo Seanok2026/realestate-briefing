@@ -1,19 +1,47 @@
 {
-  "date": "2026.08.04",
-  "data_month": "2026년 08월",
+  "date": "2026.08.05",
+  "data_month": "2026년 07월",
   "videos": [
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"역세권 22평 vs 비역세권 34평\" 현장에선 의외로 '이 평수' 아파트가 오릅니다 (#자모의부동산기초)",
-      "link": "https://www.youtube.com/watch?v=5LkfwdxfFZI",
-      "pub_ts": 1785880813.0,
-      "pub_date": "08/04"
+      "channel": "부읽남TV",
+      "title": "규제 지역에 집 사실 예정이라면 지금 당장 '이것'부터 확인해 보세요 [레오 김은진 대표]",
+      "link": "https://www.youtube.com/shorts/5cZ2eSjtvxg",
+      "pub_ts": 1785969020.0,
+      "pub_date": "08/05"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"이게 왜 네 집이야?\" 대규모 증세, 집값 이렇게 된다",
+      "link": "https://www.youtube.com/watch?v=mFxq4qnBh7E",
+      "pub_ts": 1785927609.0,
+      "pub_date": "08/05"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"이젠 1주택자도 투기꾼이다\" 앞으로 부동산에서 벌어질 일들 [김제경 박사 2부]",
+      "link": "https://www.youtube.com/watch?v=Bk6WBFYaAMw",
+      "pub_ts": 1785924033.0,
+      "pub_date": "08/05"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "전세, 월세, 매매도 답이 없다, 앞으로 집값이 엄청나게 심각한 이유 [심형석 교수 2부]",
+      "link": "https://www.youtube.com/watch?v=Ydyq6Y1w1DM",
+      "pub_ts": 1785920422.0,
+      "pub_date": "08/05"
     },
     {
       "channel": "아포유 AforU",
       "title": "이재명 부동산 정책 - 폭망할 수 밖에 없는 결정적 이유...",
       "link": "https://www.youtube.com/watch?v=z4OXYXCCzAc",
-      "pub_ts": 1785876351.0,
+      "pub_ts": 1785884303.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"역세권 22평 vs 비역세권 34평\" 현장에선 의외로 '이 평수' 아파트가 오릅니다 (#자모의부동산기초)",
+      "link": "https://www.youtube.com/watch?v=5LkfwdxfFZI",
+      "pub_ts": 1785880813.0,
       "pub_date": "08/04"
     },
     {
@@ -66,13 +94,6 @@
       "pub_date": "08/02"
     },
     {
-      "channel": "부읽남TV",
-      "title": "“집 팔았는데 새 집 대출 안 나와요” 이거 모르는 분들 진짜 큰일납니다 [레오 김은진 대표 3부]",
-      "link": "https://www.youtube.com/watch?v=pQWwC7JsITY",
-      "pub_ts": 1785571223.0,
-      "pub_date": "08/01"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "주식과 부동산 결정적 차이 레버리지 쓰면 위험한 이유",
       "link": "https://www.youtube.com/shorts/PGMrAjgOrTg",
@@ -85,117 +106,9 @@
       "link": "https://www.youtube.com/watch?v=W1Z-__tEV-U",
       "pub_ts": 1785448820.0,
       "pub_date": "07/30"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "5개월 만에 2억 상승 최고가인 아파트 사도 되나요?",
-      "link": "https://www.youtube.com/shorts/KkPgWYKAljE",
-      "pub_ts": 1785409423.0,
-      "pub_date": "07/30"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "지금 서울에서 가장 많이 오른 지역 TOP4",
-      "link": "https://www.youtube.com/shorts/cCYzR8imMMI",
-      "pub_ts": 1785307949.0,
-      "pub_date": "07/29"
     }
   ],
-  "market": {
-    "total_count": 34,
-    "total_districts": 16,
-    "top5_districts": [
-      [
-        "서초구",
-        {
-          "count": 1,
-          "avg": 354000,
-          "max_price": 354000,
-          "max_name": "반포르엘"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 1,
-          "avg": 187000,
-          "max_price": 187000,
-          "max_name": "CJ나인파크"
-        }
-      ],
-      [
-        "강동구",
-        {
-          "count": 1,
-          "avg": 150000,
-          "max_price": 150000,
-          "max_name": "삼성광나루"
-        }
-      ],
-      [
-        "은평구",
-        {
-          "count": 4,
-          "avg": 118875,
-          "max_price": 162000,
-          "max_name": "DMC파인시티자이"
-        }
-      ],
-      [
-        "강서구",
-        {
-          "count": 1,
-          "avg": 110000,
-          "max_price": 110000,
-          "max_name": "강변"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "반포르엘",
-        "dong": "잠원동",
-        "area": 59.9446,
-        "price": 354000,
-        "floor": "13",
-        "date": "2026.08.03"
-      },
-      {
-        "name": "CJ나인파크",
-        "dong": "문배동",
-        "area": 97.24,
-        "price": 187000,
-        "floor": "23",
-        "date": "2026.08.03"
-      },
-      {
-        "name": "DMC파인시티자이",
-        "dong": "수색동",
-        "area": 84.94,
-        "price": 162000,
-        "floor": "20",
-        "date": "2026.08.01"
-      },
-      {
-        "name": "DMC센트럴자이(2단지)",
-        "dong": "증산동",
-        "area": 59.97,
-        "price": 158000,
-        "floor": "9",
-        "date": "2026.08.02"
-      },
-      {
-        "name": "삼성광나루",
-        "dong": "암사동",
-        "area": 157.24,
-        "price": 150000,
-        "floor": "24",
-        "date": "2026.08.03"
-      }
-    ],
-    "songpa_count": 0,
-    "songpa_avg": 0
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
