@@ -4,6 +4,20 @@
   "videos": [
     {
       "channel": "부읽남TV",
+      "title": "경기도 아파트 '여기' 사세요, 앞으로 본격적으로 오를 겁니다 [심형석 교수 4부]",
+      "link": "https://www.youtube.com/watch?v=kYCheWMp78U",
+      "pub_ts": 1786093221.0,
+      "pub_date": "08/07"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "1주택자 아무리 규제해도 집값 못 잡는 이유 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/ZNR4dc8jTSU",
+      "pub_ts": 1786082400.0,
+      "pub_date": "08/07"
+    },
+    {
+      "channel": "부읽남TV",
       "title": "충격적인 세제개편안, 부동산 시장 송두리째 뒤집어집니다 [김제경 박사]",
       "link": "https://www.youtube.com/shorts/-V4WPOs1bAY",
       "pub_ts": 1786055411.0,
@@ -42,20 +56,6 @@
       "title": "\"이게 왜 네 집이야?\" 대규모 증세, 집값 이렇게 된다",
       "link": "https://www.youtube.com/watch?v=mFxq4qnBh7E",
       "pub_ts": 1785927609.0,
-      "pub_date": "08/05"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"이젠 1주택자도 투기꾼이다\" 앞으로 부동산에서 벌어질 일들 [김제경 박사 2부]",
-      "link": "https://www.youtube.com/watch?v=Bk6WBFYaAMw",
-      "pub_ts": 1785924033.0,
-      "pub_date": "08/05"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세, 월세, 매매도 답이 없다, 앞으로 집값이 엄청나게 심각한 이유 [심형석 교수 2부]",
-      "link": "https://www.youtube.com/watch?v=Ydyq6Y1w1DM",
-      "pub_ts": 1785920422.0,
       "pub_date": "08/05"
     },
     {
@@ -109,25 +109,34 @@
     }
   ],
   "market": {
-    "total_count": 90,
+    "total_count": 130,
     "total_districts": 21,
     "top5_districts": [
       [
         "서초구",
         {
-          "count": 1,
-          "avg": 354000,
-          "max_price": 354000,
-          "max_name": "반포르엘"
+          "count": 2,
+          "avg": 446500,
+          "max_price": 539000,
+          "max_name": "아크로리버파크"
         }
       ],
       [
         "강남구",
         {
-          "count": 1,
-          "avg": 150000,
-          "max_price": 150000,
-          "max_name": "수서"
+          "count": 4,
+          "avg": 209750,
+          "max_price": 290000,
+          "max_name": "개포래미안포레스트"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 3,
+          "avg": 209503,
+          "max_price": 421010,
+          "max_name": "신동아"
         }
       ],
       [
@@ -140,25 +149,32 @@
         }
       ],
       [
-        "동작구",
+        "성북구",
         {
-          "count": 1,
-          "avg": 105000,
-          "max_price": 105000,
-          "max_name": "신일해피트리"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 2,
-          "avg": 103750,
-          "max_price": 187000,
-          "max_name": "CJ나인파크"
+          "count": 8,
+          "avg": 110875,
+          "max_price": 164000,
+          "max_name": "삼선에스케이뷰"
         }
       ]
     ],
     "top5_trades": [
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 84.97,
+        "price": 539000,
+        "floor": "13",
+        "date": "2026.08.06"
+      },
+      {
+        "name": "신동아",
+        "dong": "서빙고동",
+        "area": 166.98,
+        "price": 421010,
+        "floor": "9",
+        "date": "2026.08.05"
+      },
       {
         "name": "반포르엘",
         "dong": "잠원동",
@@ -168,36 +184,20 @@
         "date": "2026.08.03"
       },
       {
-        "name": "CJ나인파크",
-        "dong": "문배동",
-        "area": 97.24,
-        "price": 187000,
-        "floor": "23",
-        "date": "2026.08.03"
+        "name": "개포래미안포레스트",
+        "dong": "개포동",
+        "area": 59.92,
+        "price": 290000,
+        "floor": "2",
+        "date": "2026.08.04"
       },
       {
-        "name": "금호어울림",
-        "dong": "목동",
-        "area": 133.03,
-        "price": 169000,
-        "floor": "5",
-        "date": "2026.08.02"
-      },
-      {
-        "name": "DMC파인시티자이",
-        "dong": "수색동",
-        "area": 84.94,
-        "price": 162000,
-        "floor": "20",
-        "date": "2026.08.01"
-      },
-      {
-        "name": "DMC센트럴자이(2단지)",
-        "dong": "증산동",
-        "area": 59.97,
-        "price": 158000,
-        "floor": "9",
-        "date": "2026.08.02"
+        "name": "청담2차이-편한세상(201동,202동,203동)",
+        "dong": "청담동",
+        "area": 113.21,
+        "price": 250000,
+        "floor": "3",
+        "date": "2026.08.07"
       }
     ],
     "songpa_count": 0,
