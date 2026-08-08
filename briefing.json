@@ -1,27 +1,55 @@
 {
-  "date": "2026.08.07",
+  "date": "2026.08.08",
   "data_month": "2026년 08월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "경기도 아파트 '여기' 사세요, 앞으로 본격적으로 오를 겁니다 [심형석 교수 4부]",
-      "link": "https://www.youtube.com/watch?v=kYCheWMp78U",
-      "pub_ts": 1786093221.0,
-      "pub_date": "08/07"
+      "title": "지금 개미들만 모르고 있어요, 삼성전자 앞으로 무서울 겁니다 [강관우 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=vxcuVbjyX5o",
+      "pub_ts": 1786186837.0,
+      "pub_date": "08/08"
     },
     {
       "channel": "부읽남TV",
-      "title": "1주택자 아무리 규제해도 집값 못 잡는 이유 [심형석 교수]",
-      "link": "https://www.youtube.com/shorts/ZNR4dc8jTSU",
-      "pub_ts": 1786082400.0,
-      "pub_date": "08/07"
+      "title": "\"30년 넘게 이런 건 처음\" 2030년까지 확정된 공급지옥 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/C8oTYGBQ4vw",
+      "pub_ts": 1786179636.0,
+      "pub_date": "08/08"
     },
     {
       "channel": "부읽남TV",
-      "title": "충격적인 세제개편안, 부동산 시장 송두리째 뒤집어집니다 [김제경 박사]",
-      "link": "https://www.youtube.com/shorts/-V4WPOs1bAY",
-      "pub_ts": 1786055411.0,
-      "pub_date": "08/06"
+      "title": "삼전 닉스 역대급 돈 버는데 투자자들이 의심하는 이유 [김현준 대표]",
+      "link": "https://www.youtube.com/shorts/iQHkfcWiy8I",
+      "pub_ts": 1786168821.0,
+      "pub_date": "08/08"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "개인들이 주식투자 실패하는 이유 [김현준 대표]",
+      "link": "https://www.youtube.com/shorts/bhXI0hJosqc",
+      "pub_ts": 1786154420.0,
+      "pub_date": "08/08"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "이대로 가면 아비규환입니다, 집값 엄청나게 심각할 겁니다 [심형석 교수 풀버전]",
+      "link": "https://www.youtube.com/watch?v=_XjF0mAqCP0",
+      "pub_ts": 1786150829.0,
+      "pub_date": "08/08"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "보유세 증가가 소름돋는 이유, 전월세 앞으로 이렇게 됩니다 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/mbHvnukwp3c",
+      "pub_ts": 1786147233.0,
+      "pub_date": "08/08"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"앞으로 지옥이 시작됩니다\" 가을부터 집값 이렇게 됩니다 [김제경 박사 3부]",
+      "link": "https://www.youtube.com/watch?v=Ptkr3J7cOhI",
+      "pub_ts": 1786100404.0,
+      "pub_date": "08/07"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -29,34 +57,6 @@
       "link": "https://www.youtube.com/watch?v=iEahQdWZCKc",
       "pub_ts": 1786053620.0,
       "pub_date": "08/06"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"덜 똘똘한 한 채 올라간다\" 전월세 소멸, 집값 상승 시작된다",
-      "link": "https://www.youtube.com/watch?v=jd9Nz0Plgzk",
-      "pub_ts": 1786014001.0,
-      "pub_date": "08/06"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"서울 2035년까지 오릅니다\" 무주택자 지금 이렇게 하세요 [심형석 교수 3부]",
-      "link": "https://www.youtube.com/watch?v=qLHf39rPZ-8",
-      "pub_ts": 1786003223.0,
-      "pub_date": "08/06"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "규제 지역에 집 사실 예정이라면 지금 당장 '이것'부터 확인해 보세요 [레오 김은진 대표]",
-      "link": "https://www.youtube.com/shorts/5cZ2eSjtvxg",
-      "pub_ts": 1785969020.0,
-      "pub_date": "08/05"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"이게 왜 네 집이야?\" 대규모 증세, 집값 이렇게 된다",
-      "link": "https://www.youtube.com/watch?v=mFxq4qnBh7E",
-      "pub_ts": 1785927609.0,
-      "pub_date": "08/05"
     },
     {
       "channel": "아포유 AforU",
@@ -109,14 +109,14 @@
     }
   ],
   "market": {
-    "total_count": 130,
+    "total_count": 139,
     "total_districts": 21,
     "top5_districts": [
       [
         "서초구",
         {
-          "count": 2,
-          "avg": 446500,
+          "count": 3,
+          "avg": 374333,
           "max_price": 539000,
           "max_name": "아크로리버파크"
         }
@@ -140,21 +140,21 @@
         }
       ],
       [
+        "광진구",
+        {
+          "count": 2,
+          "avg": 174650,
+          "max_price": 335000,
+          "max_name": "광장힐스테이트"
+        }
+      ],
+      [
         "강동구",
         {
           "count": 3,
           "avg": 123666,
           "max_price": 150000,
           "max_name": "삼성광나루"
-        }
-      ],
-      [
-        "성북구",
-        {
-          "count": 8,
-          "avg": 110875,
-          "max_price": 164000,
-          "max_name": "삼선에스케이뷰"
         }
       ]
     ],
@@ -184,20 +184,20 @@
         "date": "2026.08.03"
       },
       {
+        "name": "광장힐스테이트",
+        "dong": "광장동",
+        "area": 131.96,
+        "price": 335000,
+        "floor": "3",
+        "date": "2026.08.01"
+      },
+      {
         "name": "개포래미안포레스트",
         "dong": "개포동",
         "area": 59.92,
         "price": 290000,
         "floor": "2",
         "date": "2026.08.04"
-      },
-      {
-        "name": "청담2차이-편한세상(201동,202동,203동)",
-        "dong": "청담동",
-        "area": 113.21,
-        "price": 250000,
-        "floor": "3",
-        "date": "2026.08.07"
       }
     ],
     "songpa_count": 0,
