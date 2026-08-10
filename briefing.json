@@ -1,19 +1,40 @@
 {
-  "date": "2026.08.09",
+  "date": "2026.08.10",
   "data_month": "2026년 08월",
   "videos": [
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "부동산 세제개편 총정리! 1주택자, 무주택자, 다주택자 각각 이렇게 하세요 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=eZDQ3MFxfXY",
-      "pub_ts": 1786312806.0,
-      "pub_date": "08/09"
+      "channel": "아포유 AforU",
+      "title": "발표도 전부터 박살나버린 이재명 공급대책, 지지율 또한...",
+      "link": "https://www.youtube.com/watch?v=aOr0raALR-4",
+      "pub_ts": 1786395550.0,
+      "pub_date": "08/10"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "앞으로 지옥이 시작됩니다, 가을부터 집값 이렇게 됩니다 [김제경 박사 풀버전]",
+      "link": "https://www.youtube.com/watch?v=IbkcoGMN41U",
+      "pub_ts": 1786356009.0,
+      "pub_date": "08/10"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "세제개편안 드디어 나왔다, 앞으로 집값 이렇게 됩니다 [김효선 위원 1부]",
+      "link": "https://www.youtube.com/watch?v=oTsn_a1RciM",
+      "pub_ts": 1786352421.0,
+      "pub_date": "08/10"
     },
     {
       "channel": "아포유 AforU",
       "title": "주가 폭락, 부동산 증세... 흔들리는 민심...",
       "link": "https://www.youtube.com/watch?v=4v3U5q3nn9c",
-      "pub_ts": 1786310638.0,
+      "pub_ts": 1786316104.0,
+      "pub_date": "08/09"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "부동산 세제개편 총정리! 1주택자, 무주택자, 다주택자 각각 이렇게 하세요 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=eZDQ3MFxfXY",
+      "pub_ts": 1786312806.0,
       "pub_date": "08/09"
     },
     {
@@ -59,27 +80,6 @@
       "pub_date": "08/09"
     },
     {
-      "channel": "부읽남TV",
-      "title": "급등 급락을 극복하는 방법, \"부동산처럼 이렇게 하세요\" [강관우 대표]",
-      "link": "https://www.youtube.com/shorts/_WOHEIKRThE",
-      "pub_ts": 1786233605.0,
-      "pub_date": "08/09"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 개미들만 모르고 있어요, 삼성전자 앞으로 무서울 겁니다 [강관우 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=vxcuVbjyX5o",
-      "pub_ts": 1786186837.0,
-      "pub_date": "08/08"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"30년 넘게 이런 건 처음\" 2030년까지 확정된 공급지옥 [심형석 교수]",
-      "link": "https://www.youtube.com/shorts/C8oTYGBQ4vw",
-      "pub_ts": 1786179636.0,
-      "pub_date": "08/08"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "[세제개편 특별편] 부동산부터 재테크까지 모르면 큰 코 다칩니다. (#주간머니이슈)",
       "link": "https://www.youtube.com/watch?v=iEahQdWZCKc",
@@ -109,14 +109,14 @@
     }
   ],
   "market": {
-    "total_count": 139,
-    "total_districts": 21,
+    "total_count": 232,
+    "total_districts": 24,
     "top5_districts": [
       [
         "서초구",
         {
-          "count": 3,
-          "avg": 374333,
+          "count": 4,
+          "avg": 288250,
           "max_price": 539000,
           "max_name": "아크로리버파크"
         }
@@ -124,8 +124,8 @@
       [
         "강남구",
         {
-          "count": 4,
-          "avg": 209750,
+          "count": 5,
+          "avg": 215800,
           "max_price": 290000,
           "max_name": "개포래미안포레스트"
         }
@@ -140,21 +140,21 @@
         }
       ],
       [
-        "광진구",
+        "송파구",
         {
-          "count": 2,
-          "avg": 174650,
-          "max_price": 335000,
-          "max_name": "광장힐스테이트"
+          "count": 4,
+          "avg": 195500,
+          "max_price": 231000,
+          "max_name": "송파시그니처롯데캐슬"
         }
       ],
       [
-        "강동구",
+        "마포구",
         {
           "count": 3,
-          "avg": 123666,
-          "max_price": 150000,
-          "max_name": "삼성광나루"
+          "avg": 177333,
+          "max_price": 207000,
+          "max_name": "염리삼성래미안"
         }
       ]
     ],
@@ -176,6 +176,14 @@
         "date": "2026.08.05"
       },
       {
+        "name": "시범",
+        "dong": "여의도동",
+        "area": 118.12,
+        "price": 365000,
+        "floor": "6",
+        "date": "2026.08.03"
+      },
+      {
         "name": "반포르엘",
         "dong": "잠원동",
         "area": 59.9446,
@@ -190,18 +198,10 @@
         "price": 335000,
         "floor": "3",
         "date": "2026.08.01"
-      },
-      {
-        "name": "개포래미안포레스트",
-        "dong": "개포동",
-        "area": 59.92,
-        "price": 290000,
-        "floor": "2",
-        "date": "2026.08.04"
       }
     ],
-    "songpa_count": 0,
-    "songpa_avg": 0
+    "songpa_count": 4,
+    "songpa_avg": 195500
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
