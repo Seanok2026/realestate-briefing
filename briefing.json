@@ -1,13 +1,13 @@
 {
-  "date": "2026.08.11",
-  "data_month": "2026년 08월",
+  "date": "2026.08.12",
+  "data_month": "2026년 07월",
   "videos": [
     {
       "channel": "월급쟁이부자들TV",
-      "title": "집 사기 전 반드시 알아야 할 8월 부동산 세제개편 이야기 (김철종 세무사 1부)",
-      "link": "https://www.youtube.com/watch?v=2T8YgYoHfPo",
-      "pub_ts": 1786485633.0,
-      "pub_date": "08/11"
+      "title": "\"올해 전세 만기되면 시댁에 들어가야 할 판입니다\" 50대 가진 돈 1억인데 부동산 사도 되나요 (구해줘월부 사연)",
+      "link": "https://www.youtube.com/watch?v=2teV6-Gg8lE",
+      "pub_ts": 1786572022.0,
+      "pub_date": "08/12"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -73,27 +73,6 @@
       "pub_date": "08/09"
     },
     {
-      "channel": "부읽남TV",
-      "title": "서울 경기도 아파트 여기 보세요, 내년부터 정말 무섭게 오를 겁니다 [김제경 박사 4부]",
-      "link": "https://www.youtube.com/watch?v=7_P8XFlscL8",
-      "pub_ts": 1786273222.0,
-      "pub_date": "08/09"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 2035년까지 오릅니다, 집값 높지만 떨어지기 힘든 이유 [심형석 교수]",
-      "link": "https://www.youtube.com/shorts/jYCk1jgThJg",
-      "pub_ts": 1786266007.0,
-      "pub_date": "08/09"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 현금 5천만 원 있다면 저라면 이렇게 투자합니다 [김현준 대표 4부]",
-      "link": "https://www.youtube.com/watch?v=WpNazHcA5ts",
-      "pub_ts": 1786262412.0,
-      "pub_date": "08/09"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "[세제개편 특별편] 부동산부터 재테크까지 모르면 큰 코 다칩니다. (#주간머니이슈)",
       "link": "https://www.youtube.com/watch?v=iEahQdWZCKc",
@@ -106,103 +85,30 @@
       "link": "https://www.youtube.com/watch?v=z4OXYXCCzAc",
       "pub_ts": 1785884303.0,
       "pub_date": "08/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"역세권 22평 vs 비역세권 34평\" 현장에선 의외로 '이 평수' 아파트가 오릅니다 (#자모의부동산기초)",
+      "link": "https://www.youtube.com/watch?v=5LkfwdxfFZI",
+      "pub_ts": 1785880813.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울 팔고 경기도 간다니요? 같은 돈으로 서울 30평 사는 법",
+      "link": "https://www.youtube.com/shorts/Bfv2-JNVLlw",
+      "pub_ts": 1785844322.0,
+      "pub_date": "08/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "다음 규제 답안지 유출됐다. 동탄 다음 토허제 추가될 이 3곳을 기억하세요 (김시덕 1부)",
+      "link": "https://www.youtube.com/watch?v=-yk4XYT9Mq0",
+      "pub_ts": 1785794404.0,
+      "pub_date": "08/03"
     }
   ],
-  "market": {
-    "total_count": 307,
-    "total_districts": 25,
-    "top5_districts": [
-      [
-        "서초구",
-        {
-          "count": 6,
-          "avg": 276583,
-          "max_price": 539000,
-          "max_name": "아크로리버파크"
-        }
-      ],
-      [
-        "강남구",
-        {
-          "count": 9,
-          "avg": 202066,
-          "max_price": 587000,
-          "max_name": "한양3"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 7,
-          "avg": 188428,
-          "max_price": 347000,
-          "max_name": "헬리오시티"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 1,
-          "avg": 186500,
-          "max_price": 186500,
-          "max_name": "래미안하이리버"
-        }
-      ],
-      [
-        "광진구",
-        {
-          "count": 5,
-          "avg": 179960,
-          "max_price": 335000,
-          "max_name": "광장힐스테이트"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "한양3",
-        "dong": "압구정동",
-        "area": 116.94,
-        "price": 587000,
-        "floor": "12",
-        "date": "2026.08.06"
-      },
-      {
-        "name": "아크로리버파크",
-        "dong": "반포동",
-        "area": 84.97,
-        "price": 539000,
-        "floor": "13",
-        "date": "2026.08.06"
-      },
-      {
-        "name": "신동아",
-        "dong": "서빙고동",
-        "area": 166.98,
-        "price": 421010,
-        "floor": "9",
-        "date": "2026.08.05"
-      },
-      {
-        "name": "시범",
-        "dong": "여의도동",
-        "area": 118.12,
-        "price": 365000,
-        "floor": "6",
-        "date": "2026.08.03"
-      },
-      {
-        "name": "반포르엘",
-        "dong": "잠원동",
-        "area": 59.9446,
-        "price": 354000,
-        "floor": "13",
-        "date": "2026.08.03"
-      }
-    ],
-    "songpa_count": 7,
-    "songpa_avg": 188428
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
