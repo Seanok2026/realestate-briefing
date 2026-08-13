@@ -1,7 +1,42 @@
 {
-  "date": "2026.08.12",
-  "data_month": "2026년 07월",
+  "date": "2026.08.13",
+  "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "[긴급] 8.13 주택 공급대책, 가장 중요한 5가지 핵심만 정리했습니다. (#주간머니이슈)",
+      "link": "https://www.youtube.com/watch?v=AuoXYTGaqhc",
+      "pub_ts": 1786658428.0,
+      "pub_date": "08/13"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "8월 공급 대책 발표 왜 한다고 했나? 언론 마저 한 숨....",
+      "link": "https://www.youtube.com/watch?v=tD6NxG49wwk",
+      "pub_ts": 1786653548.0,
+      "pub_date": "08/13"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 개미들만 모르고 있어요, 증시 앞으로 더 무서울 겁니다 [리치노마드 김채성 대표 1부]",
+      "link": "https://www.youtube.com/watch?v=uGuWVMmiHVE",
+      "pub_ts": 1786611622.0,
+      "pub_date": "08/13"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"다들 이건 잘 모르고 계세요\" 실제 서울 경기도 현장 분위기 [김효선 위원 3부]",
+      "link": "https://www.youtube.com/watch?v=TGAnih0eiz0",
+      "pub_ts": 1786608016.0,
+      "pub_date": "08/13"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 진짜 돈이 없는 분들은 3기 신도시 청약 꼭 하세요 [김제경 박사]",
+      "link": "https://www.youtube.com/shorts/FRaZ1FGVzOA",
+      "pub_ts": 1786573800.0,
+      "pub_date": "08/12"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"올해 전세 만기되면 시댁에 들어가야 할 판입니다\" 50대 가진 돈 1억인데 부동산 사도 되나요 (구해줘월부 사연)",
@@ -17,53 +52,11 @@
       "pub_date": "08/11"
     },
     {
-      "channel": "부읽남TV",
-      "title": "원금 안 까먹고 수익도 나온다? '이 주식' 반드시 투자하세요 [공모주린이]",
-      "link": "https://www.youtube.com/watch?v=sdTqFgbhP8w",
-      "pub_ts": 1786435236.0,
-      "pub_date": "08/11"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "'서울 만능주의' 우리가 서울을 절대 포기할 수 없는 이유",
       "link": "https://www.youtube.com/shorts/KutWesj6f30",
       "pub_ts": 1786415084.0,
       "pub_date": "08/11"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "발표도 전부터 박살나버린 이재명 공급대책, 지지율 또한...",
-      "link": "https://www.youtube.com/watch?v=aOr0raALR-4",
-      "pub_ts": 1786402204.0,
-      "pub_date": "08/10"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"집값 2035년까지 오릅니다\" 조정은 있어도 하락은 없는 이유 [심형석 교수]",
-      "link": "https://www.youtube.com/shorts/9PJvgW9gDgw",
-      "pub_ts": 1786401015.0,
-      "pub_date": "08/10"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "앞으로 지옥이 시작됩니다, 가을부터 집값 이렇게 됩니다 [김제경 박사 풀버전]",
-      "link": "https://www.youtube.com/watch?v=IbkcoGMN41U",
-      "pub_ts": 1786356009.0,
-      "pub_date": "08/10"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "세제개편안 드디어 나왔다, 앞으로 집값 이렇게 됩니다 [김효선 위원 1부]",
-      "link": "https://www.youtube.com/watch?v=oTsn_a1RciM",
-      "pub_ts": 1786352421.0,
-      "pub_date": "08/10"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "주가 폭락, 부동산 증세... 흔들리는 민심...",
-      "link": "https://www.youtube.com/watch?v=4v3U5q3nn9c",
-      "pub_ts": 1786316104.0,
-      "pub_date": "08/09"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -99,16 +92,103 @@
       "link": "https://www.youtube.com/shorts/Bfv2-JNVLlw",
       "pub_ts": 1785844322.0,
       "pub_date": "08/04"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "다음 규제 답안지 유출됐다. 동탄 다음 토허제 추가될 이 3곳을 기억하세요 (김시덕 1부)",
-      "link": "https://www.youtube.com/watch?v=-yk4XYT9Mq0",
-      "pub_ts": 1785794404.0,
-      "pub_date": "08/03"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 485,
+    "total_districts": 25,
+    "top5_districts": [
+      [
+        "성동구",
+        {
+          "count": 4,
+          "avg": 374875,
+          "max_price": 920000,
+          "max_name": "갤러리아포레"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 5,
+          "avg": 224302,
+          "max_price": 475000,
+          "max_name": "신동아"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 12,
+          "avg": 218550,
+          "max_price": 587000,
+          "max_name": "한양3"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 9,
+          "avg": 205555,
+          "max_price": 390000,
+          "max_name": "갤러리아팰리스"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 10,
+          "avg": 203380,
+          "max_price": 539000,
+          "max_name": "아크로리버파크"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "갤러리아포레",
+        "dong": "성수동1가",
+        "area": 217.86,
+        "price": 920000,
+        "floor": "34",
+        "date": "2026.08.12"
+      },
+      {
+        "name": "한양3",
+        "dong": "압구정동",
+        "area": 116.94,
+        "price": 587000,
+        "floor": "12",
+        "date": "2026.08.06"
+      },
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 84.97,
+        "price": 539000,
+        "floor": "13",
+        "date": "2026.08.06"
+      },
+      {
+        "name": "신동아",
+        "dong": "서빙고동",
+        "area": 166.98,
+        "price": 475000,
+        "floor": "9",
+        "date": "2026.08.10"
+      },
+      {
+        "name": "신동아",
+        "dong": "서빙고동",
+        "area": 166.98,
+        "price": 421010,
+        "floor": "9",
+        "date": "2026.08.05"
+      }
+    ],
+    "songpa_count": 8,
+    "songpa_avg": 213625
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
