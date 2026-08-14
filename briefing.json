@@ -1,7 +1,28 @@
 {
-  "date": "2026.08.13",
+  "date": "2026.08.14",
   "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "\"개미는 팔고, 외국인은 샀습니다\" 고래들은 지금 '이렇게' 투자합니다 [정주용 의장 1부]",
+      "link": "https://www.youtube.com/watch?v=I_X4_h3lHig",
+      "pub_ts": 1786698012.0,
+      "pub_date": "08/14"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"전세가 없어요...\" 신혼집 오피스텔에서 시작해도 되나요? [상남자들]",
+      "link": "https://www.youtube.com/watch?v=aJ6fG3QizFE",
+      "pub_ts": 1786694418.0,
+      "pub_date": "08/14"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "8월 공급 대책 발표 왜 한다고 했나? 언론 마저 한 숨....",
+      "link": "https://www.youtube.com/watch?v=tD6NxG49wwk",
+      "pub_ts": 1786661385.0,
+      "pub_date": "08/13"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "[긴급] 8.13 주택 공급대책, 가장 중요한 5가지 핵심만 정리했습니다. (#주간머니이슈)",
@@ -10,10 +31,10 @@
       "pub_date": "08/13"
     },
     {
-      "channel": "아포유 AforU",
-      "title": "8월 공급 대책 발표 왜 한다고 했나? 언론 마저 한 숨....",
-      "link": "https://www.youtube.com/watch?v=tD6NxG49wwk",
-      "pub_ts": 1786653548.0,
+      "channel": "부읽남TV",
+      "title": "징벌적 세금의 시대, 앞으로 집값은 이렇게 됩니다",
+      "link": "https://www.youtube.com/watch?v=j4ZRzohV-oQ",
+      "pub_ts": 1786618836.0,
       "pub_date": "08/13"
     },
     {
@@ -85,24 +106,17 @@
       "link": "https://www.youtube.com/watch?v=5LkfwdxfFZI",
       "pub_ts": 1785880813.0,
       "pub_date": "08/04"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "서울 팔고 경기도 간다니요? 같은 돈으로 서울 30평 사는 법",
-      "link": "https://www.youtube.com/shorts/Bfv2-JNVLlw",
-      "pub_ts": 1785844322.0,
-      "pub_date": "08/04"
     }
   ],
   "market": {
-    "total_count": 485,
+    "total_count": 575,
     "total_districts": 25,
     "top5_districts": [
       [
         "성동구",
         {
-          "count": 4,
-          "avg": 374875,
+          "count": 5,
+          "avg": 332900,
           "max_price": 920000,
           "max_name": "갤러리아포레"
         }
@@ -117,19 +131,10 @@
         }
       ],
       [
-        "강남구",
-        {
-          "count": 12,
-          "avg": 218550,
-          "max_price": 587000,
-          "max_name": "한양3"
-        }
-      ],
-      [
         "송파구",
         {
-          "count": 9,
-          "avg": 205555,
+          "count": 16,
+          "avg": 210856,
           "max_price": 390000,
           "max_name": "갤러리아팰리스"
         }
@@ -141,6 +146,15 @@
           "avg": 203380,
           "max_price": 539000,
           "max_name": "아크로리버파크"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 14,
+          "avg": 201400,
+          "max_price": 587000,
+          "max_name": "한양3"
         }
       ]
     ],
@@ -186,8 +200,8 @@
         "date": "2026.08.05"
       }
     ],
-    "songpa_count": 8,
-    "songpa_avg": 213625
+    "songpa_count": 14,
+    "songpa_avg": 216121
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
