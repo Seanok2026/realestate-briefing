@@ -1,20 +1,48 @@
 {
-  "date": "2026.08.14",
+  "date": "2026.08.15",
   "data_month": "2026년 08월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "\"개미는 팔고, 외국인은 샀습니다\" 고래들은 지금 '이렇게' 투자합니다 [정주용 의장 1부]",
-      "link": "https://www.youtube.com/watch?v=I_X4_h3lHig",
-      "pub_ts": 1786698012.0,
-      "pub_date": "08/14"
+      "title": "확실하게 가난해지는 방법 = 과소비 + 레버리지 + 몰빵투자 [이상건 센터장]",
+      "link": "https://www.youtube.com/shorts/7Gk4hOKxJYA",
+      "pub_ts": 1786788013.0,
+      "pub_date": "08/15"
     },
     {
       "channel": "부읽남TV",
-      "title": "\"전세가 없어요...\" 신혼집 오피스텔에서 시작해도 되나요? [상남자들]",
-      "link": "https://www.youtube.com/watch?v=aJ6fG3QizFE",
-      "pub_ts": 1786694418.0,
-      "pub_date": "08/14"
+      "title": "\"저도 24년째 하고 있어요\" 언제 사도 마이너스 없는 투자법 [이상건 센터장]",
+      "link": "https://www.youtube.com/shorts/SMEKm7DaJFY",
+      "pub_ts": 1786784406.0,
+      "pub_date": "08/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "폭락장에 혼자 29% 폭등 나왔다? 지금 미국주식 이렇게 투자하세요 [정주용 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=WF_bkdOKxp8",
+      "pub_ts": 1786770035.0,
+      "pub_date": "08/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "증권사 직원도 포모 옵니다, 주식투자 꼭 '이렇게' 하세요 [이상건 센터장]",
+      "link": "https://www.youtube.com/shorts/w1pUHBPzrG0",
+      "pub_ts": 1786766407.0,
+      "pub_date": "08/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "월 300 이상 평생 나와요, 배당주 이렇게 투자하세요 [리치노마드 김채성 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=ccURP_FVFK4",
+      "pub_ts": 1786762830.0,
+      "pub_date": "08/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"주식도 부동산처럼 하세요\" 투자자들을 위한 진심 조언 [강관우 대표]",
+      "link": "https://www.youtube.com/shorts/9ZHJ3YGZOho",
+      "pub_ts": 1786752020.0,
+      "pub_date": "08/15"
     },
     {
       "channel": "아포유 AforU",
@@ -29,34 +57,6 @@
       "link": "https://www.youtube.com/watch?v=AuoXYTGaqhc",
       "pub_ts": 1786658428.0,
       "pub_date": "08/13"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "징벌적 세금의 시대, 앞으로 집값은 이렇게 됩니다",
-      "link": "https://www.youtube.com/watch?v=j4ZRzohV-oQ",
-      "pub_ts": 1786618836.0,
-      "pub_date": "08/13"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 개미들만 모르고 있어요, 증시 앞으로 더 무서울 겁니다 [리치노마드 김채성 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=uGuWVMmiHVE",
-      "pub_ts": 1786611622.0,
-      "pub_date": "08/13"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"다들 이건 잘 모르고 계세요\" 실제 서울 경기도 현장 분위기 [김효선 위원 3부]",
-      "link": "https://www.youtube.com/watch?v=TGAnih0eiz0",
-      "pub_ts": 1786608016.0,
-      "pub_date": "08/13"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 진짜 돈이 없는 분들은 3기 신도시 청약 꼭 하세요 [김제경 박사]",
-      "link": "https://www.youtube.com/shorts/FRaZ1FGVzOA",
-      "pub_ts": 1786573800.0,
-      "pub_date": "08/12"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -109,7 +109,7 @@
     }
   ],
   "market": {
-    "total_count": 575,
+    "total_count": 581,
     "total_districts": 25,
     "top5_districts": [
       [
