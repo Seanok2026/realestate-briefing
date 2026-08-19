@@ -1,10 +1,31 @@
 {
-  "date": "2026.08.18",
+  "date": "2026.08.19",
   "data_month": "2026년 08월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "전월세 대책이 부족합니다, 집값 결국 ‘이렇게’ 될 겁니다 [달천 정민우 대표 1부]",
+      "title": "\"아파트 비싸면 빌라 사세요\" 분노한 청년 세대들",
+      "link": "https://www.youtube.com/watch?v=kXToFD_Mb8E",
+      "pub_ts": 1787137218.0,
+      "pub_date": "08/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "매매 전세 월세 다 오릅니다, 앞으로 집값 이렇게 됩니다 [정민우 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=JxWyBLZSrk8",
+      "pub_ts": 1787130026.0,
+      "pub_date": "08/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "삼성전자 외국인 투자자들이 다 팔고 떠났다고요? 아니요 [하창봉 대표]",
+      "link": "https://www.youtube.com/shorts/WZqXlrgvGSM",
+      "pub_ts": 1787128207.0,
+      "pub_date": "08/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "첫 단추부터 잘못 끼웠어요, 집값 결국 ‘이렇게’ 될 겁니다 [달천 정민우 대표 1부]",
       "link": "https://www.youtube.com/watch?v=cP_H28pwi_c",
       "pub_ts": 1787043631.0,
       "pub_date": "08/18"
@@ -28,34 +49,6 @@
       "title": "포모에서 포기로 가는 요즘 30대 상황... \"주식, 부동산 투자 이제 그만하고 싶어요\" (#구해줘월급 Ep.5)",
       "link": "https://www.youtube.com/watch?v=A2sLRajLWoo",
       "pub_ts": 1786921201.0,
-      "pub_date": "08/16"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "직접 현장 가보고 말씀드려요, '이런 부동산' 정말 조심하세요 [김효선 위원]",
-      "link": "https://www.youtube.com/shorts/UJy_4WuT0dc",
-      "pub_ts": 1786870831.0,
-      "pub_date": "08/16"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "GTX 때문에 집값 오를까? 저는 이렇게 생각합니다 [김효선 위원]",
-      "link": "https://www.youtube.com/shorts/KLwvCrUY1SY",
-      "pub_ts": 1786863612.0,
-      "pub_date": "08/16"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "규제로 집값 못 잡습니다, 장기적으로 이렇게 될 거예요 [김효선 위원]",
-      "link": "https://www.youtube.com/shorts/Tj6D7u4bRWM",
-      "pub_ts": 1786845638.0,
-      "pub_date": "08/16"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "충격적인 정책 방향 나왔다, 앞으로 집값 이렇게 됩니다 [김효선 위원 풀버전]",
-      "link": "https://www.youtube.com/watch?v=XmLMXjgnuIE",
-      "pub_ts": 1786842016.0,
       "pub_date": "08/16"
     },
     {
@@ -94,40 +87,24 @@
       "pub_date": "08/11"
     },
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "부동산 세제개편 총정리! 1주택자, 무주택자, 다주택자 각각 이렇게 하세요 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=eZDQ3MFxfXY",
-      "pub_ts": 1786312806.0,
-      "pub_date": "08/09"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "[세제개편 특별편] 부동산부터 재테크까지 모르면 큰 코 다칩니다. (#주간머니이슈)",
-      "link": "https://www.youtube.com/watch?v=iEahQdWZCKc",
-      "pub_ts": 1786053620.0,
-      "pub_date": "08/06"
+      "channel": "아포유 AforU",
+      "title": "이재명 부동산 정책 - 폭망할 수 밖에 없는 결정적 이유...",
+      "link": "https://www.youtube.com/watch?v=z4OXYXCCzAc",
+      "pub_ts": 1785884303.0,
+      "pub_date": "08/04"
     }
   ],
   "market": {
-    "total_count": 755,
-    "total_districts": 25,
+    "total_count": 816,
+    "total_districts": 24,
     "top5_districts": [
       [
         "성동구",
         {
-          "count": 8,
-          "avg": 271062,
+          "count": 11,
+          "avg": 238045,
           "max_price": 920000,
           "max_name": "갤러리아포레"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 19,
-          "avg": 228984,
-          "max_price": 390000,
-          "max_name": "갤러리아팰리스"
         }
       ],
       [
@@ -140,10 +117,19 @@
         }
       ],
       [
+        "송파구",
+        {
+          "count": 20,
+          "avg": 222135,
+          "max_price": 390000,
+          "max_name": "갤러리아팰리스"
+        }
+      ],
+      [
         "서초구",
         {
-          "count": 15,
-          "avg": 222620,
+          "count": 16,
+          "avg": 210475,
           "max_price": 850000,
           "max_name": "아크로리버파크"
         }
@@ -151,8 +137,8 @@
       [
         "강남구",
         {
-          "count": 15,
-          "avg": 207173,
+          "count": 17,
+          "avg": 203123,
           "max_price": 587000,
           "max_name": "한양3"
         }
@@ -200,8 +186,8 @@
         "date": "2026.08.10"
       }
     ],
-    "songpa_count": 17,
-    "songpa_avg": 235452
+    "songpa_count": 18,
+    "songpa_avg": 227483
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
