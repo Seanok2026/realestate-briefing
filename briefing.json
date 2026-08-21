@@ -1,12 +1,33 @@
 {
-  "date": "2026.08.20",
-  "data_month": "2026년 07월",
+  "date": "2026.08.21",
+  "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "대한민국에 투자하면 큰일난다? 외국인이 던진 코스피 매도 신호 [김대호 박사 1부]",
+      "link": "https://www.youtube.com/watch?v=9LPkiorAs6Q",
+      "pub_ts": 1787306413.0,
+      "pub_date": "08/21"
+    },
     {
       "channel": "아포유 AforU",
       "title": "지지율 붕괴... 과연 부동산 만의 문제일까?",
       "link": "https://www.youtube.com/watch?v=awipeG-PbTg",
-      "pub_ts": 1787260998.0,
+      "pub_ts": 1787269467.0,
+      "pub_date": "08/20"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "현금 5천만 원 있다면 종목 비중 '이렇게' 투자하세요 [하창봉 대표]",
+      "link": "https://www.youtube.com/shorts/HG1IFRlS1tM",
+      "pub_ts": 1787265010.0,
+      "pub_date": "08/20"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "부동산 불패 신화? 오히려 이럴 때 진짜 조심해야 해요 (#주간머니이슈)",
+      "link": "https://www.youtube.com/watch?v=Wsb8JMe2W8k",
+      "pub_ts": 1787263214.0,
       "pub_date": "08/20"
     },
     {
@@ -39,7 +60,7 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "매매 전세 월세 다 오릅니다, 앞으로 집값 이렇게 됩니다 [정민우 대표 2부]",
+      "title": "\"서울 아파트 1년에 1억씩 오릅니다\" 이거 이해하면 소름돋을 겁니다 [정민우 대표 2부]",
       "link": "https://www.youtube.com/watch?v=JxWyBLZSrk8",
       "pub_ts": 1787130026.0,
       "pub_date": "08/19"
@@ -50,13 +71,6 @@
       "link": "https://www.youtube.com/shorts/WZqXlrgvGSM",
       "pub_ts": 1787128207.0,
       "pub_date": "08/19"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "첫 단추부터 잘못 끼웠어요, 집값 결국 ‘이렇게’ 될 겁니다 [달천 정민우 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=cP_H28pwi_c",
-      "pub_ts": 1787043631.0,
-      "pub_date": "08/18"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -92,23 +106,103 @@
       "link": "https://www.youtube.com/watch?v=2teV6-Gg8lE",
       "pub_ts": 1786572022.0,
       "pub_date": "08/12"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "미리 보는 2029년 양도세가 무서운 이유",
-      "link": "https://www.youtube.com/shorts/8MR6HSsi1_8",
-      "pub_ts": 1786448375.0,
-      "pub_date": "08/11"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "'서울 만능주의' 우리가 서울을 절대 포기할 수 없는 이유",
-      "link": "https://www.youtube.com/shorts/KutWesj6f30",
-      "pub_ts": 1786415084.0,
-      "pub_date": "08/11"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 1089,
+    "total_districts": 25,
+    "top5_districts": [
+      [
+        "송파구",
+        {
+          "count": 28,
+          "avg": 242585,
+          "max_price": 402700,
+          "max_name": "주공아파트 5단지"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 27,
+          "avg": 237892,
+          "max_price": 610000,
+          "max_name": "현대13차(208~211동)"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 21,
+          "avg": 234861,
+          "max_price": 850000,
+          "max_name": "아크로리버파크"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 7,
+          "avg": 226515,
+          "max_price": 475000,
+          "max_name": "신동아"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 17,
+          "avg": 211088,
+          "max_price": 920000,
+          "max_name": "갤러리아포레"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "갤러리아포레",
+        "dong": "성수동1가",
+        "area": 217.86,
+        "price": 920000,
+        "floor": "34",
+        "date": "2026.08.12"
+      },
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 129.97,
+        "price": 850000,
+        "floor": "34",
+        "date": "2026.08.03"
+      },
+      {
+        "name": "현대13차(208~211동)",
+        "dong": "압구정동",
+        "area": 105.45,
+        "price": 610000,
+        "floor": "5",
+        "date": "2026.08.12"
+      },
+      {
+        "name": "한양3",
+        "dong": "압구정동",
+        "area": 116.94,
+        "price": 587000,
+        "floor": "12",
+        "date": "2026.08.06"
+      },
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 84.97,
+        "price": 539000,
+        "floor": "13",
+        "date": "2026.08.06"
+      }
+    ],
+    "songpa_count": 25,
+    "songpa_avg": 250656
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
