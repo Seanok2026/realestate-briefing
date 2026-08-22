@@ -1,12 +1,40 @@
 {
-  "date": "2026.08.21",
-  "data_month": "2026년 08월",
+  "date": "2026.08.22",
+  "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "\"드디어 서울에 집 샀어요\" 서울 1주택자가 가난해지는 과정",
+      "link": "https://www.youtube.com/watch?v=mh1y5FAPU6M",
+      "pub_ts": 1787396403.0,
+      "pub_date": "08/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "집값 심상치 않을 겁니다, 무주택자 반드시 '이렇게' 하세요 [쏘쿨 3부]",
+      "link": "https://www.youtube.com/watch?v=xfTzWLyNgX4",
+      "pub_ts": 1787374825.0,
+      "pub_date": "08/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "다시 폭주하는 부동산 시장, 실제 현장 분위기 이렇습니다 [정민우 대표 풀버전]",
+      "link": "https://www.youtube.com/watch?v=NauFbTB1e-g",
+      "pub_ts": 1787360413.0,
+      "pub_date": "08/22"
+    },
     {
       "channel": "부읽남TV",
       "title": "대한민국에 투자하면 큰일난다? 외국인이 던진 코스피 매도 신호 [김대호 박사 1부]",
       "link": "https://www.youtube.com/watch?v=9LPkiorAs6Q",
       "pub_ts": 1787306413.0,
+      "pub_date": "08/21"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "추석 이후로 집값 무섭게 오른다? 가을철 집값 이렇게 됩니다 [쏘쿨 2부]",
+      "link": "https://www.youtube.com/watch?v=eXbBYjFAEdo",
+      "pub_ts": 1787302804.0,
       "pub_date": "08/21"
     },
     {
@@ -66,13 +94,6 @@
       "pub_date": "08/19"
     },
     {
-      "channel": "부읽남TV",
-      "title": "삼성전자 외국인 투자자들이 다 팔고 떠났다고요? 아니요 [하창봉 대표]",
-      "link": "https://www.youtube.com/shorts/WZqXlrgvGSM",
-      "pub_ts": 1787128207.0,
-      "pub_date": "08/19"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "\"깎을 바엔 그냥 비워둘래요\" 한국 부동산의 미래, 앞으로 벌어질 일들 (김시덕 3부)",
       "link": "https://www.youtube.com/watch?v=RKTPsFgShfc",
@@ -85,124 +106,9 @@
       "link": "https://www.youtube.com/watch?v=A2sLRajLWoo",
       "pub_ts": 1786921201.0,
       "pub_date": "08/16"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "8월 공급 대책 발표 왜 한다고 했나? 언론 마저 한 숨....",
-      "link": "https://www.youtube.com/watch?v=tD6NxG49wwk",
-      "pub_ts": 1786661385.0,
-      "pub_date": "08/13"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "[긴급] 8.13 주택 공급대책, 가장 중요한 5가지 핵심만 정리했습니다. (#주간머니이슈)",
-      "link": "https://www.youtube.com/watch?v=AuoXYTGaqhc",
-      "pub_ts": 1786658428.0,
-      "pub_date": "08/13"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"올해 전세 만기되면 시댁에 들어가야 할 판입니다\" 50대 가진 돈 1억인데 부동산 사도 되나요 (구해줘월부 사연)",
-      "link": "https://www.youtube.com/watch?v=2teV6-Gg8lE",
-      "pub_ts": 1786572022.0,
-      "pub_date": "08/12"
     }
   ],
-  "market": {
-    "total_count": 1089,
-    "total_districts": 25,
-    "top5_districts": [
-      [
-        "송파구",
-        {
-          "count": 28,
-          "avg": 242585,
-          "max_price": 402700,
-          "max_name": "주공아파트 5단지"
-        }
-      ],
-      [
-        "강남구",
-        {
-          "count": 27,
-          "avg": 237892,
-          "max_price": 610000,
-          "max_name": "현대13차(208~211동)"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 21,
-          "avg": 234861,
-          "max_price": 850000,
-          "max_name": "아크로리버파크"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 7,
-          "avg": 226515,
-          "max_price": 475000,
-          "max_name": "신동아"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 17,
-          "avg": 211088,
-          "max_price": 920000,
-          "max_name": "갤러리아포레"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "갤러리아포레",
-        "dong": "성수동1가",
-        "area": 217.86,
-        "price": 920000,
-        "floor": "34",
-        "date": "2026.08.12"
-      },
-      {
-        "name": "아크로리버파크",
-        "dong": "반포동",
-        "area": 129.97,
-        "price": 850000,
-        "floor": "34",
-        "date": "2026.08.03"
-      },
-      {
-        "name": "현대13차(208~211동)",
-        "dong": "압구정동",
-        "area": 105.45,
-        "price": 610000,
-        "floor": "5",
-        "date": "2026.08.12"
-      },
-      {
-        "name": "한양3",
-        "dong": "압구정동",
-        "area": 116.94,
-        "price": 587000,
-        "floor": "12",
-        "date": "2026.08.06"
-      },
-      {
-        "name": "아크로리버파크",
-        "dong": "반포동",
-        "area": 84.97,
-        "price": 539000,
-        "floor": "13",
-        "date": "2026.08.06"
-      }
-    ],
-    "songpa_count": 25,
-    "songpa_avg": 250656
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
