@@ -1,7 +1,42 @@
 {
-  "date": "2026.08.22",
+  "date": "2026.08.23",
   "data_month": "2026년 07월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"아파트 규제 나오니 OO에 풍선효과 왔다\" 지금 부동산 시장에 벌어지는 2가지 현상 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=vEidO7Ri6iM",
+      "pub_ts": 1787522423.0,
+      "pub_date": "08/23"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "이재명 리스크에 매크로 경제위기까지... 부동산의 향방은?",
+      "link": "https://www.youtube.com/watch?v=HnRRZKYiCnI",
+      "pub_ts": 1787519450.0,
+      "pub_date": "08/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "6억에 산 집이 8억 됐는데 주변 집값이 더 올랐습니다",
+      "link": "https://www.youtube.com/watch?v=1E3G1wVAdU4",
+      "pub_ts": 1787472015.0,
+      "pub_date": "08/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "서울 경기도 아파트 '여기' 보세요, 앞으로 본격적으로 오를 겁니다 [쏘쿨 4부]",
+      "link": "https://www.youtube.com/watch?v=BxwJfTgZenQ",
+      "pub_ts": 1787461210.0,
+      "pub_date": "08/23"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "미국 레버리지 ETF로 자녀까지 부자 만드는 투자법 (순자산 110억 전업투자자 라오어)",
+      "link": "https://www.youtube.com/watch?v=plJqUoaurSY",
+      "pub_ts": 1787439637.0,
+      "pub_date": "08/22"
+    },
     {
       "channel": "부읽남TV",
       "title": "\"드디어 서울에 집 샀어요\" 서울 1주택자가 가난해지는 과정",
@@ -11,7 +46,7 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "집값 심상치 않을 겁니다, 무주택자 반드시 '이렇게' 하세요 [쏘쿨 3부]",
+      "title": "언론은 쉬쉬하고 있어요, 지금 부동산 시장 실제 상황 [쏘쿨 3부]",
       "link": "https://www.youtube.com/watch?v=xfTzWLyNgX4",
       "pub_ts": 1787374825.0,
       "pub_date": "08/22"
@@ -71,41 +106,6 @@
       "link": "https://www.youtube.com/watch?v=cc-Y7NHLfZE",
       "pub_ts": 1787220009.0,
       "pub_date": "08/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "다시 폭주하는 부동산 시장, 실제 현장 분위기 이렇습니다 [정민우 대표 3부]",
-      "link": "https://www.youtube.com/watch?v=LT9AsrXO6uM",
-      "pub_ts": 1787216434.0,
-      "pub_date": "08/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"아파트 비싸면 빌라 사세요\" 분노한 청년 세대들",
-      "link": "https://www.youtube.com/watch?v=kXToFD_Mb8E",
-      "pub_ts": 1787137218.0,
-      "pub_date": "08/19"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"서울 아파트 1년에 1억씩 오릅니다\" 이거 이해하면 소름돋을 겁니다 [정민우 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=JxWyBLZSrk8",
-      "pub_ts": 1787130026.0,
-      "pub_date": "08/19"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"깎을 바엔 그냥 비워둘래요\" 한국 부동산의 미래, 앞으로 벌어질 일들 (김시덕 3부)",
-      "link": "https://www.youtube.com/watch?v=RKTPsFgShfc",
-      "pub_ts": 1787004022.0,
-      "pub_date": "08/17"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "포모에서 포기로 가는 요즘 30대 상황... \"주식, 부동산 투자 이제 그만하고 싶어요\" (#구해줘월급 Ep.5)",
-      "link": "https://www.youtube.com/watch?v=A2sLRajLWoo",
-      "pub_ts": 1786921201.0,
-      "pub_date": "08/16"
     }
   ],
   "market": {},
