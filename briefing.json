@@ -1,19 +1,47 @@
 {
-  "date": "2026.08.23",
-  "data_month": "2026년 07월",
+  "date": "2026.08.24",
+  "data_month": "2026년 08월",
   "videos": [
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"아파트 규제 나오니 OO에 풍선효과 왔다\" 지금 부동산 시장에 벌어지는 2가지 현상 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=vEidO7Ri6iM",
-      "pub_ts": 1787522423.0,
-      "pub_date": "08/23"
+      "channel": "아포유 AforU",
+      "title": "비거주1주택 공제 다시 손 본다고? 하지만... 문제가 부동산 만일까?",
+      "link": "https://www.youtube.com/watch?v=9CvLdflX1V4",
+      "pub_ts": 1787604908.0,
+      "pub_date": "08/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "추석 이후로 집값 무섭게 오른다? 가을철 집값 이렇게 될 겁니다 [쏘쿨 풀버전]",
+      "link": "https://www.youtube.com/watch?v=tGMVJ2oxnIg",
+      "pub_ts": 1787565605.0,
+      "pub_date": "08/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "가을 전월세 대란 온다? 집값 결국 '이렇게' 움직입니다 [김대호 박사 3부]",
+      "link": "https://www.youtube.com/watch?v=JBoBpJjXRkw",
+      "pub_ts": 1787562018.0,
+      "pub_date": "08/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "금리 다시 오르기 시작했다, 지금 '이 자산' 눈여겨보세요 [조현승 박사 4부]",
+      "link": "https://www.youtube.com/watch?v=le5r9qo6Yug",
+      "pub_ts": 1787558410.0,
+      "pub_date": "08/24"
     },
     {
       "channel": "아포유 AforU",
       "title": "이재명 리스크에 매크로 경제위기까지... 부동산의 향방은?",
       "link": "https://www.youtube.com/watch?v=HnRRZKYiCnI",
-      "pub_ts": 1787519450.0,
+      "pub_ts": 1787532453.0,
+      "pub_date": "08/24"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"아파트 규제 나오니 OO에 풍선효과 왔다\" 지금 부동산 시장에 벌어지는 2가지 현상 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=vEidO7Ri6iM",
+      "pub_ts": 1787522423.0,
       "pub_date": "08/23"
     },
     {
@@ -78,37 +106,103 @@
       "link": "https://www.youtube.com/watch?v=awipeG-PbTg",
       "pub_ts": 1787269467.0,
       "pub_date": "08/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "현금 5천만 원 있다면 종목 비중 '이렇게' 투자하세요 [하창봉 대표]",
-      "link": "https://www.youtube.com/shorts/HG1IFRlS1tM",
-      "pub_ts": 1787265010.0,
-      "pub_date": "08/20"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "부동산 불패 신화? 오히려 이럴 때 진짜 조심해야 해요 (#주간머니이슈)",
-      "link": "https://www.youtube.com/watch?v=Wsb8JMe2W8k",
-      "pub_ts": 1787263214.0,
-      "pub_date": "08/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "세제개편안 다시 발표한다? 앞으로 집값 이렇게 됩니다",
-      "link": "https://www.youtube.com/watch?v=FXnTvTr22_I",
-      "pub_ts": 1787223618.0,
-      "pub_date": "08/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "공급대책 드디어 나왔다, 집값 앞으로 이렇게 됩니다 [쏘쿨 1부]",
-      "link": "https://www.youtube.com/watch?v=cc-Y7NHLfZE",
-      "pub_ts": 1787220009.0,
-      "pub_date": "08/20"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 1195,
+    "total_districts": 25,
+    "top5_districts": [
+      [
+        "송파구",
+        {
+          "count": 33,
+          "avg": 242578,
+          "max_price": 413700,
+          "max_name": "주공아파트 5단지"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 23,
+          "avg": 240308,
+          "max_price": 850000,
+          "max_name": "아크로리버파크"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 31,
+          "avg": 233341,
+          "max_price": 610000,
+          "max_name": "현대13차(208~211동)"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 10,
+          "avg": 220761,
+          "max_price": 475000,
+          "max_name": "신동아"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 18,
+          "avg": 207677,
+          "max_price": 920000,
+          "max_name": "갤러리아포레"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "갤러리아포레",
+        "dong": "성수동1가",
+        "area": 217.86,
+        "price": 920000,
+        "floor": "34",
+        "date": "2026.08.12"
+      },
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 129.97,
+        "price": 850000,
+        "floor": "34",
+        "date": "2026.08.03"
+      },
+      {
+        "name": "현대13차(208~211동)",
+        "dong": "압구정동",
+        "area": 105.45,
+        "price": 610000,
+        "floor": "5",
+        "date": "2026.08.12"
+      },
+      {
+        "name": "한양3",
+        "dong": "압구정동",
+        "area": 116.94,
+        "price": 587000,
+        "floor": "12",
+        "date": "2026.08.06"
+      },
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 84.97,
+        "price": 539000,
+        "floor": "13",
+        "date": "2026.08.06"
+      }
+    ],
+    "songpa_count": 28,
+    "songpa_avg": 253932
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
