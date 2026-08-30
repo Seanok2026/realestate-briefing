@@ -1,7 +1,14 @@
 {
-  "date": "2026.08.29",
+  "date": "2026.08.30",
   "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "서울 아파트 '여기' 보세요, 이제 노도강도 무섭게 오릅니다 [빠숑 김학렬 소장 3부]",
+      "link": "https://www.youtube.com/watch?v=mtwHT7Dy1GA",
+      "pub_ts": 1788066016.0,
+      "pub_date": "08/30"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "부동산 당연한 건 없다 사이클 모르면 평생 고생",
@@ -59,13 +66,6 @@
       "pub_date": "08/27"
     },
     {
-      "channel": "부읽남TV",
-      "title": "“대책 내놨는데 더 꼬였습니다” 앞으로 집값 이렇게 됩니다 [빠숑 김학렬 소장 1부]",
-      "link": "https://www.youtube.com/watch?v=f2Bg4j_lDsM",
-      "pub_ts": 1787832022.0,
-      "pub_date": "08/27"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "\"부동산 세제개편이 불러온 후폭풍\" 현재 부동산 시장 난리났습니다 (구해줘월부 사연)",
       "link": "https://www.youtube.com/watch?v=kw06DHxdHwg",
@@ -109,7 +109,7 @@
     }
   ],
   "market": {
-    "total_count": 1520,
+    "total_count": 1524,
     "total_districts": 25,
     "top5_districts": [
       [
@@ -133,8 +133,8 @@
       [
         "용산구",
         {
-          "count": 12,
-          "avg": 239717,
+          "count": 16,
+          "avg": 234819,
           "max_price": 475000,
           "max_name": "신동아"
         }
