@@ -4,6 +4,20 @@
   "videos": [
     {
       "channel": "부읽남TV",
+      "title": "국장 주식 투자할 때 '이것' 없으면 무조건 손실 납니다 [김동엽 대표]",
+      "link": "https://www.youtube.com/shorts/fugSOd4VYoc",
+      "pub_ts": 1788301808.0,
+      "pub_date": "09/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "강남은 떨어지는데 강북은 오른다? 서울 부동산에 나타나는 이상현상 [고준석 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=Ckw-7GET1zc",
+      "pub_ts": 1788256818.0,
+      "pub_date": "09/01"
+    },
+    {
+      "channel": "부읽남TV",
       "title": "금리 올려도 집값 못 잡는다? 앞으로 집값 이렇게 됩니다 [고준석 대표 1부]",
       "link": "https://www.youtube.com/watch?v=9lVYc4G4fBg",
       "pub_ts": 1788174026.0,
@@ -52,20 +66,6 @@
       "pub_date": "08/29"
     },
     {
-      "channel": "부읽남TV",
-      "title": "중간 선거 앞둔 지금이 좋은 투자 타이밍인 이유 [한정수 대표]",
-      "link": "https://www.youtube.com/shorts/MW20AXv-s4U",
-      "pub_ts": 1787994004.0,
-      "pub_date": "08/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"집 보러 올라가는데 계약됐어요\" 지금 부동산 현장 실제 분위기 [빠숑 김학렬 소장 2부]",
-      "link": "https://www.youtube.com/watch?v=lwskg4uVCZs",
-      "pub_ts": 1787990426.0,
-      "pub_date": "08/29"
-    },
-    {
       "channel": "아포유 AforU",
       "title": "이런 와중에 매파적 금리인상... 하지만...",
       "link": "https://www.youtube.com/watch?v=5Fd9hQ78vzk",
@@ -108,101 +108,7 @@
       "pub_date": "08/22"
     }
   ],
-  "market": {
-    "total_count": 1634,
-    "total_districts": 25,
-    "top5_districts": [
-      [
-        "강남구",
-        {
-          "count": 51,
-          "avg": 257376,
-          "max_price": 685000,
-          "max_name": "한양3"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 16,
-          "avg": 234819,
-          "max_price": 475000,
-          "max_name": "신동아"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 43,
-          "avg": 232897,
-          "max_price": 850000,
-          "max_name": "아크로리버파크"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 62,
-          "avg": 229664,
-          "max_price": 430000,
-          "max_name": "리센츠"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 25,
-          "avg": 196728,
-          "max_price": 920000,
-          "max_name": "갤러리아포레"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "갤러리아포레",
-        "dong": "성수동1가",
-        "area": 217.86,
-        "price": 920000,
-        "floor": "34",
-        "date": "2026.08.12"
-      },
-      {
-        "name": "아크로리버파크",
-        "dong": "반포동",
-        "area": 129.97,
-        "price": 850000,
-        "floor": "34",
-        "date": "2026.08.03"
-      },
-      {
-        "name": "한양3",
-        "dong": "압구정동",
-        "area": 161.9,
-        "price": 685000,
-        "floor": "9",
-        "date": "2026.08.20"
-      },
-      {
-        "name": "신현대9차",
-        "dong": "압구정동",
-        "area": 111.38,
-        "price": 665000,
-        "floor": "4",
-        "date": "2026.08.23"
-      },
-      {
-        "name": "현대13차(208~211동)",
-        "dong": "압구정동",
-        "area": 105.45,
-        "price": 610000,
-        "floor": "5",
-        "date": "2026.08.12"
-      }
-    ],
-    "songpa_count": 53,
-    "songpa_avg": 237607
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
