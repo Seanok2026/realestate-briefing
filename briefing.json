@@ -1,7 +1,28 @@
 {
-  "date": "2026.08.30",
+  "date": "2026.09.01",
   "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "금리 올려도 집값 못 잡는다? 앞으로 집값 이렇게 됩니다 [고준석 대표 1부]",
+      "link": "https://www.youtube.com/watch?v=9lVYc4G4fBg",
+      "pub_ts": 1788174026.0,
+      "pub_date": "08/31"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 현금 1억 있다면 저라면 '이렇게' 투자합니다 [한정수 대표 3부]",
+      "link": "https://www.youtube.com/watch?v=sUnxcPRhIio",
+      "pub_ts": 1788166826.0,
+      "pub_date": "08/31"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "경기도 인천 아파트 '여기' 보세요, 내년부터 정말 무섭게 오를 겁니다 [빠숑 김학렬 소장 4부]",
+      "link": "https://www.youtube.com/watch?v=6yUN8ASanT0",
+      "pub_ts": 1788163203.0,
+      "pub_date": "08/31"
+    },
     {
       "channel": "부읽남TV",
       "title": "서울 아파트 '여기' 보세요, 이제 노도강도 무섭게 오릅니다 [빠숑 김학렬 소장 3부]",
@@ -45,20 +66,6 @@
       "pub_date": "08/29"
     },
     {
-      "channel": "부읽남TV",
-      "title": "앞으로 지옥이 펼쳐질 거예요, 가을철 집값 이렇게 됩니다 [아임해피 정지영 1부]",
-      "link": "https://www.youtube.com/watch?v=wsSAZRjx6Rk",
-      "pub_ts": 1787914823.0,
-      "pub_date": "08/28"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 현금 1천만원 있다면 저라면 이렇게 투자합니다 [김동엽 대표 4부]",
-      "link": "https://www.youtube.com/watch?v=J8vSJo183Go",
-      "pub_ts": 1787904021.0,
-      "pub_date": "08/28"
-    },
-    {
       "channel": "아포유 AforU",
       "title": "이런 와중에 매파적 금리인상... 하지만...",
       "link": "https://www.youtube.com/watch?v=5Fd9hQ78vzk",
@@ -99,35 +106,19 @@
       "link": "https://www.youtube.com/watch?v=plJqUoaurSY",
       "pub_ts": 1787439637.0,
       "pub_date": "08/22"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "지지율 붕괴... 과연 부동산 만의 문제일까?",
-      "link": "https://www.youtube.com/watch?v=awipeG-PbTg",
-      "pub_ts": 1787269467.0,
-      "pub_date": "08/20"
     }
   ],
   "market": {
-    "total_count": 1524,
+    "total_count": 1634,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 46,
-          "avg": 248069,
+          "count": 51,
+          "avg": 257376,
           "max_price": 685000,
           "max_name": "한양3"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 40,
-          "avg": 242765,
-          "max_price": 850000,
-          "max_name": "아크로리버파크"
         }
       ],
       [
@@ -140,10 +131,19 @@
         }
       ],
       [
+        "서초구",
+        {
+          "count": 43,
+          "avg": 232897,
+          "max_price": 850000,
+          "max_name": "아크로리버파크"
+        }
+      ],
+      [
         "송파구",
         {
-          "count": 61,
-          "avg": 229839,
+          "count": 62,
+          "avg": 229664,
           "max_price": 430000,
           "max_name": "리센츠"
         }
@@ -151,8 +151,8 @@
       [
         "성동구",
         {
-          "count": 21,
-          "avg": 200104,
+          "count": 25,
+          "avg": 196728,
           "max_price": 920000,
           "max_name": "갤러리아포레"
         }
@@ -200,8 +200,8 @@
         "date": "2026.08.12"
       }
     ],
-    "songpa_count": 52,
-    "songpa_avg": 237965
+    "songpa_count": 53,
+    "songpa_avg": 237607
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
