@@ -1,7 +1,21 @@
 {
-  "date": "2026.09.01",
-  "data_month": "2026년 08월",
+  "date": "2026.09.02",
+  "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "\"세제 개편안 확정\" 초고가 아파트 몰락 시작되나",
+      "link": "https://www.youtube.com/watch?v=hV9NbpY5L7A",
+      "pub_ts": 1788346813.0,
+      "pub_date": "09/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "다시 폭주하는 부동산 시장, 지금 현장 분위기 이렇습니다 [빠숑 김학렬 소장 풀버전]",
+      "link": "https://www.youtube.com/watch?v=QFrhqgZFGt0",
+      "pub_ts": 1788332438.0,
+      "pub_date": "09/02"
+    },
     {
       "channel": "부읽남TV",
       "title": "국장 주식 투자할 때 '이것' 없으면 무조건 손실 납니다 [김동엽 대표]",
@@ -25,24 +39,10 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "지금 현금 1억 있다면 저라면 '이렇게' 투자합니다 [한정수 대표 3부]",
+      "title": "지금 현금 1억 있다면 저라면 '이렇게' 투자합니다 [한정수 작가 3부]",
       "link": "https://www.youtube.com/watch?v=sUnxcPRhIio",
       "pub_ts": 1788166826.0,
       "pub_date": "08/31"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "경기도 인천 아파트 '여기' 보세요, 내년부터 정말 무섭게 오를 겁니다 [빠숑 김학렬 소장 4부]",
-      "link": "https://www.youtube.com/watch?v=6yUN8ASanT0",
-      "pub_ts": 1788163203.0,
-      "pub_date": "08/31"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 아파트 '여기' 보세요, 이제 노도강도 무섭게 오릅니다 [빠숑 김학렬 소장 3부]",
-      "link": "https://www.youtube.com/watch?v=mtwHT7Dy1GA",
-      "pub_ts": 1788066016.0,
-      "pub_date": "08/30"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -56,13 +56,6 @@
       "title": "강남 집값 하락의 시작? 부동산 흐름이 바뀌었다",
       "link": "https://www.youtube.com/shorts/enGt2fFfhfw",
       "pub_ts": 1788012445.0,
-      "pub_date": "08/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"이대로 가면 아비규환입니다\" 집값 엄청나게 심각할 겁니다 [아임해피 정지영 2부]",
-      "link": "https://www.youtube.com/watch?v=dbg2XNjKTo4",
-      "pub_ts": 1788001220.0,
       "pub_date": "08/29"
     },
     {
@@ -106,9 +99,110 @@
       "link": "https://www.youtube.com/watch?v=plJqUoaurSY",
       "pub_ts": 1787439637.0,
       "pub_date": "08/22"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "지지율 붕괴... 과연 부동산 만의 문제일까?",
+      "link": "https://www.youtube.com/watch?v=awipeG-PbTg",
+      "pub_ts": 1787269467.0,
+      "pub_date": "08/20"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 16,
+    "total_districts": 10,
+    "top5_districts": [
+      [
+        "서초구",
+        {
+          "count": 1,
+          "avg": 270000,
+          "max_price": 270000,
+          "max_name": "서초1차e-편한세상"
+        }
+      ],
+      [
+        "서대문구",
+        {
+          "count": 1,
+          "avg": 196500,
+          "max_price": 196500,
+          "max_name": "e편한세상신촌2단지"
+        }
+      ],
+      [
+        "관악구",
+        {
+          "count": 2,
+          "avg": 90000,
+          "max_price": 90000,
+          "max_name": "동아타운21"
+        }
+      ],
+      [
+        "동대문구",
+        {
+          "count": 2,
+          "avg": 80850,
+          "max_price": 96700,
+          "max_name": "현대"
+        }
+      ],
+      [
+        "구로구",
+        {
+          "count": 2,
+          "avg": 79750,
+          "max_price": 83500,
+          "max_name": "우성3"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "서초1차e-편한세상",
+        "dong": "서초동",
+        "area": 130.53,
+        "price": 270000,
+        "floor": "10",
+        "date": "2026.09.01"
+      },
+      {
+        "name": "e편한세상신촌2단지",
+        "dong": "북아현동",
+        "area": 59.85,
+        "price": 196500,
+        "floor": "13",
+        "date": "2026.09.01"
+      },
+      {
+        "name": "현대",
+        "dong": "이문동",
+        "area": 59.92,
+        "price": 96700,
+        "floor": "14",
+        "date": "2026.09.01"
+      },
+      {
+        "name": "동아타운21",
+        "dong": "봉천동",
+        "area": 125.42,
+        "price": 90000,
+        "floor": "5",
+        "date": "2026.09.01"
+      },
+      {
+        "name": "동아타운21",
+        "dong": "봉천동",
+        "area": 125.42,
+        "price": 90000,
+        "floor": "5",
+        "date": "2026.09.01"
+      }
+    ],
+    "songpa_count": 1,
+    "songpa_avg": 75500
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
