@@ -1,10 +1,31 @@
 {
-  "date": "2026.09.02",
+  "date": "2026.09.03",
   "data_month": "2026년 09월",
   "videos": [
     {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울 아파트 입주 반토막, 착공은 반등 \"지금 당장 체크해야 할 부동산 상황\" (#주간머니이슈 1부)",
+      "link": "https://www.youtube.com/watch?v=xYS0MqV9MlI",
+      "pub_ts": 1788472820.0,
+      "pub_date": "09/03"
+    },
+    {
       "channel": "부읽남TV",
-      "title": "\"세제 개편안 확정\" 초고가 아파트 몰락 시작되나",
+      "title": "금리 올려도 집값 못 잡는다? 앞으로 집값 이렇게 됩니다 [김사부 1부]",
+      "link": "https://www.youtube.com/watch?v=XIvv5zCIzOU",
+      "pub_ts": 1788426038.0,
+      "pub_date": "09/03"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "앞으로 지옥이 펼쳐질 거예요, 가을철 집값 이렇게 될 겁니다 [아임해피 정지영 풀버전]",
+      "link": "https://www.youtube.com/watch?v=iKittNveLBg",
+      "pub_ts": 1788418831.0,
+      "pub_date": "09/03"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "세제개편안 결국 확정됐다, 앞으로 집값 이렇게 됩니다",
       "link": "https://www.youtube.com/watch?v=hV9NbpY5L7A",
       "pub_ts": 1788346813.0,
       "pub_date": "09/02"
@@ -29,20 +50,6 @@
       "link": "https://www.youtube.com/watch?v=Ckw-7GET1zc",
       "pub_ts": 1788256818.0,
       "pub_date": "09/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "금리 올려도 집값 못 잡는다? 앞으로 집값 이렇게 됩니다 [고준석 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=9lVYc4G4fBg",
-      "pub_ts": 1788174026.0,
-      "pub_date": "08/31"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 현금 1억 있다면 저라면 '이렇게' 투자합니다 [한정수 작가 3부]",
-      "link": "https://www.youtube.com/watch?v=sUnxcPRhIio",
-      "pub_ts": 1788166826.0,
-      "pub_date": "08/31"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -99,18 +106,11 @@
       "link": "https://www.youtube.com/watch?v=plJqUoaurSY",
       "pub_ts": 1787439637.0,
       "pub_date": "08/22"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "지지율 붕괴... 과연 부동산 만의 문제일까?",
-      "link": "https://www.youtube.com/watch?v=awipeG-PbTg",
-      "pub_ts": 1787269467.0,
-      "pub_date": "08/20"
     }
   ],
   "market": {
-    "total_count": 16,
-    "total_districts": 10,
+    "total_count": 32,
+    "total_districts": 14,
     "top5_districts": [
       [
         "서초구",
@@ -119,6 +119,24 @@
           "avg": 270000,
           "max_price": 270000,
           "max_name": "서초1차e-편한세상"
+        }
+      ],
+      [
+        "마포구",
+        {
+          "count": 1,
+          "avg": 212800,
+          "max_price": 212800,
+          "max_name": "마포아이파크포레"
+        }
+      ],
+      [
+        "영등포구",
+        {
+          "count": 1,
+          "avg": 204000,
+          "max_price": 204000,
+          "max_name": "보라매에스케이뷰"
         }
       ],
       [
@@ -131,30 +149,12 @@
         }
       ],
       [
-        "관악구",
+        "성북구",
         {
-          "count": 2,
-          "avg": 90000,
-          "max_price": 90000,
-          "max_name": "동아타운21"
-        }
-      ],
-      [
-        "동대문구",
-        {
-          "count": 2,
-          "avg": 80850,
-          "max_price": 96700,
-          "max_name": "현대"
-        }
-      ],
-      [
-        "구로구",
-        {
-          "count": 2,
-          "avg": 79750,
-          "max_price": 83500,
-          "max_name": "우성3"
+          "count": 3,
+          "avg": 97333,
+          "max_price": 129500,
+          "max_name": "꿈의숲코오롱하늘채"
         }
       ]
     ],
@@ -168,6 +168,22 @@
         "date": "2026.09.01"
       },
       {
+        "name": "마포아이파크포레",
+        "dong": "신수동",
+        "area": 59.376,
+        "price": 212800,
+        "floor": "19",
+        "date": "2026.09.01"
+      },
+      {
+        "name": "보라매에스케이뷰",
+        "dong": "신길동",
+        "area": 84.98,
+        "price": 204000,
+        "floor": "18",
+        "date": "2026.09.01"
+      },
+      {
         "name": "e편한세상신촌2단지",
         "dong": "북아현동",
         "area": 59.85,
@@ -176,28 +192,12 @@
         "date": "2026.09.01"
       },
       {
-        "name": "현대",
-        "dong": "이문동",
-        "area": 59.92,
-        "price": 96700,
-        "floor": "14",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "동아타운21",
-        "dong": "봉천동",
-        "area": 125.42,
-        "price": 90000,
-        "floor": "5",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "동아타운21",
-        "dong": "봉천동",
-        "area": 125.42,
-        "price": 90000,
-        "floor": "5",
-        "date": "2026.09.01"
+        "name": "리버센SKVIEW롯데캐슬",
+        "dong": "중화동",
+        "area": 100.97,
+        "price": 130000,
+        "floor": "8",
+        "date": "2026.09.03"
       }
     ],
     "songpa_count": 1,
