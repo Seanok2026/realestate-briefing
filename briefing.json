@@ -1,7 +1,35 @@
 {
-  "date": "2026.09.03",
+  "date": "2026.09.04",
   "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"전세계 주식 시장 초긴장\" 잭슨홀 연설에 숨은 진짜 의미와 금리 경고 (#주간머니이슈 2부)",
+      "link": "https://www.youtube.com/watch?v=lrB7G1-GjGE",
+      "pub_ts": 1788559233.0,
+      "pub_date": "09/04"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"현장은 완전히 달라졌어요\" 지금 부동산 시장 실제 분위기 [플팩 강연옥 대표 1부]",
+      "link": "https://www.youtube.com/watch?v=b8nwby4yWhU",
+      "pub_ts": 1788519607.0,
+      "pub_date": "09/04"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "세제개편안 결국 확정됐다, 앞으로 집값 이렇게 됩니다 [박원갑 위원 1부]",
+      "link": "https://www.youtube.com/watch?v=YV5zbwFfzms",
+      "pub_ts": 1788512408.0,
+      "pub_date": "09/04"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "억대 연봉자들이 몰려옵니다, 경기도 아파트 '여기' 보세요 [고준석 교수 4부]",
+      "link": "https://www.youtube.com/watch?v=vyL2SseQwm4",
+      "pub_ts": 1788505201.0,
+      "pub_date": "09/04"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "서울 아파트 입주 반토막, 착공은 반등 \"지금 당장 체크해야 할 부동산 상황\" (#주간머니이슈 1부)",
@@ -32,24 +60,17 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "다시 폭주하는 부동산 시장, 지금 현장 분위기 이렇습니다 [빠숑 김학렬 소장 풀버전]",
-      "link": "https://www.youtube.com/watch?v=QFrhqgZFGt0",
-      "pub_ts": 1788332438.0,
+      "title": "“앞으로 지옥이 시작됩니다” 가을부터 집값 이렇게 됩니다 [고준석 교수 3부]",
+      "link": "https://www.youtube.com/watch?v=bPWRmkGcHzE",
+      "pub_ts": 1788336034.0,
       "pub_date": "09/02"
     },
     {
       "channel": "부읽남TV",
-      "title": "국장 주식 투자할 때 '이것' 없으면 무조건 손실 납니다 [김동엽 대표]",
-      "link": "https://www.youtube.com/shorts/fugSOd4VYoc",
-      "pub_ts": 1788301808.0,
-      "pub_date": "09/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "강남은 떨어지는데 강북은 오른다? 서울 부동산에 나타나는 이상현상 [고준석 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=Ckw-7GET1zc",
-      "pub_ts": 1788256818.0,
-      "pub_date": "09/01"
+      "title": "다시 폭주하는 부동산 시장, 지금 현장 분위기 이렇습니다 [빠숑 김학렬 소장 풀버전]",
+      "link": "https://www.youtube.com/watch?v=QFrhqgZFGt0",
+      "pub_ts": 1788332438.0,
+      "pub_date": "09/02"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -85,51 +106,12 @@
       "link": "https://www.youtube.com/watch?v=9CvLdflX1V4",
       "pub_ts": 1787614661.0,
       "pub_date": "08/24"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "이재명 리스크에 매크로 경제위기까지... 부동산의 향방은?",
-      "link": "https://www.youtube.com/watch?v=HnRRZKYiCnI",
-      "pub_ts": 1787532453.0,
-      "pub_date": "08/24"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"아파트 규제 나오니 OO에 풍선효과 왔다\" 지금 부동산 시장에 벌어지는 2가지 현상 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=vEidO7Ri6iM",
-      "pub_ts": 1787522423.0,
-      "pub_date": "08/23"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "미국 레버리지 ETF로 자녀까지 부자 만드는 투자법 (순자산 110억 전업투자자 라오어)",
-      "link": "https://www.youtube.com/watch?v=plJqUoaurSY",
-      "pub_ts": 1787439637.0,
-      "pub_date": "08/22"
     }
   ],
   "market": {
-    "total_count": 32,
-    "total_districts": 14,
+    "total_count": 117,
+    "total_districts": 18,
     "top5_districts": [
-      [
-        "서초구",
-        {
-          "count": 1,
-          "avg": 270000,
-          "max_price": 270000,
-          "max_name": "서초1차e-편한세상"
-        }
-      ],
-      [
-        "마포구",
-        {
-          "count": 1,
-          "avg": 212800,
-          "max_price": 212800,
-          "max_name": "마포아이파크포레"
-        }
-      ],
       [
         "영등포구",
         {
@@ -149,12 +131,30 @@
         }
       ],
       [
-        "성북구",
+        "마포구",
         {
-          "count": 3,
-          "avg": 97333,
-          "max_price": 129500,
-          "max_name": "꿈의숲코오롱하늘채"
+          "count": 2,
+          "avg": 173900,
+          "max_price": 212800,
+          "max_name": "마포아이파크포레"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 2,
+          "avg": 149900,
+          "max_price": 270000,
+          "max_name": "서초1차e-편한세상"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 2,
+          "avg": 130250,
+          "max_price": 185000,
+          "max_name": "송파파인타운11단지"
         }
       ]
     ],
@@ -192,12 +192,12 @@
         "date": "2026.09.01"
       },
       {
-        "name": "리버센SKVIEW롯데캐슬",
-        "dong": "중화동",
-        "area": 100.97,
-        "price": 130000,
-        "floor": "8",
-        "date": "2026.09.03"
+        "name": "송파파인타운11단지",
+        "dong": "장지동",
+        "area": 84.94,
+        "price": 185000,
+        "floor": "13",
+        "date": "2026.09.01"
       }
     ],
     "songpa_count": 1,
