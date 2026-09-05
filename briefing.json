@@ -1,7 +1,28 @@
 {
-  "date": "2026.09.04",
-  "data_month": "2026년 09월",
+  "date": "2026.09.05",
+  "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "당분간 금리 오를 거예요, 집값은 이렇게 될 겁니다 [플팩 강연옥 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=oUsmZDdb4FE",
+      "pub_ts": 1788606011.0,
+      "pub_date": "09/05"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "강남은 떨어지는데 강북은 오른다? 서울 부동산에 나타나는 이상현상 [박원갑 위원 2부]",
+      "link": "https://www.youtube.com/watch?v=I6GQR0kCEmA",
+      "pub_ts": 1788595219.0,
+      "pub_date": "09/05"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "앞으로 지옥이 시작됩니다, 가을부터 집값 이렇게 됩니다 [김사부 2부]",
+      "link": "https://www.youtube.com/watch?v=hNx2GNpNU8c",
+      "pub_ts": 1788584418.0,
+      "pub_date": "09/05"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"전세계 주식 시장 초긴장\" 잭슨홀 연설에 숨은 진짜 의미와 금리 경고 (#주간머니이슈 2부)",
@@ -59,20 +80,6 @@
       "pub_date": "09/02"
     },
     {
-      "channel": "부읽남TV",
-      "title": "“앞으로 지옥이 시작됩니다” 가을부터 집값 이렇게 됩니다 [고준석 교수 3부]",
-      "link": "https://www.youtube.com/watch?v=bPWRmkGcHzE",
-      "pub_ts": 1788336034.0,
-      "pub_date": "09/02"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "다시 폭주하는 부동산 시장, 지금 현장 분위기 이렇습니다 [빠숑 김학렬 소장 풀버전]",
-      "link": "https://www.youtube.com/watch?v=QFrhqgZFGt0",
-      "pub_ts": 1788332438.0,
-      "pub_date": "09/02"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "부동산 당연한 건 없다 사이클 모르면 평생 고생",
       "link": "https://www.youtube.com/shorts/7c9RObZyHAM",
@@ -99,110 +106,9 @@
       "link": "https://www.youtube.com/watch?v=kw06DHxdHwg",
       "pub_ts": 1787781630.0,
       "pub_date": "08/26"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "비거주1주택 공제 다시 손 본다고? 하지만... 문제가 부동산 만일까?",
-      "link": "https://www.youtube.com/watch?v=9CvLdflX1V4",
-      "pub_ts": 1787614661.0,
-      "pub_date": "08/24"
     }
   ],
-  "market": {
-    "total_count": 117,
-    "total_districts": 18,
-    "top5_districts": [
-      [
-        "영등포구",
-        {
-          "count": 1,
-          "avg": 204000,
-          "max_price": 204000,
-          "max_name": "보라매에스케이뷰"
-        }
-      ],
-      [
-        "서대문구",
-        {
-          "count": 1,
-          "avg": 196500,
-          "max_price": 196500,
-          "max_name": "e편한세상신촌2단지"
-        }
-      ],
-      [
-        "마포구",
-        {
-          "count": 2,
-          "avg": 173900,
-          "max_price": 212800,
-          "max_name": "마포아이파크포레"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 2,
-          "avg": 149900,
-          "max_price": 270000,
-          "max_name": "서초1차e-편한세상"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 2,
-          "avg": 130250,
-          "max_price": 185000,
-          "max_name": "송파파인타운11단지"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "서초1차e-편한세상",
-        "dong": "서초동",
-        "area": 130.53,
-        "price": 270000,
-        "floor": "10",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "마포아이파크포레",
-        "dong": "신수동",
-        "area": 59.376,
-        "price": 212800,
-        "floor": "19",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "보라매에스케이뷰",
-        "dong": "신길동",
-        "area": 84.98,
-        "price": 204000,
-        "floor": "18",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "e편한세상신촌2단지",
-        "dong": "북아현동",
-        "area": 59.85,
-        "price": 196500,
-        "floor": "13",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "송파파인타운11단지",
-        "dong": "장지동",
-        "area": 84.94,
-        "price": 185000,
-        "floor": "13",
-        "date": "2026.09.01"
-      }
-    ],
-    "songpa_count": 1,
-    "songpa_avg": 75500
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
