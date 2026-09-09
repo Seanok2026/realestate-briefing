@@ -1,19 +1,54 @@
 {
-  "date": "2026.09.08",
-  "data_month": "2026년 09월",
+  "date": "2026.09.09",
+  "data_month": "2026년 08월",
   "videos": [
     {
       "channel": "월급쟁이부자들TV",
-      "title": "\"이런 얘기 처음합니다\" 부동산 전문가들이 공통적으로 말하는 한국 집값 상황, 제가 다 알려드릴게요 (정프로 1부)",
-      "link": "https://www.youtube.com/watch?v=V5FMQjbRP4U",
-      "pub_ts": 1788904814.0,
-      "pub_date": "09/08"
+      "title": "금리도 오르는데 너무 급하게 집 산 것 같아요… 저 재테크 망한 건가요? (#구해줘월급 ep.07)",
+      "link": "https://www.youtube.com/watch?v=Ak_QIm93pXQ",
+      "pub_ts": 1788991239.0,
+      "pub_date": "09/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"조금만 더 기다릴까요\" 금리 인상, 집값 내려갈까",
+      "link": "https://www.youtube.com/watch?v=TR3dllrBdww",
+      "pub_ts": 1788951633.0,
+      "pub_date": "09/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "서울 아파트 값 순환매? 저점매수 하는 방법 [박원갑 위원]",
+      "link": "https://www.youtube.com/shorts/PZKVD7q51Y0",
+      "pub_ts": 1788942606.0,
+      "pub_date": "09/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"현장은 완전히 달라졌어요\" 지금 부동산 시장 실제 분위기 [플팩 강연옥 대표 풀버전]",
+      "link": "https://www.youtube.com/watch?v=wfoKobVPaRE",
+      "pub_ts": 1788940808.0,
+      "pub_date": "09/09"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "집값 2028년까지 오를 겁니다, 지금이라도 집 사야 하는 이유 [김사부 풀버전]",
+      "link": "https://www.youtube.com/watch?v=M7zFcZmpeVU",
+      "pub_ts": 1788937204.0,
+      "pub_date": "09/09"
     },
     {
       "channel": "아포유 AforU",
       "title": "금융권 대출 억제... 하지만 이재명은 해법을 이미 알려줬다!!!",
       "link": "https://www.youtube.com/watch?v=2U0ia_OHN3M",
-      "pub_ts": 1788900729.0,
+      "pub_ts": 1788911088.0,
+      "pub_date": "09/08"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"이런 얘기 처음합니다\" 부동산 전문가들이 공통적으로 말하는 한국 집값 상황, 제가 다 알려드릴게요",
+      "link": "https://www.youtube.com/watch?v=V5FMQjbRP4U",
+      "pub_ts": 1788904814.0,
       "pub_date": "09/08"
     },
     {
@@ -25,7 +60,7 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "경기도 아파트 '여기' 보세요, 앞으로 집값 무섭게 오를 겁니다 [김사부 4부]",
+      "title": "서울 경기도 2028년까지 오를 겁니다, 서울 구축보다 '여기' 아파트 사세요 [김사부 4부]",
       "link": "https://www.youtube.com/watch?v=h22uY9U_9_I",
       "pub_ts": 1788771629.0,
       "pub_date": "09/07"
@@ -39,38 +74,10 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "“지금 전세금 올리지 마세요” 2년 뒤 역전세 터질 수 있습니다 [김사부 3부]",
+      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [김사부 3부]",
       "link": "https://www.youtube.com/watch?v=0dcxkj_LLrA",
       "pub_ts": 1788692437.0,
       "pub_date": "09/06"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"예전과 완전히 달라졌어요\" 지금 부동산에 나타나는 이상현상 [고준석 교수 풀버전]",
-      "link": "https://www.youtube.com/watch?v=z4t5wRW_m_Q",
-      "pub_ts": 1788656418.0,
-      "pub_date": "09/06"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "당분간 금리 오를 거예요, 집값은 이렇게 될 겁니다 [플팩 강연옥 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=oUsmZDdb4FE",
-      "pub_ts": 1788606011.0,
-      "pub_date": "09/05"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "“과거와 완전히 다릅니다” 부동산 시장에 나타난 이상현상 [박원갑 위원 2부]",
-      "link": "https://www.youtube.com/watch?v=I6GQR0kCEmA",
-      "pub_ts": 1788595219.0,
-      "pub_date": "09/05"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "앞으로 지옥이 시작됩니다, 가을부터 집값 이렇게 됩니다 [김사부 2부]",
-      "link": "https://www.youtube.com/watch?v=hNx2GNpNU8c",
-      "pub_ts": 1788584418.0,
-      "pub_date": "09/05"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -99,110 +106,9 @@
       "link": "https://www.youtube.com/shorts/enGt2fFfhfw",
       "pub_ts": 1788012445.0,
       "pub_date": "08/29"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "이런 와중에 매파적 금리인상... 하지만...",
-      "link": "https://www.youtube.com/watch?v=5Fd9hQ78vzk",
-      "pub_ts": 1787873958.0,
-      "pub_date": "08/27"
     }
   ],
-  "market": {
-    "total_count": 227,
-    "total_districts": 22,
-    "top5_districts": [
-      [
-        "강남구",
-        {
-          "count": 2,
-          "avg": 351500,
-          "max_price": 378000,
-          "max_name": "도곡렉슬"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 6,
-          "avg": 243633,
-          "max_price": 505000,
-          "max_name": "반포자이"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 1,
-          "avg": 207500,
-          "max_price": 207500,
-          "max_name": "이편한세상금호파크힐스"
-        }
-      ],
-      [
-        "동작구",
-        {
-          "count": 1,
-          "avg": 192500,
-          "max_price": 192500,
-          "max_name": "힐스테이트 상도 센트럴파크"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 6,
-          "avg": 175416,
-          "max_price": 360000,
-          "max_name": "리센츠"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "반포자이",
-        "dong": "반포동",
-        "area": 84.943,
-        "price": 505000,
-        "floor": "8",
-        "date": "2026.09.08"
-      },
-      {
-        "name": "도곡렉슬",
-        "dong": "도곡동",
-        "area": 84.9984,
-        "price": 378000,
-        "floor": "18",
-        "date": "2026.09.01"
-      },
-      {
-        "name": "반포써밋",
-        "dong": "반포동",
-        "area": 84.6849,
-        "price": 376000,
-        "floor": "10",
-        "date": "2026.09.03"
-      },
-      {
-        "name": "리센츠",
-        "dong": "잠실동",
-        "area": 84.99,
-        "price": 360000,
-        "floor": "27",
-        "date": "2026.09.08"
-      },
-      {
-        "name": "개포주공7단지",
-        "dong": "개포동",
-        "area": 83.7,
-        "price": 325000,
-        "floor": "1",
-        "date": "2026.09.04"
-      }
-    ],
-    "songpa_count": 5,
-    "songpa_avg": 173500
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
