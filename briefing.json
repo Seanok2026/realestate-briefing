@@ -1,7 +1,21 @@
 {
-  "date": "2026.09.11",
+  "date": "2026.09.12",
   "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "금리 올려도 집값 못 잡는다? 앞으로 집값 이렇게 됩니다 [윤지해 랩장 2부]",
+      "link": "https://www.youtube.com/watch?v=Mdf0_7rVODE",
+      "pub_ts": 1789200005.0,
+      "pub_date": "09/12"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "서울 경기도 아파트 여기 보세요, 내년부터 정말 무섭게 오를 겁니다 [손품왕 3부]",
+      "link": "https://www.youtube.com/watch?v=ZKgpjQ4BVGU",
+      "pub_ts": 1789174815.0,
+      "pub_date": "09/12"
+    },
     {
       "channel": "부읽남TV",
       "title": "\"덜 똘똘한 한 채 올라갑니다\" 전월세 감소, 집값 상승 시작됐다 [윤지해 랩장 1부]",
@@ -42,20 +56,6 @@
       "title": "금리도 오르는데 너무 급하게 집 산 것 같아요… 저 재테크 망한 건가요? (#구해줘월급 ep.07)",
       "link": "https://www.youtube.com/watch?v=Ak_QIm93pXQ",
       "pub_ts": 1788991239.0,
-      "pub_date": "09/09"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"조금만 더 기다릴까요\" 금리 인상, 집값 내려갈까",
-      "link": "https://www.youtube.com/watch?v=TR3dllrBdww",
-      "pub_ts": 1788951633.0,
-      "pub_date": "09/09"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 아파트 값 순환매? 저점매수 하는 방법 [박원갑 위원]",
-      "link": "https://www.youtube.com/shorts/PZKVD7q51Y0",
-      "pub_ts": 1788942606.0,
       "pub_date": "09/09"
     },
     {
