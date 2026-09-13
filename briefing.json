@@ -1,10 +1,38 @@
 {
-  "date": "2026.09.12",
-  "data_month": "2026년 08월",
+  "date": "2026.09.13",
+  "data_month": "2026년 09월",
   "videos": [
     {
+      "channel": "월급쟁이부자들TV",
+      "title": "그 집은 계속 살면 안 돼요 앞으로도 집값 오르기 어려워요 (구해줘월부 사연)",
+      "link": "https://www.youtube.com/watch?v=hEpe-Hlgz9Q",
+      "pub_ts": 1789336806.0,
+      "pub_date": "09/13"
+    },
+    {
       "channel": "부읽남TV",
-      "title": "금리 올려도 집값 못 잡는다? 앞으로 집값 이렇게 됩니다 [윤지해 랩장 2부]",
+      "title": "\"이젠 서울 외곽도 오릅니다\" 지금 부동산 분위기 이렇습니다 [윤지해 랩장 3부]",
+      "link": "https://www.youtube.com/watch?v=SryqrnYWz6s",
+      "pub_ts": 1789297223.0,
+      "pub_date": "09/13"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "아파트 매매 흐름이 완벽하게 바뀝니다",
+      "link": "https://www.youtube.com/shorts/piwqV0hSpMw",
+      "pub_ts": 1789284908.0,
+      "pub_date": "09/13"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울 집값 폭등 속 외곽만 유독 오른 이유",
+      "link": "https://www.youtube.com/shorts/DGW6oGf0RcA",
+      "pub_ts": 1789284661.0,
+      "pub_date": "09/13"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "서울 경기도 부동산 실제 분위기 \"이제 하급지 집값도 오릅니다\" [윤지해 랩장 2부]",
       "link": "https://www.youtube.com/watch?v=Mdf0_7rVODE",
       "pub_ts": 1789200005.0,
       "pub_date": "09/12"
@@ -45,13 +73,6 @@
       "pub_date": "09/10"
     },
     {
-      "channel": "부읽남TV",
-      "title": "대책 나왔는데 더 꼬였다? 앞으로 집값 이렇게 됩니다 [박원갑 위원 풀버전]",
-      "link": "https://www.youtube.com/watch?v=kgwh-3xTrDA",
-      "pub_ts": 1789027222.0,
-      "pub_date": "09/10"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "금리도 오르는데 너무 급하게 집 산 것 같아요… 저 재테크 망한 건가요? (#구해줘월급 ep.07)",
       "link": "https://www.youtube.com/watch?v=Ak_QIm93pXQ",
@@ -85,30 +106,103 @@
       "link": "https://www.youtube.com/watch?v=lrB7G1-GjGE",
       "pub_ts": 1788559233.0,
       "pub_date": "09/04"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "서울 아파트 입주 반토막, 착공은 반등 \"지금 당장 체크해야 할 부동산 상황\" (#주간머니이슈 1부)",
-      "link": "https://www.youtube.com/watch?v=xYS0MqV9MlI",
-      "pub_ts": 1788472820.0,
-      "pub_date": "09/03"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "부동산 당연한 건 없다 사이클 모르면 평생 고생",
-      "link": "https://www.youtube.com/shorts/7c9RObZyHAM",
-      "pub_ts": 1788012591.0,
-      "pub_date": "08/29"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "강남 집값 하락의 시작? 부동산 흐름이 바뀌었다",
-      "link": "https://www.youtube.com/shorts/enGt2fFfhfw",
-      "pub_ts": 1788012445.0,
-      "pub_date": "08/29"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 448,
+    "total_districts": 22,
+    "top5_districts": [
+      [
+        "서초구",
+        {
+          "count": 12,
+          "avg": 321883,
+          "max_price": 670000,
+          "max_name": "반포자이"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 4,
+          "avg": 239875,
+          "max_price": 378000,
+          "max_name": "도곡렉슬"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 6,
+          "avg": 211083,
+          "max_price": 240000,
+          "max_name": "센트라스"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 9,
+          "avg": 178444,
+          "max_price": 360000,
+          "max_name": "리센츠"
+        }
+      ],
+      [
+        "마포구",
+        {
+          "count": 9,
+          "avg": 163644,
+          "max_price": 229500,
+          "max_name": "힐스테이트마포더퍼스트"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 216.49,
+        "price": 670000,
+        "floor": "21",
+        "date": "2026.09.03"
+      },
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 84.943,
+        "price": 505000,
+        "floor": "8",
+        "date": "2026.09.08"
+      },
+      {
+        "name": "래미안퍼스티지",
+        "dong": "반포동",
+        "area": 84.93,
+        "price": 490000,
+        "floor": "25",
+        "date": "2026.09.07"
+      },
+      {
+        "name": "신반포2",
+        "dong": "잠원동",
+        "area": 79.42,
+        "price": 416000,
+        "floor": "9",
+        "date": "2026.09.04"
+      },
+      {
+        "name": "신반포2",
+        "dong": "잠원동",
+        "area": 79.42,
+        "price": 415000,
+        "floor": "9",
+        "date": "2026.09.05"
+      }
+    ],
+    "songpa_count": 8,
+    "songpa_avg": 177625
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
