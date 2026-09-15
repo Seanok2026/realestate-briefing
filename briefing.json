@@ -1,7 +1,21 @@
 {
   "date": "2026.09.15",
-  "data_month": "2026년 08월",
+  "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "경제 사이클의 비밀과 절대 잃지 않는 투자법, 당장 '이것'부터 시작하세요",
+      "link": "https://www.youtube.com/watch?v=2PH2oLqy1Aw",
+      "pub_ts": 1789509635.0,
+      "pub_date": "09/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"안 가본 분들은 전혀 몰라요\" 경기도 아파트 실제 현장 분위기 [나무좋아 1부]",
+      "link": "https://www.youtube.com/watch?v=QEdzZTClPEk",
+      "pub_ts": 1789466428.0,
+      "pub_date": "09/15"
+    },
     {
       "channel": "부읽남TV",
       "title": "서울 구축 vs 경기도 신축, 이런 경기도는 서울보다 더 오른다 [윤지해 랩장 4부]",
@@ -43,20 +57,6 @@
       "link": "https://www.youtube.com/watch?v=Mdf0_7rVODE",
       "pub_ts": 1789200005.0,
       "pub_date": "09/12"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 경기도 아파트 여기 보세요, 내년부터 정말 무섭게 오를 겁니다 [손품왕 3부]",
-      "link": "https://www.youtube.com/watch?v=ZKgpjQ4BVGU",
-      "pub_ts": 1789174815.0,
-      "pub_date": "09/12"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"덜 똘똘한 한 채 올라갑니다\" 전월세 감소, 집값 상승 시작됐다 [윤지해 랩장 1부]",
-      "link": "https://www.youtube.com/watch?v=ikK04_sQqew",
-      "pub_ts": 1789124423.0,
-      "pub_date": "09/11"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -108,7 +108,101 @@
       "pub_date": "09/04"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 632,
+    "total_districts": 25,
+    "top5_districts": [
+      [
+        "서초구",
+        {
+          "count": 17,
+          "avg": 309388,
+          "max_price": 670000,
+          "max_name": "반포자이"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 9,
+          "avg": 271722,
+          "max_price": 378000,
+          "max_name": "도곡렉슬"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 6,
+          "avg": 234000,
+          "max_price": 460000,
+          "max_name": "신동아"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 8,
+          "avg": 204812,
+          "max_price": 240000,
+          "max_name": "센트라스"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 21,
+          "avg": 198261,
+          "max_price": 380000,
+          "max_name": "레이크팰리스"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 216.49,
+        "price": 670000,
+        "floor": "21",
+        "date": "2026.09.03"
+      },
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 84.943,
+        "price": 505000,
+        "floor": "8",
+        "date": "2026.09.08"
+      },
+      {
+        "name": "래미안퍼스티지",
+        "dong": "반포동",
+        "area": 84.93,
+        "price": 490000,
+        "floor": "25",
+        "date": "2026.09.07"
+      },
+      {
+        "name": "신반포2",
+        "dong": "잠원동",
+        "area": 107.31,
+        "price": 462000,
+        "floor": "2",
+        "date": "2026.09.14"
+      },
+      {
+        "name": "신동아",
+        "dong": "서빙고동",
+        "area": 166.98,
+        "price": 460000,
+        "floor": "4",
+        "date": "2026.09.08"
+      }
+    ],
+    "songpa_count": 17,
+    "songpa_avg": 204500
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
