@@ -1,13 +1,27 @@
 {
-  "date": "2026.09.15",
+  "date": "2026.09.16",
   "data_month": "2026년 09월",
   "videos": [
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "경제 사이클의 비밀과 절대 잃지 않는 투자법, 당장 '이것'부터 시작하세요",
-      "link": "https://www.youtube.com/watch?v=2PH2oLqy1Aw",
-      "pub_ts": 1789509635.0,
-      "pub_date": "09/15"
+      "channel": "아포유 AforU",
+      "title": "서울 자가에 국토교통부 다니는 홍 후보자 이야기...",
+      "link": "https://www.youtube.com/watch?v=G0TSH0tQqio",
+      "pub_ts": 1789602004.0,
+      "pub_date": "09/16"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"86주 연속 서울 집값 상승\" 집값은 도대체 언제 떨어질까",
+      "link": "https://www.youtube.com/watch?v=Kqh5K_65r7w",
+      "pub_ts": 1789556418.0,
+      "pub_date": "09/16"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "서울 경기도 '여기까지' 오릅니다, 서울 구축보다 '여기' 아파트 사세요 [윤지해 랩장 풀버전]",
+      "link": "https://www.youtube.com/watch?v=Ki9wcHnApxs",
+      "pub_ts": 1789542034.0,
+      "pub_date": "09/16"
     },
     {
       "channel": "부읽남TV",
@@ -52,13 +66,6 @@
       "pub_date": "09/13"
     },
     {
-      "channel": "부읽남TV",
-      "title": "서울 경기도 부동산 실제 분위기 \"이제 하급지 집값도 오릅니다\" [윤지해 랩장 2부]",
-      "link": "https://www.youtube.com/watch?v=Mdf0_7rVODE",
-      "pub_ts": 1789200005.0,
-      "pub_date": "09/12"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "부동산이 잘 맞는 사람인지 아닌지 스스로 확인할 수 있는 '이 방법'",
       "link": "https://www.youtube.com/shorts/b0eNIM2rfzY",
@@ -99,17 +106,10 @@
       "link": "https://www.youtube.com/watch?v=DXeWMJMqxNw",
       "pub_ts": 1788732018.0,
       "pub_date": "09/06"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"전세계 주식 시장 초긴장\" 잭슨홀 연설에 숨은 진짜 의미와 금리 경고 (#주간머니이슈 2부)",
-      "link": "https://www.youtube.com/watch?v=lrB7G1-GjGE",
-      "pub_ts": 1788559233.0,
-      "pub_date": "09/04"
     }
   ],
   "market": {
-    "total_count": 632,
+    "total_count": 711,
     "total_districts": 25,
     "top5_districts": [
       [
@@ -124,8 +124,8 @@
       [
         "강남구",
         {
-          "count": 9,
-          "avg": 271722,
+          "count": 14,
+          "avg": 254428,
           "max_price": 378000,
           "max_name": "도곡렉슬"
         }
@@ -133,8 +133,8 @@
       [
         "용산구",
         {
-          "count": 6,
-          "avg": 234000,
+          "count": 8,
+          "avg": 206250,
           "max_price": 460000,
           "max_name": "신동아"
         }
@@ -142,8 +142,8 @@
       [
         "성동구",
         {
-          "count": 8,
-          "avg": 204812,
+          "count": 11,
+          "avg": 202227,
           "max_price": 240000,
           "max_name": "센트라스"
         }
@@ -151,8 +151,8 @@
       [
         "송파구",
         {
-          "count": 21,
-          "avg": 198261,
+          "count": 27,
+          "avg": 186262,
           "max_price": 380000,
           "max_name": "레이크팰리스"
         }
@@ -200,8 +200,8 @@
         "date": "2026.09.08"
       }
     ],
-    "songpa_count": 17,
-    "songpa_avg": 204500
+    "songpa_count": 19,
+    "songpa_avg": 211052
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
