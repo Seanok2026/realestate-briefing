@@ -1,7 +1,28 @@
 {
-  "date": "2026.09.16",
+  "date": "2026.09.17",
   "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "강남은 하락, 외곽은 폭등 지금 부동산에서 벌어지는 일",
+      "link": "https://www.youtube.com/watch?v=9FvqbWOf_ag",
+      "pub_ts": 1789642816.0,
+      "pub_date": "09/17"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "이제 전세 줄 사람도 없어요, 점점 더 꼬여가는 부동산 시장 [나무좋아 2부]",
+      "link": "https://www.youtube.com/watch?v=iY-6mZKKCXw",
+      "pub_ts": 1789639208.0,
+      "pub_date": "09/17"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"1년 전 이 선택 안 했으면…\" 96년생 신혼부부의 서울 내집마련기",
+      "link": "https://www.youtube.com/watch?v=EjvU_KKt1Xg",
+      "pub_ts": 1789635606.0,
+      "pub_date": "09/17"
+    },
     {
       "channel": "아포유 AforU",
       "title": "서울 자가에 국토교통부 다니는 홍 후보자 이야기...",
@@ -11,14 +32,14 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "\"86주 연속 서울 집값 상승\" 집값은 도대체 언제 떨어질까",
+      "title": "\"86주 연속 서울 집값 상승\" 지금은 과거와 완전히 다르다? 앞으로 집값은 이렇게 됩니다",
       "link": "https://www.youtube.com/watch?v=Kqh5K_65r7w",
       "pub_ts": 1789556418.0,
       "pub_date": "09/16"
     },
     {
       "channel": "부읽남TV",
-      "title": "서울 경기도 '여기까지' 오릅니다, 서울 구축보다 '여기' 아파트 사세요 [윤지해 랩장 풀버전]",
+      "title": "\"다들 이건 잘 모르고 계세요\" 경기도 집값 흐름 완전히 다릅니다 [윤지해 랩장 풀버전]",
       "link": "https://www.youtube.com/watch?v=Ki9wcHnApxs",
       "pub_ts": 1789542034.0,
       "pub_date": "09/16"
@@ -31,24 +52,10 @@
       "pub_date": "09/15"
     },
     {
-      "channel": "부읽남TV",
-      "title": "서울 구축 vs 경기도 신축, 이런 경기도는 서울보다 더 오른다 [윤지해 랩장 4부]",
-      "link": "https://www.youtube.com/watch?v=feFf4Sn7WL8",
-      "pub_ts": 1789383633.0,
-      "pub_date": "09/14"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "은퇴 전 마지막 부동산 기회, 40~50대는 이렇게 갈아타야 합니다 (구해줘월부 사연)",
       "link": "https://www.youtube.com/watch?v=hEpe-Hlgz9Q",
       "pub_ts": 1789336806.0,
-      "pub_date": "09/13"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"뉴스에는 여긴 안 나와요\" 서울 경기도 부동산 현장 분위기 [윤지해 랩장 3부]",
-      "link": "https://www.youtube.com/watch?v=SryqrnYWz6s",
-      "pub_ts": 1789297223.0,
       "pub_date": "09/13"
     },
     {
@@ -99,24 +106,17 @@
       "link": "https://www.youtube.com/watch?v=V5FMQjbRP4U",
       "pub_ts": 1788904814.0,
       "pub_date": "09/08"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "2026년 세제개편안 수정되었습니다. 무주택 1주택 다주택자 각각 어떻게 바뀌는지 알려드릴게요 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=DXeWMJMqxNw",
-      "pub_ts": 1788732018.0,
-      "pub_date": "09/06"
     }
   ],
   "market": {
-    "total_count": 711,
+    "total_count": 807,
     "total_districts": 25,
     "top5_districts": [
       [
         "서초구",
         {
-          "count": 17,
-          "avg": 309388,
+          "count": 23,
+          "avg": 281591,
           "max_price": 670000,
           "max_name": "반포자이"
         }
@@ -124,8 +124,8 @@
       [
         "강남구",
         {
-          "count": 14,
-          "avg": 254428,
+          "count": 17,
+          "avg": 253647,
           "max_price": 378000,
           "max_name": "도곡렉슬"
         }
@@ -133,8 +133,8 @@
       [
         "용산구",
         {
-          "count": 8,
-          "avg": 206250,
+          "count": 9,
+          "avg": 203333,
           "max_price": 460000,
           "max_name": "신동아"
         }
@@ -151,8 +151,8 @@
       [
         "송파구",
         {
-          "count": 27,
-          "avg": 186262,
+          "count": 29,
+          "avg": 181434,
           "max_price": 380000,
           "max_name": "레이크팰리스"
         }
@@ -200,8 +200,8 @@
         "date": "2026.09.08"
       }
     ],
-    "songpa_count": 19,
-    "songpa_avg": 211052
+    "songpa_count": 21,
+    "songpa_avg": 202023
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
