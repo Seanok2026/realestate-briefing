@@ -1,7 +1,28 @@
 {
-  "date": "2026.09.19",
+  "date": "2026.09.20",
   "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"규제할수록 더 오르는 집값\" 지금 부동산 시장에서 벌어지는 일 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=kmHePrmFUPU",
+      "pub_ts": 1789941610.0,
+      "pub_date": "09/20"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"다들 이게 심각한 줄 몰라요\" 앞으로 진짜 무서울 전월세 시장 [나무좋아 3부]",
+      "link": "https://www.youtube.com/watch?v=HkaeCXcTQ2A",
+      "pub_ts": 1789902035.0,
+      "pub_date": "09/20"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "6억 안되는 아파트도 국세청이 조사하기 시작했습니다 [염지훈 세무사 2부]",
+      "link": "https://www.youtube.com/watch?v=l_G6iPurbWw",
+      "pub_ts": 1789891223.0,
+      "pub_date": "09/20"
+    },
     {
       "channel": "부읽남TV",
       "title": "세제개편 정부안 확정됐다, 앞으로 부동산 시장에 벌어질 일들 [염지훈 세무사 1부]",
@@ -85,31 +106,10 @@
       "link": "https://www.youtube.com/shorts/ArND4oynU4o",
       "pub_ts": 1789081203.0,
       "pub_date": "09/10"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "금리도 오르는데 너무 급하게 집 산 것 같아요… 저 재테크 망한 건가요? (#구해줘월급 ep.07)",
-      "link": "https://www.youtube.com/watch?v=Ak_QIm93pXQ",
-      "pub_ts": 1788991239.0,
-      "pub_date": "09/09"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "금융권 대출 억제... 하지만 이재명은 해법을 이미 알려줬다!!!",
-      "link": "https://www.youtube.com/watch?v=2U0ia_OHN3M",
-      "pub_ts": 1788911088.0,
-      "pub_date": "09/08"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"이런 얘기 처음합니다\" 부동산 전문가들이 공통적으로 말하는 한국 집값 상황, 제가 다 알려드릴게요",
-      "link": "https://www.youtube.com/watch?v=V5FMQjbRP4U",
-      "pub_ts": 1788904814.0,
-      "pub_date": "09/08"
     }
   ],
   "market": {
-    "total_count": 922,
+    "total_count": 923,
     "total_districts": 25,
     "top5_districts": [
       [
