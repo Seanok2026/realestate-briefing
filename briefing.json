@@ -1,7 +1,21 @@
 {
-  "date": "2026.09.20",
-  "data_month": "2026년 09월",
+  "date": "2026.09.22",
+  "data_month": "2026년 08월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [최진곤 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=je26L8_sCAI",
+      "pub_ts": 1789981220.0,
+      "pub_date": "09/21"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "오늘 전부 공개해 드릴게요, '이런 아파트'를 사셔야 해요 [나무좋아 4부]",
+      "link": "https://www.youtube.com/watch?v=u5shv3OWXFw",
+      "pub_ts": 1789977632.0,
+      "pub_date": "09/21"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"규제할수록 더 오르는 집값\" 지금 부동산 시장에서 벌어지는 일 (구해줘월부 기사)",
@@ -45,22 +59,8 @@
       "pub_date": "09/18"
     },
     {
-      "channel": "부읽남TV",
-      "title": "강남은 하락, 외곽은 폭등 지금 부동산에서 벌어지는 일",
-      "link": "https://www.youtube.com/watch?v=9FvqbWOf_ag",
-      "pub_ts": 1789642816.0,
-      "pub_date": "09/17"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "이제 전세 줄 사람도 없어요, 점점 더 꼬여가는 부동산 시장 [나무좋아 2부]",
-      "link": "https://www.youtube.com/watch?v=iY-6mZKKCXw",
-      "pub_ts": 1789639208.0,
-      "pub_date": "09/17"
-    },
-    {
       "channel": "월급쟁이부자들TV",
-      "title": "\"1년 전 이 선택 안 했으면…\" 96년생 신혼부부의 서울 내집마련기",
+      "title": "\"1년 전 이 선택 안 했으면…\" 96년생 신혼부부의 서울 내집마련기 (#내친구의집은여기인가)",
       "link": "https://www.youtube.com/watch?v=EjvU_KKt1Xg",
       "pub_ts": 1789635606.0,
       "pub_date": "09/17"
@@ -108,101 +108,7 @@
       "pub_date": "09/10"
     }
   ],
-  "market": {
-    "total_count": 923,
-    "total_districts": 25,
-    "top5_districts": [
-      [
-        "강남구",
-        {
-          "count": 20,
-          "avg": 244650,
-          "max_price": 390000,
-          "max_name": "은마"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 9,
-          "avg": 203333,
-          "max_price": 460000,
-          "max_name": "신동아"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 12,
-          "avg": 201208,
-          "max_price": 240000,
-          "max_name": "센트라스"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 35,
-          "avg": 191731,
-          "max_price": 380000,
-          "max_name": "레이크팰리스"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 49,
-          "avg": 183700,
-          "max_price": 670000,
-          "max_name": "반포자이"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "반포자이",
-        "dong": "반포동",
-        "area": 216.49,
-        "price": 670000,
-        "floor": "21",
-        "date": "2026.09.03"
-      },
-      {
-        "name": "반포자이",
-        "dong": "반포동",
-        "area": 84.943,
-        "price": 505000,
-        "floor": "8",
-        "date": "2026.09.08"
-      },
-      {
-        "name": "래미안퍼스티지",
-        "dong": "반포동",
-        "area": 84.93,
-        "price": 490000,
-        "floor": "25",
-        "date": "2026.09.07"
-      },
-      {
-        "name": "신반포자이",
-        "dong": "잠원동",
-        "area": 84.92,
-        "price": 470000,
-        "floor": "18",
-        "date": "2026.09.10"
-      },
-      {
-        "name": "신반포2",
-        "dong": "잠원동",
-        "area": 107.31,
-        "price": 462000,
-        "floor": "2",
-        "date": "2026.09.14"
-      }
-    ],
-    "songpa_count": 25,
-    "songpa_avg": 211980
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
