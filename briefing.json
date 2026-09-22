@@ -1,7 +1,14 @@
 {
   "date": "2026.09.22",
-  "data_month": "2026년 08월",
+  "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "오히려 서울보다 살기 좋다? '이 지역'은 서울 넘어섰습니다 [최진곤 대표 3부]",
+      "link": "https://www.youtube.com/watch?v=JyVnELAm0Ks",
+      "pub_ts": 1790064025.0,
+      "pub_date": "09/22"
+    },
     {
       "channel": "부읽남TV",
       "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [최진곤 대표 2부]",
@@ -99,16 +106,103 @@
       "link": "https://www.youtube.com/shorts/b0eNIM2rfzY",
       "pub_ts": 1789083035.0,
       "pub_date": "09/10"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "서울 부동산의 현실, 계속 오르는 집값을 따라가기 힘든 진짜 이유",
-      "link": "https://www.youtube.com/shorts/ArND4oynU4o",
-      "pub_ts": 1789081203.0,
-      "pub_date": "09/10"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 1188,
+    "total_districts": 25,
+    "top5_districts": [
+      [
+        "강남구",
+        {
+          "count": 30,
+          "avg": 254650,
+          "max_price": 510000,
+          "max_name": "현대5차(71,72동)"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 11,
+          "avg": 204181,
+          "max_price": 460000,
+          "max_name": "신동아"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 48,
+          "avg": 198908,
+          "max_price": 380000,
+          "max_name": "레이크팰리스"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 53,
+          "avg": 194147,
+          "max_price": 670000,
+          "max_name": "반포자이"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 16,
+          "avg": 192812,
+          "max_price": 240000,
+          "max_name": "센트라스"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 216.49,
+        "price": 670000,
+        "floor": "21",
+        "date": "2026.09.03"
+      },
+      {
+        "name": "현대5차(71,72동)",
+        "dong": "압구정동",
+        "area": 82.23,
+        "price": 510000,
+        "floor": "10",
+        "date": "2026.09.07"
+      },
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 84.943,
+        "price": 505000,
+        "floor": "8",
+        "date": "2026.09.08"
+      },
+      {
+        "name": "래미안퍼스티지",
+        "dong": "반포동",
+        "area": 84.93,
+        "price": 490000,
+        "floor": "25",
+        "date": "2026.09.07"
+      },
+      {
+        "name": "신반포2",
+        "dong": "잠원동",
+        "area": 107.31,
+        "price": 480000,
+        "floor": "1",
+        "date": "2026.09.16"
+      }
+    ],
+    "songpa_count": 35,
+    "songpa_avg": 214957
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
