@@ -1,7 +1,35 @@
 {
-  "date": "2026.09.24",
+  "date": "2026.09.25",
   "data_month": "2026년 09월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"아는 사람만 더 싸게 산다\" 같은 단지인데 이 집이 더 싼 이유 | 무주택자가 지금 알아야 할 것 (주간머니이슈_1부 부동산편)",
+      "link": "https://www.youtube.com/watch?v=2KRUYNigcW0",
+      "pub_ts": 1790290823.0,
+      "pub_date": "09/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "예금하자는 남편 VS 투자하자는 아내, \"저희 어떻게 해야 하나요?\" [바이집 상담소]",
+      "link": "https://www.youtube.com/watch?v=pwtskh0OzFA",
+      "pub_ts": 1790236805.0,
+      "pub_date": "09/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "“집값 떨어지면 살게요” 이 생각부터 버려야 하는 이유 [최진곤 대표 4부]",
+      "link": "https://www.youtube.com/watch?v=eizwj4zOpBY",
+      "pub_ts": 1790226018.0,
+      "pub_date": "09/24"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "금리는 올려도 '긴축의 시대'라 보기 어려운 이유 [김광석 교수]",
+      "link": "https://www.youtube.com/shorts/m90fOQxS1I8",
+      "pub_ts": 1790218812.0,
+      "pub_date": "09/24"
+    },
     {
       "channel": "부읽남TV",
       "title": "\"집값은 평탄화 과정 중\" 이젠 내집마련 더 힘들어진다",
@@ -25,44 +53,16 @@
     },
     {
       "channel": "부읽남TV",
-      "title": "\"안 가본 분들은 전혀 몰라요\" 경기도 아파트 현장 분위기 [나무좋아 풀버전]",
+      "title": "\"현장은 지금 난리났어요\" 경기도 아파트 실제 분위기 [나무좋아 풀버전]",
       "link": "https://www.youtube.com/watch?v=qD4tkitmUtI",
       "pub_ts": 1790146826.0,
       "pub_date": "09/23"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "오히려 서울보다 살기 좋다? '이 지역'은 서울 넘어섰습니다 [최진곤 대표 3부]",
-      "link": "https://www.youtube.com/watch?v=JyVnELAm0Ks",
-      "pub_ts": 1790064025.0,
-      "pub_date": "09/22"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [최진곤 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=je26L8_sCAI",
-      "pub_ts": 1789981220.0,
-      "pub_date": "09/21"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "오늘 전부 공개해 드릴게요, '이런 아파트'를 사셔야 해요 [나무좋아 4부]",
-      "link": "https://www.youtube.com/watch?v=u5shv3OWXFw",
-      "pub_ts": 1789977632.0,
-      "pub_date": "09/21"
     },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"규제할수록 더 오르는 집값\" 지금 부동산 시장에서 벌어지는 일 (구해줘월부 기사)",
       "link": "https://www.youtube.com/watch?v=kmHePrmFUPU",
       "pub_ts": 1789941610.0,
-      "pub_date": "09/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"다들 이게 심각한 줄 몰라요\" 앞으로 진짜 무서울 전월세 시장 [나무좋아 3부]",
-      "link": "https://www.youtube.com/watch?v=HkaeCXcTQ2A",
-      "pub_ts": 1789902035.0,
       "pub_date": "09/20"
     },
     {
@@ -109,14 +109,14 @@
     }
   ],
   "market": {
-    "total_count": 1289,
-    "total_districts": 25,
+    "total_count": 1277,
+    "total_districts": 24,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 39,
-          "avg": 272000,
+          "count": 38,
+          "avg": 278368,
           "max_price": 520000,
           "max_name": "미성2차"
         }
