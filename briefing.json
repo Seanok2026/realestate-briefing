@@ -1,10 +1,38 @@
 {
-  "date": "2026.09.25",
+  "date": "2026.09.26",
   "data_month": "2026년 09월",
   "videos": [
     {
+      "channel": "부읽남TV",
+      "title": "경기도 아파트 여기 보세요, 앞으로 본격적으로 오를 겁니다 [최진곤 대표]",
+      "link": "https://www.youtube.com/shorts/RYRDyOOWo2k",
+      "pub_ts": 1790380813.0,
+      "pub_date": "09/26"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "6억 안되는 아파트도 국세청이 조사하고 있습니다 [염지훈 세무사 풀버전]",
+      "link": "https://www.youtube.com/watch?v=ZOqfupguNl0",
+      "pub_ts": 1790334000.0,
+      "pub_date": "09/25"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금은 '이런 아파트' 사세요, 미래에 큰 부가 될 겁니다 [최진곤 대표]",
+      "link": "https://www.youtube.com/shorts/fhWshymafYM",
+      "pub_ts": 1790330415.0,
+      "pub_date": "09/25"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "삼성전자 외국인 투자자들이 다 팔고 떠났다고요? 아니요 [이화진 차장]",
+      "link": "https://www.youtube.com/shorts/xQAGIY2f9lc",
+      "pub_ts": 1790326820.0,
+      "pub_date": "09/25"
+    },
+    {
       "channel": "월급쟁이부자들TV",
-      "title": "\"아는 사람만 더 싸게 산다\" 같은 단지인데 이 집이 더 싼 이유 | 무주택자가 지금 알아야 할 것 (주간머니이슈_1부 부동산편)",
+      "title": "\"토허제가 또 바뀌었다\" 무주택자가 지금 알아야 할 것, 10월부터 이렇게 달라집니다 (주간머니이슈_1부 부동산편)",
       "link": "https://www.youtube.com/watch?v=2KRUYNigcW0",
       "pub_ts": 1790290823.0,
       "pub_date": "09/24"
@@ -15,48 +43,6 @@
       "link": "https://www.youtube.com/watch?v=pwtskh0OzFA",
       "pub_ts": 1790236805.0,
       "pub_date": "09/24"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "“집값 떨어지면 살게요” 이 생각부터 버려야 하는 이유 [최진곤 대표 4부]",
-      "link": "https://www.youtube.com/watch?v=eizwj4zOpBY",
-      "pub_ts": 1790226018.0,
-      "pub_date": "09/24"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "금리는 올려도 '긴축의 시대'라 보기 어려운 이유 [김광석 교수]",
-      "link": "https://www.youtube.com/shorts/m90fOQxS1I8",
-      "pub_ts": 1790218812.0,
-      "pub_date": "09/24"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"집값은 평탄화 과정 중\" 이젠 내집마련 더 힘들어진다",
-      "link": "https://www.youtube.com/watch?v=JtBwdlreIJ8",
-      "pub_ts": 1790161233.0,
-      "pub_date": "09/23"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 개미들만 모르고 있어요, 삼성전자 앞으로 무서울 겁니다 [권영화 교수 2부]",
-      "link": "https://www.youtube.com/watch?v=eNpL8lGOBBM",
-      "pub_ts": 1790157637.0,
-      "pub_date": "09/23"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다 [김광석 교수 1부]",
-      "link": "https://www.youtube.com/watch?v=DfAtyDjGSfk",
-      "pub_ts": 1790150430.0,
-      "pub_date": "09/23"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"현장은 지금 난리났어요\" 경기도 아파트 실제 분위기 [나무좋아 풀버전]",
-      "link": "https://www.youtube.com/watch?v=qD4tkitmUtI",
-      "pub_ts": 1790146826.0,
-      "pub_date": "09/23"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -106,11 +92,25 @@
       "link": "https://www.youtube.com/shorts/piwqV0hSpMw",
       "pub_ts": 1789284908.0,
       "pub_date": "09/13"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울 집값 폭등 속 외곽만 유독 오른 이유",
+      "link": "https://www.youtube.com/shorts/DGW6oGf0RcA",
+      "pub_ts": 1789284661.0,
+      "pub_date": "09/13"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "부동산이 잘 맞는 사람인지 아닌지 스스로 확인할 수 있는 '이 방법'",
+      "link": "https://www.youtube.com/shorts/b0eNIM2rfzY",
+      "pub_ts": 1789083035.0,
+      "pub_date": "09/10"
     }
   ],
   "market": {
-    "total_count": 1277,
-    "total_districts": 24,
+    "total_count": 1291,
+    "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
@@ -142,8 +142,8 @@
       [
         "송파구",
         {
-          "count": 53,
-          "avg": 196605,
+          "count": 54,
+          "avg": 198464,
           "max_price": 380000,
           "max_name": "레이크팰리스"
         }
@@ -200,8 +200,8 @@
         "date": "2026.09.10"
       }
     ],
-    "songpa_count": 39,
-    "songpa_avg": 211948
+    "songpa_count": 40,
+    "songpa_avg": 214075
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
