@@ -1,34 +1,48 @@
 {
-  "date": "2026.09.28",
+  "date": "2026.09.29",
   "data_month": "2026년 09월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "금리 인상인데 악재 끝? 오히려 지금이 기회라고 말하는 이유 [김광석 교수]",
-      "link": "https://www.youtube.com/shorts/2gj_Ky6b-c8",
-      "pub_ts": 1790548218.0,
-      "pub_date": "09/27"
+      "title": "\"집값, 문제는 공급이야\" 알아도 방법이 없는 이유 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/nNvOuY8YaDY",
+      "pub_ts": 1790593237.0,
+      "pub_date": "09/28"
     },
     {
       "channel": "부읽남TV",
-      "title": "\"한번도 경험해 보지 못한 시장이다\" 매매 전세 월세 모두 오르고 있다 [망고쌤 1부]",
-      "link": "https://www.youtube.com/watch?v=rslYWewmGnk",
-      "pub_ts": 1790506806.0,
-      "pub_date": "09/27"
+      "title": "강남은 하락, 외곽은 폭등, 지금 부동산 시장에서 벌어지는 일 [망고쌤 2부]",
+      "link": "https://www.youtube.com/watch?v=nfEihZ4QE3I",
+      "pub_ts": 1790589616.0,
+      "pub_date": "09/28"
     },
     {
       "channel": "부읽남TV",
-      "title": "\"전세가 씨가 말랐어요\" 지금 부동산 심각한 상황 [나무좋아]",
-      "link": "https://www.youtube.com/shorts/B8ih0468MXE",
-      "pub_ts": 1790503223.0,
-      "pub_date": "09/27"
+      "title": "앞으로 지옥이 펼쳐질 거예요, 가을철 집값 이렇게 됩니다 [부동산 모음집]",
+      "link": "https://www.youtube.com/watch?v=AK3UYn6w5qs",
+      "pub_ts": 1790582437.0,
+      "pub_date": "09/28"
     },
     {
       "channel": "부읽남TV",
-      "title": "지금 개미들만 모르고 있어요, 삼전 닉스 앞으로 무서울 겁니다 [이화진 차장]",
-      "link": "https://www.youtube.com/shorts/zhJzOp9pI3w",
-      "pub_ts": 1790485212.0,
-      "pub_date": "09/27"
+      "title": "삼전 닉스 역대급 돈 버는데 투자자들이 의심하는 이유 [김광석 교수]",
+      "link": "https://www.youtube.com/shorts/iekufycdpGk",
+      "pub_ts": 1790580625.0,
+      "pub_date": "09/28"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"덜 똘똘한 한 채 올라갑니다\" 전월세 감소, 집값 상승 시작됐다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/sGKnHcARsG4",
+      "pub_ts": 1790578817.0,
+      "pub_date": "09/28"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금은 과거와 완전히 다르다? 앞으로 집값은 이렇게 됩니다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/4PVigUP4u_w",
+      "pub_ts": 1790571602.0,
+      "pub_date": "09/28"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -92,31 +106,17 @@
       "link": "https://www.youtube.com/shorts/DGW6oGf0RcA",
       "pub_ts": 1789284661.0,
       "pub_date": "09/13"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "부동산이 잘 맞는 사람인지 아닌지 스스로 확인할 수 있는 '이 방법'",
-      "link": "https://www.youtube.com/shorts/b0eNIM2rfzY",
-      "pub_ts": 1789083035.0,
-      "pub_date": "09/10"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "서울 부동산의 현실, 계속 오르는 집값을 따라가기 힘든 진짜 이유",
-      "link": "https://www.youtube.com/shorts/ArND4oynU4o",
-      "pub_ts": 1789081203.0,
-      "pub_date": "09/10"
     }
   ],
   "market": {
-    "total_count": 1291,
+    "total_count": 1462,
     "total_districts": 25,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 38,
-          "avg": 278368,
+          "count": 43,
+          "avg": 266767,
           "max_price": 520000,
           "max_name": "미성2차"
         }
@@ -124,8 +124,8 @@
       [
         "용산구",
         {
-          "count": 11,
-          "avg": 204181,
+          "count": 13,
+          "avg": 212615,
           "max_price": 460000,
           "max_name": "신동아"
         }
@@ -133,28 +133,28 @@
       [
         "서초구",
         {
-          "count": 57,
-          "avg": 198935,
+          "count": 62,
+          "avg": 201641,
           "max_price": 670000,
           "max_name": "반포자이"
         }
       ],
       [
-        "송파구",
+        "성동구",
         {
-          "count": 54,
-          "avg": 198464,
-          "max_price": 380000,
-          "max_name": "레이크팰리스"
+          "count": 24,
+          "avg": 189770,
+          "max_price": 250000,
+          "max_name": "옥수파크힐스101동~116동"
         }
       ],
       [
-        "성동구",
+        "마포구",
         {
-          "count": 19,
-          "avg": 191842,
-          "max_price": 240000,
-          "max_name": "센트라스"
+          "count": 32,
+          "avg": 166220,
+          "max_price": 260000,
+          "max_name": "마포자이"
         }
       ]
     ],
@@ -200,8 +200,8 @@
         "date": "2026.09.10"
       }
     ],
-    "songpa_count": 40,
-    "songpa_avg": 214075
+    "songpa_count": 5,
+    "songpa_avg": 249280
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
