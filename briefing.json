@@ -1,75 +1,82 @@
 {
-  "date": "2026.09.30",
-  "data_month": "2026년 08월",
+  "date": "2026.10.01",
+  "data_month": "2026년 09월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "갭투자의 시대는 끝났다? 과거와 달라진 집값 분위기 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/gFM4xZGTIV8",
-      "pub_ts": 1790728227.0,
+      "title": "금리 아무리 올려도 집값 못 잡는 이유 [김경록 고문]",
+      "link": "https://www.youtube.com/shorts/PeeNMb2jAWo",
+      "pub_ts": 1790812801.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"부동산도 모르면서 사니, 너 같은 사람 때문에 집값이 안 잡히지\" 하락론자 남편 때문에 집을 못 사고 있어요 (구해줘월부 사연)",
+      "link": "https://www.youtube.com/watch?v=a-ZE_GN9yho",
+      "pub_ts": 1790805622.0,
       "pub_date": "09/30"
     },
     {
       "channel": "부읽남TV",
-      "title": "국장 외국인 투자자들이 다 팔고 떠났다고요? 아니요 [김경록 고문]",
-      "link": "https://www.youtube.com/shorts/NAaH86yeocY",
-      "pub_ts": 1790722800.0,
-      "pub_date": "09/29"
+      "title": "다들 크게 착각하고 있어요, 재개발 재건축 지금 돈 될까",
+      "link": "https://www.youtube.com/watch?v=wqaoYeT4EY0",
+      "pub_ts": 1790766001.0,
+      "pub_date": "09/30"
     },
     {
       "channel": "부읽남TV",
-      "title": "조금만 더 기다릴까요 금리 인상, 집값 내려갈까 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/HE1baUYOYHw",
-      "pub_ts": 1790721023.0,
-      "pub_date": "09/29"
+      "title": "초기 재개발 사려고 생각한다면 이 영상 반드시 보세요 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/y1RGknpsHz4",
+      "pub_ts": 1790759714.0,
+      "pub_date": "09/30"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "경기도 아파트 ‘여기’ 보세요, 다음 상승은 이곳에서 시작됩니다 [망고쌤 4부]",
+      "link": "https://www.youtube.com/watch?v=lc-gv6fB1bY",
+      "pub_ts": 1790758813.0,
+      "pub_date": "09/30"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 오히려 대출을 풀로 받으라고 하는 이유 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/hM3DOsfDqsM",
+      "pub_ts": 1790756125.0,
+      "pub_date": "09/30"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/22NyCrKOqgc",
+      "pub_ts": 1790754320.0,
+      "pub_date": "09/30"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "전세 상승, 앞으로 더 크게 온다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/fsFYNA9J3L4",
+      "pub_ts": 1790752521.0,
+      "pub_date": "09/30"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "이해하면 소름 돋는 선거로 보는 서울 부동산 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/sVSFNQ8g3iE",
+      "pub_ts": 1790750700.0,
+      "pub_date": "09/30"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"사놓고 4년만 기다리세요\" 같은 상황이 된다면 저라면 '이런 아파트' 살 겁니다 (너나위의 똑똑똑 | 부동산 현장 분위기)",
+      "link": "https://www.youtube.com/watch?v=EV4lh-0eSxw",
+      "pub_ts": 1790737204.0,
+      "pub_date": "09/30"
     },
     {
       "channel": "월급쟁이부자들TV",
       "title": "10월부터 부동산 규제 완화 무주택자라면 지금이 기회",
       "link": "https://www.youtube.com/shorts/TkOVxT302EY",
       "pub_ts": 1790687253.0,
-      "pub_date": "09/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [망고쌤 3부]",
-      "link": "https://www.youtube.com/watch?v=mpVhTS2dNoc",
-      "pub_ts": 1790672404.0,
-      "pub_date": "09/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "보유세 증가가 소름돋는 이유, 전월세 앞으로 이렇게 된다 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/Yw4TvITBut0",
-      "pub_ts": 1790670625.0,
-      "pub_date": "09/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "서울 부동산 분위기 묘하다 강남 잡았더니 벌어진 현상 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/svSJ1e9OVvQ",
-      "pub_ts": 1790659826.0,
-      "pub_date": "09/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "행정수도 아무리 옮겨도 집값 못 잡는 이유 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/vihpfxL4Gws",
-      "pub_ts": 1790658001.0,
-      "pub_date": "09/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "앞으로 집값 떨어진다 매우 가능성 낮은 이유 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/-urlhf1Hes4",
-      "pub_ts": 1790656215.0,
-      "pub_date": "09/29"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"10년 만에 처음 보는 신호\" 올해 집값이 무서운 이유 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/MFU_EtuKhSc",
-      "pub_ts": 1790652623.0,
       "pub_date": "09/29"
     },
     {
@@ -99,16 +106,103 @@
       "link": "https://www.youtube.com/watch?v=7-e0biPAoEE",
       "pub_ts": 1789722011.0,
       "pub_date": "09/18"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"1년 전 이 선택 안 했으면…\" 96년생 신혼부부의 서울 내집마련기 (#내친구의집은여기인가)",
-      "link": "https://www.youtube.com/watch?v=EjvU_KKt1Xg",
-      "pub_ts": 1789635606.0,
-      "pub_date": "09/17"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 1633,
+    "total_districts": 25,
+    "top5_districts": [
+      [
+        "서초구",
+        {
+          "count": 56,
+          "avg": 281021,
+          "max_price": 850000,
+          "max_name": "래미안퍼스티지"
+        }
+      ],
+      [
+        "강남구",
+        {
+          "count": 61,
+          "avg": 278459,
+          "max_price": 750000,
+          "max_name": "신현대9차"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 16,
+          "avg": 209618,
+          "max_price": 460000,
+          "max_name": "신동아"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 28,
+          "avg": 192732,
+          "max_price": 290000,
+          "max_name": "래미안 옥수 리버젠"
+        }
+      ],
+      [
+        "마포구",
+        {
+          "count": 43,
+          "avg": 172768,
+          "max_price": 300000,
+          "max_name": "롯데캐슬프레지던트"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "래미안퍼스티지",
+        "dong": "반포동",
+        "area": 222.76,
+        "price": 850000,
+        "floor": "18",
+        "date": "2026.09.18"
+      },
+      {
+        "name": "신현대9차",
+        "dong": "압구정동",
+        "area": 152.28,
+        "price": 750000,
+        "floor": "8",
+        "date": "2026.09.23"
+      },
+      {
+        "name": "반포자이",
+        "dong": "반포동",
+        "area": 216.49,
+        "price": 670000,
+        "floor": "21",
+        "date": "2026.09.03"
+      },
+      {
+        "name": "동부센트레빌",
+        "dong": "대치동",
+        "area": 145.83,
+        "price": 600000,
+        "floor": "27",
+        "date": "2026.09.04"
+      },
+      {
+        "name": "미성2차",
+        "dong": "압구정동",
+        "area": 118.63,
+        "price": 520000,
+        "floor": "9",
+        "date": "2026.09.07"
+      }
+    ],
+    "songpa_count": 9,
+    "songpa_avg": 252933
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
