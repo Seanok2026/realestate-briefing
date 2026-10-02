@@ -1,12 +1,68 @@
 {
-  "date": "2026.10.01",
+  "date": "2026.10.02",
   "data_month": "2026년 09월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "금리 아무리 올려도 집값 못 잡는 이유 [김경록 고문]",
-      "link": "https://www.youtube.com/shorts/PeeNMb2jAWo",
-      "pub_ts": 1790812801.0,
+      "title": "GTX 때문에 집값 오를까? 저는 이렇게 생각합니다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/8WooPWAS7r0",
+      "pub_ts": 1790901020.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"수도권 급등, 지방은 횡보\" 지금이라도 서울에 집 사야 할까요 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/d5Kww6ILvak",
+      "pub_ts": 1790897439.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "많이들 착각하고 계세요, GTX 뚫리면 집값 이렇게 됩니다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/svqbEG1adX0",
+      "pub_ts": 1790893837.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금은 과거와 완전히 다르다, 앞으로 집값은 이렇게 됩니다",
+      "link": "https://www.youtube.com/watch?v=CiZYCQmPO4M",
+      "pub_ts": 1790852419.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "금리 상승해도 집값 오른다? 지금 부동산에 나타나는 이상현상 [김준영 소장 1부]",
+      "link": "https://www.youtube.com/watch?v=KFUYkhxkKhA",
+      "pub_ts": 1790848822.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [망고쌤 풀버전]",
+      "link": "https://www.youtube.com/watch?v=WXAvN04Op9o",
+      "pub_ts": 1790838008.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"한국이 변하고 있다\" 집값 결국 이렇게 됩니다 [김경록 고문]",
+      "link": "https://www.youtube.com/shorts/BZo5zGZuwxQ",
+      "pub_ts": 1790830822.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다 [김경록 고문]",
+      "link": "https://www.youtube.com/shorts/TBTKrkfGtko",
+      "pub_ts": 1790820013.0,
+      "pub_date": "10/01"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "금리 인상기와 환율 대전환, 원화 강세 끝일까 [김경록 고문]",
+      "link": "https://www.youtube.com/shorts/VM_DXB_P1Ac",
+      "pub_ts": 1790816437.0,
       "pub_date": "10/01"
     },
     {
@@ -14,55 +70,6 @@
       "title": "\"부동산도 모르면서 사니, 너 같은 사람 때문에 집값이 안 잡히지\" 하락론자 남편 때문에 집을 못 사고 있어요 (구해줘월부 사연)",
       "link": "https://www.youtube.com/watch?v=a-ZE_GN9yho",
       "pub_ts": 1790805622.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "다들 크게 착각하고 있어요, 재개발 재건축 지금 돈 될까",
-      "link": "https://www.youtube.com/watch?v=wqaoYeT4EY0",
-      "pub_ts": 1790766001.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "초기 재개발 사려고 생각한다면 이 영상 반드시 보세요 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/y1RGknpsHz4",
-      "pub_ts": 1790759714.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "경기도 아파트 ‘여기’ 보세요, 다음 상승은 이곳에서 시작됩니다 [망고쌤 4부]",
-      "link": "https://www.youtube.com/watch?v=lc-gv6fB1bY",
-      "pub_ts": 1790758813.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "지금 오히려 대출을 풀로 받으라고 하는 이유 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/hM3DOsfDqsM",
-      "pub_ts": 1790756125.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/22NyCrKOqgc",
-      "pub_ts": 1790754320.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세 상승, 앞으로 더 크게 온다 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/fsFYNA9J3L4",
-      "pub_ts": 1790752521.0,
-      "pub_date": "09/30"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "이해하면 소름 돋는 선거로 보는 서울 부동산 [망고쌤]",
-      "link": "https://www.youtube.com/shorts/sVSFNQ8g3iE",
-      "pub_ts": 1790750700.0,
       "pub_date": "09/30"
     },
     {
@@ -99,110 +106,9 @@
       "link": "https://www.youtube.com/watch?v=XSRUbkywJHc",
       "pub_ts": 1789768802.0,
       "pub_date": "09/18"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "현재 난리난 서울 전월세 시장, 당장 대응해야 할 실시간 부동산 상황 전부 짚어드릴게요 (주간머니이슈_1부 부동산편)",
-      "link": "https://www.youtube.com/watch?v=7-e0biPAoEE",
-      "pub_ts": 1789722011.0,
-      "pub_date": "09/18"
     }
   ],
-  "market": {
-    "total_count": 1633,
-    "total_districts": 25,
-    "top5_districts": [
-      [
-        "서초구",
-        {
-          "count": 56,
-          "avg": 281021,
-          "max_price": 850000,
-          "max_name": "래미안퍼스티지"
-        }
-      ],
-      [
-        "강남구",
-        {
-          "count": 61,
-          "avg": 278459,
-          "max_price": 750000,
-          "max_name": "신현대9차"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 16,
-          "avg": 209618,
-          "max_price": 460000,
-          "max_name": "신동아"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 28,
-          "avg": 192732,
-          "max_price": 290000,
-          "max_name": "래미안 옥수 리버젠"
-        }
-      ],
-      [
-        "마포구",
-        {
-          "count": 43,
-          "avg": 172768,
-          "max_price": 300000,
-          "max_name": "롯데캐슬프레지던트"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "래미안퍼스티지",
-        "dong": "반포동",
-        "area": 222.76,
-        "price": 850000,
-        "floor": "18",
-        "date": "2026.09.18"
-      },
-      {
-        "name": "신현대9차",
-        "dong": "압구정동",
-        "area": 152.28,
-        "price": 750000,
-        "floor": "8",
-        "date": "2026.09.23"
-      },
-      {
-        "name": "반포자이",
-        "dong": "반포동",
-        "area": 216.49,
-        "price": 670000,
-        "floor": "21",
-        "date": "2026.09.03"
-      },
-      {
-        "name": "동부센트레빌",
-        "dong": "대치동",
-        "area": 145.83,
-        "price": 600000,
-        "floor": "27",
-        "date": "2026.09.04"
-      },
-      {
-        "name": "미성2차",
-        "dong": "압구정동",
-        "area": 118.63,
-        "price": 520000,
-        "floor": "9",
-        "date": "2026.09.07"
-      }
-    ],
-    "songpa_count": 9,
-    "songpa_avg": 252933
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
