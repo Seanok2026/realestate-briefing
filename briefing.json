@@ -1,7 +1,56 @@
 {
-  "date": "2026.10.02",
-  "data_month": "2026년 09월",
+  "date": "2026.10.03",
+  "data_month": "2026년 10월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울에서 시작된 전세난, 결국 경기·인천까지 번졌다. 지금 꼭 알아야 할 수도권 부동산 상황 (주간머니이슈_1부 부동산편)",
+      "link": "https://www.youtube.com/watch?v=Zm-wHSE8vP8",
+      "pub_ts": 1790931634.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "“안 가본 사람들은 전혀 몰라요” 전국 아파트 실제 현장 분위기 [빠숑 김학렬 소장 1부]",
+      "link": "https://www.youtube.com/watch?v=rLRoKm6Mg80",
+      "pub_ts": 1790931616.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "월세 받고 살기 vs 대출 갚으며 살기, 저희 어떻게 해야 하나요? [상남자들]",
+      "link": "https://www.youtube.com/watch?v=uvL2vBwHzvk",
+      "pub_ts": 1790928035.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "앞으로 집값 떨어진다? 매우 가능성 낮은 이유 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/rsoX43t4b_w",
+      "pub_ts": 1790922621.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"아파트 아무거나 사면 큰일난다\" 결국 '이 아파트만' 폭등합니다 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/90f47Iqjybg",
+      "pub_ts": 1790915404.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "초기 재개발 사려고 한다면 이 영상 반드시 보세요 [망고쌤]",
+      "link": "https://www.youtube.com/shorts/yUu-hoS6IRo",
+      "pub_ts": 1790911830.0,
+      "pub_date": "10/02"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "집값 뇌관? 삼전닉스와 함께 셔세권이 들썩이는 이유  [망고쌤]",
+      "link": "https://www.youtube.com/shorts/yG-VDwivdCA",
+      "pub_ts": 1790908239.0,
+      "pub_date": "10/02"
+    },
     {
       "channel": "부읽남TV",
       "title": "GTX 때문에 집값 오를까? 저는 이렇게 생각합니다 [망고쌤]",
@@ -38,34 +87,6 @@
       "pub_date": "10/01"
     },
     {
-      "channel": "부읽남TV",
-      "title": "전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 [망고쌤 풀버전]",
-      "link": "https://www.youtube.com/watch?v=WXAvN04Op9o",
-      "pub_ts": 1790838008.0,
-      "pub_date": "10/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"한국이 변하고 있다\" 집값 결국 이렇게 됩니다 [김경록 고문]",
-      "link": "https://www.youtube.com/shorts/BZo5zGZuwxQ",
-      "pub_ts": 1790830822.0,
-      "pub_date": "10/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다 [김경록 고문]",
-      "link": "https://www.youtube.com/shorts/TBTKrkfGtko",
-      "pub_ts": 1790820013.0,
-      "pub_date": "10/01"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "금리 인상기와 환율 대전환, 원화 강세 끝일까 [김경록 고문]",
-      "link": "https://www.youtube.com/shorts/VM_DXB_P1Ac",
-      "pub_ts": 1790816437.0,
-      "pub_date": "10/01"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "\"부동산도 모르면서 사니, 너 같은 사람 때문에 집값이 안 잡히지\" 하락론자 남편 때문에 집을 못 사고 있어요 (구해줘월부 사연)",
       "link": "https://www.youtube.com/watch?v=a-ZE_GN9yho",
@@ -85,30 +106,103 @@
       "link": "https://www.youtube.com/shorts/TkOVxT302EY",
       "pub_ts": 1790687253.0,
       "pub_date": "09/29"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"토허제가 또 바뀌었다\" 무주택자가 지금 알아야 할 것, 10월부터 이렇게 달라집니다 (주간머니이슈_1부 부동산편)",
-      "link": "https://www.youtube.com/watch?v=2KRUYNigcW0",
-      "pub_ts": 1790290823.0,
-      "pub_date": "09/24"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"규제할수록 더 오르는 집값\" 지금 부동산 시장에서 벌어지는 일 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=kmHePrmFUPU",
-      "pub_ts": 1789941610.0,
-      "pub_date": "09/20"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"역대급으로 불안한 상황\" 금리 인상이 불러올 무서운 미래, 앞으로 이렇게 대비하세요! (주간머니이슈_2부 경제편)",
-      "link": "https://www.youtube.com/watch?v=XSRUbkywJHc",
-      "pub_ts": 1789768802.0,
-      "pub_date": "09/18"
     }
   ],
-  "market": {},
+  "market": {
+    "total_count": 22,
+    "total_districts": 10,
+    "top5_districts": [
+      [
+        "강남구",
+        {
+          "count": 2,
+          "avg": 271000,
+          "max_price": 302000,
+          "max_name": "개포주공6단지"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 1,
+          "avg": 200000,
+          "max_price": 200000,
+          "max_name": "아남"
+        }
+      ],
+      [
+        "양천구",
+        {
+          "count": 1,
+          "avg": 181000,
+          "max_price": 181000,
+          "max_name": "목동신시가지11"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 2,
+          "avg": 124750,
+          "max_price": 229000,
+          "max_name": "e편한세상송파파크센트럴"
+        }
+      ],
+      [
+        "중랑구",
+        {
+          "count": 3,
+          "avg": 81300,
+          "max_price": 91800,
+          "max_name": "중랑숲시티프라디움"
+        }
+      ]
+    ],
+    "top5_trades": [
+      {
+        "name": "개포주공6단지",
+        "dong": "개포동",
+        "area": 60.13,
+        "price": 302000,
+        "floor": "3",
+        "date": "2026.10.01"
+      },
+      {
+        "name": "대치현대",
+        "dong": "대치동",
+        "area": 59.82,
+        "price": 240000,
+        "floor": "3",
+        "date": "2026.10.02"
+      },
+      {
+        "name": "e편한세상송파파크센트럴",
+        "dong": "거여동",
+        "area": 113.18,
+        "price": 229000,
+        "floor": "27",
+        "date": "2026.10.01"
+      },
+      {
+        "name": "아남",
+        "dong": "서초동",
+        "area": 71.1,
+        "price": 200000,
+        "floor": "1",
+        "date": "2026.10.02"
+      },
+      {
+        "name": "목동신시가지11",
+        "dong": "신정동",
+        "area": 66.24,
+        "price": 181000,
+        "floor": "4",
+        "date": "2026.10.01"
+      }
+    ],
+    "songpa_count": 1,
+    "songpa_avg": 229000
+  },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
