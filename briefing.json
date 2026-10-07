@@ -1,11 +1,28 @@
 {
-  "date": "2026.10.06",
+  "date": "2026.10.07",
   "data_month": "2026년 10월",
-  "videos": [],
+  "videos": [
+    {
+      "channel": "아포유 AforU",
+      "title": "서울 자가에 국토교통부 다니는 홍 후보자 이야기...",
+      "link": "https://www.youtube.com/watch?v=G0TSH0tQqio",
+      "pub_ts": 1789602004.0,
+      "pub_date": "09/16"
+    }
+  ],
   "market": {
-    "total_count": 22,
-    "total_districts": 10,
+    "total_count": 69,
+    "total_districts": 21,
     "top5_districts": [
+      [
+        "성동구",
+        {
+          "count": 1,
+          "avg": 285000,
+          "max_price": 285000,
+          "max_name": "래미안 옥수 리버젠"
+        }
+      ],
       [
         "강남구",
         {
@@ -25,30 +42,21 @@
         }
       ],
       [
-        "양천구",
+        "용산구",
         {
           "count": 1,
-          "avg": 181000,
-          "max_price": 181000,
-          "max_name": "목동신시가지11"
+          "avg": 190000,
+          "max_price": 190000,
+          "max_name": "동아그린"
         }
       ],
       [
-        "송파구",
-        {
-          "count": 2,
-          "avg": 124750,
-          "max_price": 229000,
-          "max_name": "e편한세상송파파크센트럴"
-        }
-      ],
-      [
-        "중랑구",
+        "동작구",
         {
           "count": 3,
-          "avg": 81300,
-          "max_price": 91800,
-          "max_name": "중랑숲시티프라디움"
+          "avg": 167333,
+          "max_price": 195000,
+          "max_name": "대방2차e-편한세상"
         }
       ]
     ],
@@ -59,6 +67,14 @@
         "area": 60.13,
         "price": 302000,
         "floor": "3",
+        "date": "2026.10.01"
+      },
+      {
+        "name": "래미안 옥수 리버젠",
+        "dong": "옥수동",
+        "area": 84.81,
+        "price": 285000,
+        "floor": "9",
         "date": "2026.10.01"
       },
       {
@@ -84,14 +100,6 @@
         "price": 200000,
         "floor": "1",
         "date": "2026.10.02"
-      },
-      {
-        "name": "목동신시가지11",
-        "dong": "신정동",
-        "area": 66.24,
-        "price": 181000,
-        "floor": "4",
-        "date": "2026.10.01"
       }
     ],
     "songpa_count": 1,
