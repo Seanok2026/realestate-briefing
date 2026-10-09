@@ -1,41 +1,62 @@
 {
-  "date": "2026.10.08",
+  "date": "2026.10.09",
   "data_month": "2026년 10월",
   "videos": [
     {
       "channel": "부읽남TV",
-      "title": "\"6억도 많다 4억으로 줄이자\" 앞으로 대출 받기 더 힘들어질까",
-      "link": "https://www.youtube.com/watch?v=VqMOd35Wb24",
-      "pub_ts": 1791370803.0,
-      "pub_date": "10/07"
+      "title": "지방 구축 아파트 안 팔고 버티면 결국 '이렇게' 될 겁니다 [김준영 소장]",
+      "link": "https://www.youtube.com/shorts/vw3uj4IPkMk",
+      "pub_ts": 1791509408.0,
+      "pub_date": "10/09"
     },
     {
       "channel": "부읽남TV",
-      "title": "외곽 재건축 절대 안 됩니다 제발 환상을 버리세요 [김준영 소장]",
-      "link": "https://www.youtube.com/shorts/RZyncGp1f3s",
-      "pub_ts": 1791365430.0,
-      "pub_date": "10/07"
+      "title": "\"싹 다 멈출 겁니다\" 재개발 재건축의 운명 [빠숑]",
+      "link": "https://www.youtube.com/shorts/VE410J3eRow",
+      "pub_ts": 1791502239.0,
+      "pub_date": "10/08"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"지금 상황이 심상치 않다\" 미국 국채금리 고공행진, 앞으로 펼쳐질 경제 흐름 분석 (주간머니이슈_경제편)",
+      "link": "https://www.youtube.com/watch?v=mDdvMRr3Hcs",
+      "pub_ts": 1791500417.0,
+      "pub_date": "10/08"
     },
     {
       "channel": "부읽남TV",
-      "title": "서울 경기도 아파트 여기 보세요, 내년부터 정말 무섭게 오를 겁니다 [김준영 소장 풀버전]",
-      "link": "https://www.youtube.com/watch?v=X-S9175mNOc",
-      "pub_ts": 1791360004.0,
-      "pub_date": "10/07"
+      "title": "\"지방 외곽 아파트는 다 파세요\" 핵심 지역 '한 채'만 남기세요 [김준영 소장]",
+      "link": "https://www.youtube.com/shorts/2bJ31-lG7iQ",
+      "pub_ts": 1791498634.0,
+      "pub_date": "10/08"
     },
     {
       "channel": "부읽남TV",
-      "title": "대출이 아무리 막혀도 서울 집값 안 떨어지는 진짜 이유 [김준영 소장]",
-      "link": "https://www.youtube.com/shorts/l_rU_gDt-UA",
-      "pub_ts": 1791354636.0,
-      "pub_date": "10/07"
+      "title": "\"이젠 공급돼도 문제\" 앞으로 5년 집값 이렇게 된다",
+      "link": "https://www.youtube.com/watch?v=r_jkNhL2i4A",
+      "pub_ts": 1791457210.0,
+      "pub_date": "10/08"
     },
     {
       "channel": "부읽남TV",
-      "title": "보유세 증가가 소름돋는 이유 전월세 앞으로 이렇게 됩니다 [김준영 소장]",
-      "link": "https://www.youtube.com/shorts/FPCAI_EN5MM",
-      "pub_ts": 1791343830.0,
-      "pub_date": "10/07"
+      "title": "서울 경기도 아파트 여기 보세요, 내년부터 정말 무섭게 오를 겁니다 [빠숑 김학렬 소장 4부]",
+      "link": "https://www.youtube.com/watch?v=CIYOkNoiCyY",
+      "pub_ts": 1791450015.0,
+      "pub_date": "10/08"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 부동산 전문가들이 전세 종말 외치는 이유 [빠숑]",
+      "link": "https://www.youtube.com/shorts/YuGIjjAeYzI",
+      "pub_ts": 1791448217.0,
+      "pub_date": "10/08"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "정부: 전세는 없앤다, 월세는... 상황 진짜 심각해질 겁니다 [빠숑]",
+      "link": "https://www.youtube.com/shorts/ElgOqIY9Fuc",
+      "pub_ts": 1791444602.0,
+      "pub_date": "10/08"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -80,13 +101,6 @@
       "pub_date": "09/24"
     },
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"규제할수록 더 오르는 집값\" 지금 부동산 시장에서 벌어지는 일 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=kmHePrmFUPU",
-      "pub_ts": 1789941610.0,
-      "pub_date": "09/20"
-    },
-    {
       "channel": "아포유 AforU",
       "title": "서울 자가에 국토교통부 다니는 홍 후보자 이야기...",
       "link": "https://www.youtube.com/watch?v=G0TSH0tQqio",
@@ -95,34 +109,16 @@
     }
   ],
   "market": {
-    "total_count": 132,
+    "total_count": 186,
     "total_districts": 23,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 5,
-          "avg": 272100,
+          "count": 7,
+          "avg": 257142,
           "max_price": 365000,
           "max_name": "래미안삼성1차(103-22)"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 2,
-          "avg": 216000,
-          "max_price": 285000,
-          "max_name": "래미안 옥수 리버젠"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 1,
-          "avg": 200000,
-          "max_price": 200000,
-          "max_name": "아남"
         }
       ],
       [
@@ -132,6 +128,24 @@
           "avg": 190000,
           "max_price": 190000,
           "max_name": "동아그린"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 3,
+          "avg": 187000,
+          "max_price": 285000,
+          "max_name": "래미안 옥수 리버젠"
+        }
+      ],
+      [
+        "광진구",
+        {
+          "count": 4,
+          "avg": 181500,
+          "max_price": 249500,
+          "max_name": "광장힐스테이트"
         }
       ],
       [
@@ -162,6 +176,14 @@
         "date": "2026.10.02"
       },
       {
+        "name": "목동신시가지7",
+        "dong": "목동",
+        "area": 89.05,
+        "price": 305000,
+        "floor": "1",
+        "date": "2026.10.02"
+      },
+      {
         "name": "개포주공6단지",
         "dong": "개포동",
         "area": 60.13,
@@ -176,18 +198,10 @@
         "price": 295000,
         "floor": "8",
         "date": "2026.10.02"
-      },
-      {
-        "name": "래미안 옥수 리버젠",
-        "dong": "옥수동",
-        "area": 84.81,
-        "price": 285000,
-        "floor": "9",
-        "date": "2026.10.01"
       }
     ],
-    "songpa_count": 4,
-    "songpa_avg": 185500
+    "songpa_count": 5,
+    "songpa_avg": 187100
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
