@@ -1,10 +1,10 @@
 {
-  "date": "2026.10.11",
+  "date": "2026.10.12",
   "data_month": "2026년 10월",
   "videos": [],
   "market": {
-    "total_count": 193,
-    "total_districts": 23,
+    "total_count": 175,
+    "total_districts": 22,
     "top5_districts": [
       [
         "강남구",
