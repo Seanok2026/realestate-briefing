@@ -1,16 +1,16 @@
 {
-  "date": "2026.10.12",
+  "date": "2026.10.13",
   "data_month": "2026년 10월",
   "videos": [],
   "market": {
-    "total_count": 175,
-    "total_districts": 22,
+    "total_count": 296,
+    "total_districts": 24,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 7,
-          "avg": 257142,
+          "count": 8,
+          "avg": 252437,
           "max_price": 365000,
           "max_name": "래미안삼성1차(103-22)"
         }
@@ -34,21 +34,21 @@
         }
       ],
       [
-        "광진구",
+        "중구",
         {
-          "count": 4,
-          "avg": 181500,
-          "max_price": 249500,
-          "max_name": "광장힐스테이트"
+          "count": 1,
+          "avg": 185000,
+          "max_price": 185000,
+          "max_name": "삼성"
         }
       ],
       [
-        "동작구",
+        "광진구",
         {
-          "count": 3,
-          "avg": 167333,
-          "max_price": 195000,
-          "max_name": "대방2차e-편한세상"
+          "count": 6,
+          "avg": 150666,
+          "max_price": 249500,
+          "max_name": "광장힐스테이트"
         }
       ]
     ],
@@ -94,8 +94,8 @@
         "date": "2026.10.02"
       }
     ],
-    "songpa_count": 5,
-    "songpa_avg": 187100
+    "songpa_count": 8,
+    "songpa_avg": 159687
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
