@@ -1,34 +1,34 @@
 {
-  "date": "2026.10.14",
+  "date": "2026.10.15",
   "data_month": "2026년 10월",
   "videos": [],
   "market": {
-    "total_count": 390,
-    "total_districts": 24,
+    "total_count": 479,
+    "total_districts": 25,
     "top5_districts": [
+      [
+        "용산구",
+        {
+          "count": 3,
+          "avg": 1053333,
+          "max_price": 2620000,
+          "max_name": "나인원한남"
+        }
+      ],
       [
         "강남구",
         {
-          "count": 10,
-          "avg": 323350,
+          "count": 14,
+          "avg": 260750,
           "max_price": 930000,
           "max_name": "신현대11차"
         }
       ],
       [
-        "용산구",
-        {
-          "count": 2,
-          "avg": 270000,
-          "max_price": 350000,
-          "max_name": "현대맨숀"
-        }
-      ],
-      [
         "성동구",
         {
-          "count": 3,
-          "avg": 187000,
+          "count": 4,
+          "avg": 182250,
           "max_price": 285000,
           "max_name": "래미안 옥수 리버젠"
         }
@@ -36,8 +36,8 @@
       [
         "중구",
         {
-          "count": 4,
-          "avg": 162875,
+          "count": 5,
+          "avg": 166300,
           "max_price": 193500,
           "max_name": "삼성사이버빌리지"
         }
@@ -45,14 +45,22 @@
       [
         "송파구",
         {
-          "count": 19,
-          "avg": 151684,
+          "count": 23,
+          "avg": 163000,
           "max_price": 406500,
           "max_name": "주공아파트 5단지"
         }
       ]
     ],
     "top5_trades": [
+      {
+        "name": "나인원한남",
+        "dong": "한남동",
+        "area": 273.9424,
+        "price": 2620000,
+        "floor": "1",
+        "date": "2026.10.01"
+      },
       {
         "name": "신현대11차",
         "dong": "압구정동",
@@ -84,18 +92,10 @@
         "price": 350000,
         "floor": "14",
         "date": "2026.10.07"
-      },
-      {
-        "name": "아크로힐스논현",
-        "dong": "논현동",
-        "area": 84.13,
-        "price": 308500,
-        "floor": "23",
-        "date": "2026.10.02"
       }
     ],
-    "songpa_count": 15,
-    "songpa_avg": 169933
+    "songpa_count": 19,
+    "songpa_avg": 179789
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
