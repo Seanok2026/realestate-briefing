@@ -1,115 +1,9 @@
 {
-  "date": "2026.10.15",
+  "date": "2026.10.16",
   "data_month": "2026년 10월",
-  "videos": [
-    {
-      "channel": "아포유 AforU",
-      "title": "집 팔아 주식사라더니... 주가는 폭락, 부동산은 폭등폭 확대!!!",
-      "link": "https://www.youtube.com/watch?v=puzOhkMeNlU",
-      "pub_ts": 1792107264.0,
-      "pub_date": "10/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "금리 상승해도 집값 오른다? 지금 부동산에 나타나는 이상현상 [송승현 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=lDRMnLs5EHs",
-      "pub_ts": 1792058435.0,
-      "pub_date": "10/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세 만기 6개월 남았다면 \"지금 알아보셔야 된다고 생각합니다\" [제네시스박]",
-      "link": "https://www.youtube.com/shorts/EjgwZrcaniI",
-      "pub_ts": 1792053011.0,
-      "pub_date": "10/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "보유세 증가가 소름돋는 이유 1주택자도 월세 사는 셈이 됩니다 [메디테라]",
-      "link": "https://www.youtube.com/shorts/PG8xg5V7_Y8",
-      "pub_ts": 1792038618.0,
-      "pub_date": "10/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "대통령도 \"전세는 없어질 것 같다\" 이제 강제로 집 사야 합니다 [메디테라]",
-      "link": "https://www.youtube.com/shorts/J-Us51eqZfg",
-      "pub_ts": 1792024203.0,
-      "pub_date": "10/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"6억 대출도 규제해야 된다\" 복비 내시더라도 지금 잡으세요 [제네시스박]",
-      "link": "https://www.youtube.com/shorts/I5jk8PIkfQ4",
-      "pub_ts": 1792017024.0,
-      "pub_date": "10/14"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"생존매수 아니면 답이 없다\" 전세 멸종의 시대, 부동산 집값 이제 이렇게 됩니다 (구해줘월부 기사)",
-      "link": "https://www.youtube.com/watch?v=uVPI0vjGfMg",
-      "pub_ts": 1792015222.0,
-      "pub_date": "10/14"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"전세 주지 말라는 판결 나왔다\" 앞으로 전월세 더 심각해질 겁니다",
-      "link": "https://www.youtube.com/watch?v=3mN7bBMkC0g",
-      "pub_ts": 1791975629.0,
-      "pub_date": "10/14"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "문재인 정부 때와 똑같다, 앞으로 집값은 이렇게 됩니다 [제네시스박 2부]",
-      "link": "https://www.youtube.com/watch?v=B7EIa7DjGVk",
-      "pub_ts": 1791972011.0,
-      "pub_date": "10/14"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"현장은 완전히 달라요\" 지금 경기도 부동산 분위기 [메디테라 4부]",
-      "link": "https://www.youtube.com/watch?v=iDJ3KpfifjY",
-      "pub_ts": 1791968440.0,
-      "pub_date": "10/14"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "돈의 법칙이 바뀌었습니다. 주식·금리·환율·코인, 이렇게 보세요",
-      "link": "https://www.youtube.com/watch?v=sw7IDsKbGFI",
-      "pub_ts": 1791928818.0,
-      "pub_date": "10/13"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "아포유 또 적중? 서울 상승폭 다시 반등...",
-      "link": "https://www.youtube.com/watch?v=Cm6l_OgNIU8",
-      "pub_ts": 1791763526.0,
-      "pub_date": "10/12"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "서울 아파트 '위험신호' 떴다. 갈수록 불안한 임대차 시장 \"여기서 나가면 갈 곳이 없다\" (주간머니이슈_부동산편)",
-      "link": "https://www.youtube.com/watch?v=DTrh7Z9HWvE",
-      "pub_ts": 1791586832.0,
-      "pub_date": "10/09"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"지금 상황이 심상치 않다\" 미국 국채금리 고공행진, 앞으로 펼쳐질 경제 흐름 분석 (주간머니이슈_경제편)",
-      "link": "https://www.youtube.com/watch?v=mDdvMRr3Hcs",
-      "pub_ts": 1791500417.0,
-      "pub_date": "10/08"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"혼란스러운 요즘 경제 흐름\" 시장이 불안할수록 절대 잊지 말아야 할 투자원칙 '이것' (주간머니이슈_2부 경제편)",
-      "link": "https://www.youtube.com/watch?v=KK7tFzK4kZE",
-      "pub_ts": 1790982015.0,
-      "pub_date": "10/02"
-    }
-  ],
+  "videos": [],
   "market": {
-    "total_count": 590,
+    "total_count": 663,
     "total_districts": 25,
     "top5_districts": [
       [
@@ -133,19 +27,10 @@
       [
         "성동구",
         {
-          "count": 6,
-          "avg": 208833,
+          "count": 7,
+          "avg": 196142,
           "max_price": 304000,
           "max_name": "한남하이츠"
-        }
-      ],
-      [
-        "중구",
-        {
-          "count": 8,
-          "avg": 171000,
-          "max_price": 225000,
-          "max_name": "SK리더스뷰남산"
         }
       ],
       [
@@ -155,6 +40,15 @@
           "avg": 160759,
           "max_price": 406500,
           "max_name": "주공아파트 5단지"
+        }
+      ],
+      [
+        "중구",
+        {
+          "count": 9,
+          "avg": 157444,
+          "max_price": 225000,
+          "max_name": "SK리더스뷰남산"
         }
       ]
     ],
