@@ -1,9 +1,115 @@
 {
-  "date": "2026.10.20",
+  "date": "2026.10.21",
   "data_month": "2026년 10월",
-  "videos": [],
+  "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "대출 막아도 집값 오릅니다, 단 한 번도 잡은 적이 없습니다 [김제경 박사]",
+      "link": "https://www.youtube.com/shorts/7HpnLHtusFs",
+      "pub_ts": 1792535411.0,
+      "pub_date": "10/20"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "지금 부동산 분위기 묘하다, 강남 집값 잡았더니 벌어진 일들 [김제경 박사 2부]",
+      "link": "https://www.youtube.com/watch?v=DdUNQnI3nJ0",
+      "pub_ts": 1792486835.0,
+      "pub_date": "10/20"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"토허제가 또 바뀌었습니다\" 무주택자가 지금 알아야 할 것, 10월부터 이렇게 달라졌습니다 - 주간머니이슈 부동산편 [풀버전]",
+      "link": "https://www.youtube.com/watch?v=qbXL634vLs8",
+      "pub_ts": 1792447214.0,
+      "pub_date": "10/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "2027년 부동산 시장 전망, 내년 집값 심상치 않은 이유 [심형석 교수 1부]",
+      "link": "https://www.youtube.com/watch?v=yt-dGm6_hyM",
+      "pub_ts": 1792404018.0,
+      "pub_date": "10/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "이제 집 사고 싶어도 못 삽니다 \"집값 내년부터 이렇게 됩니다\" [김제경 박사 1부]",
+      "link": "https://www.youtube.com/watch?v=26uBuWtsXwM",
+      "pub_ts": 1792400410.0,
+      "pub_date": "10/19"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "외곽 재건축 절대 안 됩니다, 제발 환상을 버리세요 [제네시스박]",
+      "link": "https://www.youtube.com/shorts/VhYV6fa2PP8",
+      "pub_ts": 1792384213.0,
+      "pub_date": "10/19"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "경제는 불안하고... 집값은 폭등하고... 주가는 폭락하고...",
+      "link": "https://www.youtube.com/watch?v=tFZTI9ivTFo",
+      "pub_ts": 1792367572.0,
+      "pub_date": "10/18"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"지금부터 봐야 할 곳은 따로 있습니다\" 앞으로 한국 부동산에서 벌어질 일들, 결국 사람들은 여기로 몰린다 (김시덕 박사 · 풀버전)",
+      "link": "https://www.youtube.com/watch?v=vY-1xGHxiUs",
+      "pub_ts": 1792360815.0,
+      "pub_date": "10/18"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"역대급으로 불안한 상황\" 금리 인상이 불러올 무서운 미래, 앞으로 이렇게 대비하세요! - 주간머니이슈 경제편 [풀버전]",
+      "link": "https://www.youtube.com/watch?v=6sLpOdTpYq8",
+      "pub_ts": 1792249239.0,
+      "pub_date": "10/17"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"심상치 않은 부동산 시장\" 끝이 보이지 않는 전월세 대란과 토허제로 알 수 있는 앞으로의 시장 흐름 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=p0iXbpSQcks",
+      "pub_ts": 1792191638.0,
+      "pub_date": "10/16"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "집 팔아 주식사라더니... 주가는 폭락, 부동산은 폭등폭 확대!!!",
+      "link": "https://www.youtube.com/watch?v=puzOhkMeNlU",
+      "pub_ts": 1792107264.0,
+      "pub_date": "10/15"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"생존매수 아니면 답이 없다\" 전세 멸종의 시대, 부동산 집값 이제 이렇게 됩니다 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=uVPI0vjGfMg",
+      "pub_ts": 1792015222.0,
+      "pub_date": "10/14"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "돈의 법칙이 바뀌었습니다. 주식·금리·환율·코인, 이렇게 보세요",
+      "link": "https://www.youtube.com/watch?v=sw7IDsKbGFI",
+      "pub_ts": 1791928818.0,
+      "pub_date": "10/13"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "아포유 또 적중? 서울 상승폭 다시 반등...",
+      "link": "https://www.youtube.com/watch?v=Cm6l_OgNIU8",
+      "pub_ts": 1791763526.0,
+      "pub_date": "10/12"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "서울 아파트 '위험신호' 떴다. 갈수록 불안한 임대차 시장 \"여기서 나가면 갈 곳이 없다\" (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=DTrh7Z9HWvE",
+      "pub_ts": 1791586832.0,
+      "pub_date": "10/09"
+    }
+  ],
   "market": {
-    "total_count": 841,
+    "total_count": 1022,
     "total_districts": 25,
     "top5_districts": [
       [
@@ -18,8 +124,8 @@
       [
         "강남구",
         {
-          "count": 22,
-          "avg": 265409,
+          "count": 26,
+          "avg": 280096,
           "max_price": 930000,
           "max_name": "신현대11차"
         }
@@ -27,8 +133,8 @@
       [
         "성동구",
         {
-          "count": 7,
-          "avg": 196142,
+          "count": 8,
+          "avg": 191500,
           "max_price": 304000,
           "max_name": "한남하이츠"
         }
@@ -36,19 +142,19 @@
       [
         "송파구",
         {
-          "count": 35,
-          "avg": 159940,
+          "count": 42,
+          "avg": 169890,
           "max_price": 406500,
           "max_name": "주공아파트 5단지"
         }
       ],
       [
-        "동작구",
+        "광진구",
         {
-          "count": 19,
-          "avg": 151521,
-          "max_price": 237000,
-          "max_name": "이수푸르지오더프레티움"
+          "count": 17,
+          "avg": 154735,
+          "max_price": 290000,
+          "max_name": "한양"
         }
       ]
     ],
@@ -86,16 +192,16 @@
         "date": "2026.10.14"
       },
       {
-        "name": "신동아",
-        "dong": "서빙고동",
-        "area": 140.81,
-        "price": 449000,
-        "floor": "13",
-        "date": "2026.10.01"
+        "name": "현대8차(성수현대:91~95동)",
+        "dong": "압구정동",
+        "area": 163.67,
+        "price": 674000,
+        "floor": "7",
+        "date": "2026.10.13"
       }
     ],
-    "songpa_count": 29,
-    "songpa_avg": 168048
+    "songpa_count": 35,
+    "songpa_avg": 176540
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
