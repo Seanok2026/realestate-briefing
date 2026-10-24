@@ -1,16 +1,122 @@
 {
-  "date": "2026.10.23",
+  "date": "2026.10.24",
   "data_month": "2026년 10월",
-  "videos": [],
+  "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "다들 크게 착각하고 있어요, 재개발 재건축, 지금 돈 될까 [김제경 박사 3부]",
+      "link": "https://www.youtube.com/watch?v=FmfjbZaZc4E",
+      "pub_ts": 1792753226.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"대출 때문에 아무것도 못해요\" 저희 어떻게 해야 하나요? [상남자들]",
+      "link": "https://www.youtube.com/watch?v=E1m7LDW21Kc",
+      "pub_ts": 1792742439.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "“이젠 공급돼도 문제입니다” 앞으로 5년 집값 이렇게 됩니다 [심형석 교수 3부]",
+      "link": "https://www.youtube.com/watch?v=OT9TlRpIpeI",
+      "pub_ts": 1792738811.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "2035년까지 지옥이 계속됩니다, 전세 시장 이렇게 될 겁니다 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/6kb7x5ZoNlI",
+      "pub_ts": 1792737029.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "금리가 오를 때 꼭 알아야 할 전월세 진실",
+      "link": "https://www.youtube.com/shorts/_QEpdOosZZ0",
+      "pub_ts": 1792737021.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "금리가 오르면 전세 대신 월세가 오르는 결정적 이유",
+      "link": "https://www.youtube.com/shorts/B7eRjB45IBg",
+      "pub_ts": 1792736941.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "전세는 20%만 남습니다, 월세는 2배 오를 겁니다 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/zRIQ3howasc",
+      "pub_ts": 1792729802.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "정부: 전세는 없앤다, 월세는... 상황 진짜 심각해질 겁니다 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/r9YdmogqooU",
+      "pub_ts": 1792722604.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "보유세 증가가 소름돋는 이유 전월세 앞으로 이렇게 됩니다 [심형석 교수]",
+      "link": "https://www.youtube.com/shorts/x7bkq5otgLo",
+      "pub_ts": 1792708232.0,
+      "pub_date": "10/22"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"이런 상황 처음봅니다\" 서울 아파트 '전세의 월세화' 앞으로 더 무서워질 부동산 상황 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=twThHzH-84k",
+      "pub_ts": 1792706436.0,
+      "pub_date": "10/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"이젠 통계를 없애겠다\" 앞으로 부동산 더 심각해진다",
+      "link": "https://www.youtube.com/watch?v=sCCeE9jgDq8",
+      "pub_ts": 1792666830.0,
+      "pub_date": "10/22"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "지지율의 역설... 지지율이 높아야, 부동산 폭등 폭 더 커진다!!!",
+      "link": "https://www.youtube.com/watch?v=iZxVi0GU9lk",
+      "pub_ts": 1792628880.0,
+      "pub_date": "10/22"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"토허제가 또 바뀌었습니다\" 무주택자가 지금 알아야 할 것, 10월부터 이렇게 달라졌습니다 - 주간머니이슈 부동산편 [풀버전]",
+      "link": "https://www.youtube.com/watch?v=qbXL634vLs8",
+      "pub_ts": 1792447214.0,
+      "pub_date": "10/19"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "경제는 불안하고... 집값은 폭등하고... 주가는 폭락하고...",
+      "link": "https://www.youtube.com/watch?v=tFZTI9ivTFo",
+      "pub_ts": 1792367572.0,
+      "pub_date": "10/18"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"지금부터 봐야 할 곳은 따로 있습니다\" 앞으로 한국 부동산에서 벌어질 일들, 결국 사람들은 여기로 몰린다 (김시덕 박사 · 풀버전)",
+      "link": "https://www.youtube.com/watch?v=vY-1xGHxiUs",
+      "pub_ts": 1792360815.0,
+      "pub_date": "10/18"
+    }
+  ],
   "market": {
-    "total_count": 1238,
+    "total_count": 1322,
     "total_districts": 25,
     "top5_districts": [
       [
         "용산구",
         {
-          "count": 6,
-          "avg": 903833,
+          "count": 7,
+          "avg": 790142,
           "max_price": 2620000,
           "max_name": "나인원한남"
         }
@@ -18,8 +124,8 @@
       [
         "강남구",
         {
-          "count": 36,
-          "avg": 316388,
+          "count": 41,
+          "avg": 302551,
           "max_price": 930000,
           "max_name": "신현대11차"
         }
@@ -27,8 +133,8 @@
       [
         "성동구",
         {
-          "count": 13,
-          "avg": 182330,
+          "count": 17,
+          "avg": 174547,
           "max_price": 304000,
           "max_name": "한남하이츠"
         }
@@ -45,8 +151,8 @@
       [
         "송파구",
         {
-          "count": 56,
-          "avg": 172944,
+          "count": 58,
+          "avg": 172412,
           "max_price": 406500,
           "max_name": "주공아파트 5단지"
         }
@@ -94,8 +200,8 @@
         "date": "2026.10.16"
       }
     ],
-    "songpa_count": 46,
-    "songpa_avg": 179791
+    "songpa_count": 48,
+    "songpa_avg": 178862
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
