@@ -1,59 +1,16 @@
 {
-  "date": "2026.10.27",
+  "date": "2026.10.28",
   "data_month": "2026년 10월",
-  "videos": [
-    {
-      "channel": "부읽남TV",
-      "title": "신혼부부 대출 4억으로 줄면 결국 '이렇게' 됩니다 [김인만 소장]",
-      "link": "https://www.youtube.com/shorts/lwlPiAlecWw",
-      "pub_ts": 1793003444.0,
-      "pub_date": "10/26"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "경기도 2028년까지 오를 겁니다, 서울 구축보다 '여기' 추천합니다 [심형석 교수 4부]",
-      "link": "https://www.youtube.com/watch?v=46ndNxexlq4",
-      "pub_ts": 1793001625.0,
-      "pub_date": "10/26"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "정부가 대출 또 줄이면 경기 인천 진짜 난리납니다 [김인만 소장]",
-      "link": "https://www.youtube.com/shorts/QVJwKti1Ets",
-      "pub_ts": 1792967440.0,
-      "pub_date": "10/25"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"규제할수록 더 오를 겁니다\" 앞으로도 답이 없는 부동산 시장 [김인만 소장 2부]",
-      "link": "https://www.youtube.com/watch?v=vgD5v3GrYMc",
-      "pub_ts": 1792926039.0,
-      "pub_date": "10/25"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "재건축 분담금 10억 시대, 5~6억은 이제 싼 겁니다 [김제경 박사]",
-      "link": "https://www.youtube.com/shorts/2-frsVsAQy8",
-      "pub_ts": 1792899010.0,
-      "pub_date": "10/25"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "이제 집 사고 싶어도 못 삽니다 \"집값 내년부터 이렇게 됩니다\" [김제경 박사 풀버전]",
-      "link": "https://www.youtube.com/watch?v=NTfNcTw1fO0",
-      "pub_ts": 1792890001.0,
-      "pub_date": "10/25"
-    }
-  ],
+  "videos": [],
   "market": {
-    "total_count": 1427,
-    "total_districts": 24,
+    "total_count": 1597,
+    "total_districts": 25,
     "top5_districts": [
       [
         "용산구",
         {
-          "count": 8,
-          "avg": 715000,
+          "count": 9,
+          "avg": 651333,
           "max_price": 2620000,
           "max_name": "나인원한남"
         }
@@ -61,8 +18,8 @@
       [
         "강남구",
         {
-          "count": 48,
-          "avg": 299345,
+          "count": 54,
+          "avg": 283524,
           "max_price": 930000,
           "max_name": "신현대11차"
         }
@@ -70,28 +27,28 @@
       [
         "서초구",
         {
-          "count": 34,
-          "avg": 191323,
+          "count": 38,
+          "avg": 204789,
           "max_price": 600000,
           "max_name": "반포자이"
         }
       ],
       [
-        "성동구",
+        "송파구",
         {
-          "count": 18,
-          "avg": 176905,
-          "max_price": 304000,
-          "max_name": "한남하이츠"
+          "count": 84,
+          "avg": 191286,
+          "max_price": 550000,
+          "max_name": "아시아선수촌아파트"
         }
       ],
       [
-        "송파구",
+        "성동구",
         {
-          "count": 59,
-          "avg": 171057,
-          "max_price": 406500,
-          "max_name": "주공아파트 5단지"
+          "count": 23,
+          "avg": 178100,
+          "max_price": 304000,
+          "max_name": "한남하이츠"
         }
       ]
     ],
@@ -137,8 +94,8 @@
         "date": "2026.10.16"
       }
     ],
-    "songpa_count": 49,
-    "songpa_avg": 177100
+    "songpa_count": 73,
+    "songpa_avg": 198535
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
