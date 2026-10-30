@@ -1,52 +1,16 @@
 {
-  "date": "2026.10.29",
+  "date": "2026.10.30",
   "data_month": "2026년 10월",
-  "videos": [
-    {
-      "channel": "아포유 AforU",
-      "title": "좌파 부동산 정책... 이제 언론도 서서히 목소리를...",
-      "link": "https://www.youtube.com/watch?v=ZNMln_qbhmU",
-      "pub_ts": 1793064879.0,
-      "pub_date": "10/27"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "지지율의 역설... 지지율이 높아야, 부동산 폭등 폭 더 커진다!!!",
-      "link": "https://www.youtube.com/watch?v=iZxVi0GU9lk",
-      "pub_ts": 1792628880.0,
-      "pub_date": "10/22"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "경제는 불안하고... 집값은 폭등하고... 주가는 폭락하고...",
-      "link": "https://www.youtube.com/watch?v=tFZTI9ivTFo",
-      "pub_ts": 1792367572.0,
-      "pub_date": "10/18"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "집 팔아 주식사라더니... 주가는 폭락, 부동산은 폭등폭 확대!!!",
-      "link": "https://www.youtube.com/watch?v=puzOhkMeNlU",
-      "pub_ts": 1792107264.0,
-      "pub_date": "10/15"
-    },
-    {
-      "channel": "아포유 AforU",
-      "title": "아포유 또 적중? 서울 상승폭 다시 반등...",
-      "link": "https://www.youtube.com/watch?v=Cm6l_OgNIU8",
-      "pub_ts": 1791763526.0,
-      "pub_date": "10/12"
-    }
-  ],
+  "videos": [],
   "market": {
-    "total_count": 1653,
-    "total_districts": 24,
+    "total_count": 1744,
+    "total_districts": 25,
     "top5_districts": [
       [
         "용산구",
         {
-          "count": 11,
-          "avg": 574363,
+          "count": 13,
+          "avg": 503153,
           "max_price": 2620000,
           "max_name": "나인원한남"
         }
@@ -54,8 +18,8 @@
       [
         "강남구",
         {
-          "count": 59,
-          "avg": 291577,
+          "count": 65,
+          "avg": 286193,
           "max_price": 930000,
           "max_name": "신현대11차"
         }
@@ -72,19 +36,19 @@
       [
         "송파구",
         {
-          "count": 95,
-          "avg": 196103,
+          "count": 100,
+          "avg": 196314,
           "max_price": 550000,
           "max_name": "아시아선수촌아파트"
         }
       ],
       [
-        "광진구",
+        "성동구",
         {
-          "count": 26,
-          "avg": 153076,
-          "max_price": 297000,
-          "max_name": "포제스한강"
+          "count": 27,
+          "avg": 176825,
+          "max_price": 304000,
+          "max_name": "한남하이츠"
         }
       ]
     ],
@@ -114,24 +78,24 @@
         "date": "2026.10.08"
       },
       {
+        "name": "신현대11차",
+        "dong": "압구정동",
+        "area": 183.41,
+        "price": 920000,
+        "floor": "12",
+        "date": "2026.10.19"
+      },
+      {
         "name": "신현대12차",
         "dong": "압구정동",
         "area": 182.95,
         "price": 920000,
         "floor": "6",
         "date": "2026.10.21"
-      },
-      {
-        "name": "현대2차(10,11,20,23,24,25동)",
-        "dong": "압구정동",
-        "area": 160.28,
-        "price": 900000,
-        "floor": "11",
-        "date": "2026.10.16"
       }
     ],
-    "songpa_count": 80,
-    "songpa_avg": 203097
+    "songpa_count": 85,
+    "songpa_avg": 201417
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
