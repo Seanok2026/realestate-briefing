@@ -1,16 +1,16 @@
 {
-  "date": "2026.10.30",
+  "date": "2026.10.31",
   "data_month": "2026년 10월",
   "videos": [],
   "market": {
-    "total_count": 1744,
+    "total_count": 1829,
     "total_districts": 25,
     "top5_districts": [
       [
         "용산구",
         {
-          "count": 13,
-          "avg": 503153,
+          "count": 17,
+          "avg": 421676,
           "max_price": 2620000,
           "max_name": "나인원한남"
         }
@@ -18,8 +18,8 @@
       [
         "강남구",
         {
-          "count": 65,
-          "avg": 286193,
+          "count": 75,
+          "avg": 281581,
           "max_price": 930000,
           "max_name": "신현대11차"
         }
@@ -27,17 +27,17 @@
       [
         "서초구",
         {
-          "count": 44,
-          "avg": 212238,
-          "max_price": 600000,
-          "max_name": "반포자이"
+          "count": 56,
+          "avg": 226248,
+          "max_price": 780000,
+          "max_name": "래미안원베일리"
         }
       ],
       [
         "송파구",
         {
           "count": 100,
-          "avg": 196314,
+          "avg": 196934,
           "max_price": 550000,
           "max_name": "아시아선수촌아파트"
         }
@@ -45,8 +45,8 @@
       [
         "성동구",
         {
-          "count": 27,
-          "avg": 176825,
+          "count": 31,
+          "avg": 182235,
           "max_price": 304000,
           "max_name": "한남하이츠"
         }
@@ -94,8 +94,8 @@
         "date": "2026.10.21"
       }
     ],
-    "songpa_count": 85,
-    "songpa_avg": 201417
+    "songpa_count": 86,
+    "songpa_avg": 201534
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
