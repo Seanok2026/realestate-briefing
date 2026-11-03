@@ -1,101 +1,67 @@
 {
-  "date": "2026.11.02",
-  "data_month": "2026년 10월",
+  "date": "2026.11.03",
+  "data_month": "2026년 11월",
   "videos": [],
   "market": {
-    "total_count": 1809,
-    "total_districts": 25,
+    "total_count": 3,
+    "total_districts": 3,
     "top5_districts": [
       [
-        "용산구",
+        "서대문구",
         {
-          "count": 17,
-          "avg": 421676,
-          "max_price": 2620000,
-          "max_name": "나인원한남"
-        }
-      ],
-      [
-        "강남구",
-        {
-          "count": 75,
-          "avg": 281581,
-          "max_price": 930000,
-          "max_name": "신현대11차"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 56,
-          "avg": 226248,
-          "max_price": 780000,
-          "max_name": "래미안원베일리"
+          "count": 1,
+          "avg": 117000,
+          "max_price": 117000,
+          "max_name": "힐스테이트홍은포레스트"
         }
       ],
       [
         "송파구",
         {
-          "count": 100,
-          "avg": 196934,
-          "max_price": 550000,
-          "max_name": "아시아선수촌아파트"
+          "count": 1,
+          "avg": 77000,
+          "max_price": 77000,
+          "max_name": "솔렌시아"
         }
       ],
       [
-        "성동구",
+        "은평구",
         {
-          "count": 31,
-          "avg": 182235,
-          "max_price": 304000,
-          "max_name": "한남하이츠"
+          "count": 1,
+          "avg": 45000,
+          "max_price": 45000,
+          "max_name": "송학"
         }
       ]
     ],
     "top5_trades": [
       {
-        "name": "나인원한남",
-        "dong": "한남동",
-        "area": 273.9424,
-        "price": 2620000,
-        "floor": "1",
-        "date": "2026.10.01"
-      },
-      {
-        "name": "나인원한남",
-        "dong": "한남동",
-        "area": 206.8953,
-        "price": 1430000,
-        "floor": "5",
-        "date": "2026.10.03"
-      },
-      {
-        "name": "신현대11차",
-        "dong": "압구정동",
-        "area": 183.41,
-        "price": 930000,
-        "floor": "4",
-        "date": "2026.10.08"
-      },
-      {
-        "name": "신현대11차",
-        "dong": "압구정동",
-        "area": 183.41,
-        "price": 920000,
+        "name": "힐스테이트홍은포레스트",
+        "dong": "홍은동",
+        "area": 72.79,
+        "price": 117000,
         "floor": "12",
-        "date": "2026.10.19"
+        "date": "2026.11.02"
       },
       {
-        "name": "신현대12차",
-        "dong": "압구정동",
-        "area": 182.95,
-        "price": 920000,
-        "floor": "6",
-        "date": "2026.10.21"
+        "name": "솔렌시아",
+        "dong": "마천동",
+        "area": 84.97,
+        "price": 77000,
+        "floor": "4",
+        "date": "2026.11.01"
+      },
+      {
+        "name": "송학",
+        "dong": "구산동",
+        "area": 77.92,
+        "price": 45000,
+        "floor": "2",
+        "date": "2026.11.01"
       }
     ],
-    "songpa_count": 86,
-    "songpa_avg": 201534
+    "songpa_count": 1,
+    "songpa_avg": 77000
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
