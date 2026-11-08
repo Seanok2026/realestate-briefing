@@ -1,7 +1,71 @@
 {
-  "date": "2026.11.07",
+  "date": "2026.11.08",
   "data_month": "2026년 11월",
-  "videos": [],
+  "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"역대급 난이도의 서울 부동산 상황\" 더 이상 우리가 알던 부동산 시장이 아닙니다 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=xfBoKFg3nck",
+      "pub_ts": 1794006032.0,
+      "pub_date": "11/06"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "강남 하락, 생각보다 단순하지 않습니다. 지금 대부분 놓치는 숨겨진 진실이 있어요 (자모의 월간 부동산 10월편)",
+      "link": "https://www.youtube.com/watch?v=GwLGQ5QWEz4",
+      "pub_ts": 1793829626.0,
+      "pub_date": "11/04"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"매물 쌓이고 거래량 줄기 시작했다?\" 최근 서울 부동산 시장에 벌어지는 심상치 않은 일들 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=o3XDZDKvv7A",
+      "pub_ts": 1793570405.0,
+      "pub_date": "11/01"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"예사롭지 않은 금리 상황\" 미국 기준금리 동결이 갖는 진짜 의미, 앞으로 '이렇게' 흘러갈 경제 흐름 (주간머니이슈_경제편)",
+      "link": "https://www.youtube.com/watch?v=uMTtLwk3LFg",
+      "pub_ts": 1793401225.0,
+      "pub_date": "10/30"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"분위기 싸해지는 서울 부동산?\" 30% 늘어난 서울 아파트 매물, 수도권 집값은 앞으로 이렇게 변한다 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=baODAh0stnw",
+      "pub_ts": 1793329204.0,
+      "pub_date": "10/30"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "“이래서 금리가 무서운 겁니다” 지금 시장에서 절대 놓치면 안 되는 신호와 고금리에도 살아남을 산업",
+      "link": "https://www.youtube.com/watch?v=OUMj0ZIkbxc",
+      "pub_ts": 1793224827.0,
+      "pub_date": "10/28"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "은퇴 전 마지막 부동산 기회, 40~50대는 이렇게 갈아타야 합니다 (구해줘월부 레전드 사연편)",
+      "link": "https://www.youtube.com/watch?v=tczmkytV4Ec",
+      "pub_ts": 1793138421.0,
+      "pub_date": "10/27"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "금리가 오를 때 꼭 알아야 할 전월세 진실",
+      "link": "https://www.youtube.com/shorts/_QEpdOosZZ0",
+      "pub_ts": 1792737021.0,
+      "pub_date": "10/23"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "금리가 오르면 전세 대신 월세가 오르는 결정적 이유",
+      "link": "https://www.youtube.com/shorts/B7eRjB45IBg",
+      "pub_ts": 1792736941.0,
+      "pub_date": "10/23"
+    }
+  ],
   "market": {
     "total_count": 135,
     "total_districts": 20,
