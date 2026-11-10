@@ -1,16 +1,16 @@
 {
-  "date": "2026.11.09",
+  "date": "2026.11.10",
   "data_month": "2026년 11월",
   "videos": [],
   "market": {
-    "total_count": 136,
-    "total_districts": 20,
+    "total_count": 192,
+    "total_districts": 21,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 5,
-          "avg": 402000,
+          "count": 6,
+          "avg": 380000,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
         }
@@ -18,19 +18,19 @@
       [
         "성동구",
         {
-          "count": 1,
-          "avg": 243000,
+          "count": 2,
+          "avg": 236000,
           "max_price": 243000,
           "max_name": "센트라스"
         }
       ],
       [
-        "동대문구",
+        "동작구",
         {
-          "count": 4,
-          "avg": 143475,
-          "max_price": 209000,
-          "max_name": "청량리역롯데캐슬 SKY-L65"
+          "count": 1,
+          "avg": 170000,
+          "max_price": 170000,
+          "max_name": "사당우성2"
         }
       ],
       [
