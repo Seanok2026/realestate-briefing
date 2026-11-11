@@ -1,10 +1,10 @@
 {
-  "date": "2026.11.10",
+  "date": "2026.11.11",
   "data_month": "2026년 11월",
   "videos": [],
   "market": {
-    "total_count": 192,
-    "total_districts": 21,
+    "total_count": 275,
+    "total_districts": 23,
     "top5_districts": [
       [
         "강남구",
@@ -16,39 +16,39 @@
         }
       ],
       [
-        "성동구",
-        {
-          "count": 2,
-          "avg": 236000,
-          "max_price": 243000,
-          "max_name": "센트라스"
-        }
-      ],
-      [
-        "동작구",
+        "종로구",
         {
           "count": 1,
-          "avg": 170000,
-          "max_price": 170000,
-          "max_name": "사당우성2"
+          "avg": 275000,
+          "max_price": 275000,
+          "max_name": "경희궁자이(2단지)"
         }
       ],
       [
-        "서초구",
+        "용산구",
         {
-          "count": 7,
-          "avg": 133321,
-          "max_price": 204800,
-          "max_name": "서초힐스"
+          "count": 1,
+          "avg": 205000,
+          "max_price": 205000,
+          "max_name": "리첸시아용산B"
         }
       ],
       [
         "송파구",
         {
-          "count": 6,
-          "avg": 128250,
-          "max_price": 175000,
-          "max_name": "송파파인타운8단지"
+          "count": 10,
+          "avg": 156770,
+          "max_price": 254500,
+          "max_name": "우성4차"
+        }
+      ],
+      [
+        "서초구",
+        {
+          "count": 8,
+          "avg": 142156,
+          "max_price": 204800,
+          "max_name": "서초힐스"
         }
       ]
     ],
@@ -94,8 +94,8 @@
         "date": "2026.11.02"
       }
     ],
-    "songpa_count": 4,
-    "songpa_avg": 110375
+    "songpa_count": 7,
+    "songpa_avg": 148671
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
