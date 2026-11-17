@@ -1,16 +1,122 @@
 {
-  "date": "2026.11.16",
+  "date": "2026.11.17",
   "data_month": "2026년 11월",
-  "videos": [],
+  "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "\"44년 만에 처음 보는 수준입니다\" 서울 아파트에 나타나는 이상현상 [김경필 작가 2부]",
+      "link": "https://www.youtube.com/watch?v=H0nw0ubxo2w",
+      "pub_ts": 1794823217.0,
+      "pub_date": "11/16"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "내 집값 절대 안 떨어져야 한다면 집 사고 싶어도 못 삽니다 [송희구 작가]",
+      "link": "https://www.youtube.com/shorts/JboSrx0CTBY",
+      "pub_ts": 1794781833.0,
+      "pub_date": "11/15"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"금리 오르는데 부동산 시장 어떻게 될까요?\" 대부분 놓치고 있는 비밀 하나 알려드릴게요 (구해줘월부 기사)",
+      "link": "https://www.youtube.com/watch?v=keBDvYok2TI",
+      "pub_ts": 1794780003.0,
+      "pub_date": "11/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "“팔란티어 무섭게 나아간다” 전세계 장악할 계획 나왔습니다 [테크피드 2부]",
+      "link": "https://www.youtube.com/watch?v=yV6KrbCgnKg",
+      "pub_ts": 1794729621.0,
+      "pub_date": "11/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "1주택자 전세대출 막는다? 우리가 오해하는 것 [레오 김은진 대표]",
+      "link": "https://www.youtube.com/shorts/qPxlEilzwAg",
+      "pub_ts": 1794713431.0,
+      "pub_date": "11/15"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"이제 강제로 집 사게 될 겁니다\" 한국 부동산에 나타난 이상현상 [송희구 작가 풀버전]",
+      "link": "https://www.youtube.com/watch?v=GZfTpovi56k",
+      "pub_ts": 1794704438.0,
+      "pub_date": "11/15"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"한 번도 경험해 본 적 없는 폭등\" 서울 외곽 월세 27% 상승, 앞으로 수도권 집값 더 무서워질 거예요 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=5O6ZL7ZRM7Y",
+      "pub_ts": 1794610829.0,
+      "pub_date": "11/13"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"금리인상, 공포의 12월이 온다\" 앞으로 벌어질 무서운 시장 시나리오와 지금 꼭 봐야 할 경제 신호 (주간머니이슈_경제편)",
+      "link": "https://www.youtube.com/watch?v=F0EHJthS5KI",
+      "pub_ts": 1794560416.0,
+      "pub_date": "11/13"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "상승장마다 달라지는 집값 폭등의 진짜 순서",
+      "link": "https://www.youtube.com/shorts/yQi1CyVksfE",
+      "pub_ts": 1794556342.0,
+      "pub_date": "11/13"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "이 와중에 오기부리는 이재명... 결국은 부동산이...",
+      "link": "https://www.youtube.com/watch?v=djVNHI-bueA",
+      "pub_ts": 1794441214.0,
+      "pub_date": "11/11"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "동탄 집값이 오르는 이유 미니 지역분석",
+      "link": "https://www.youtube.com/shorts/jCb1g0zDDKg",
+      "pub_ts": 1794392107.0,
+      "pub_date": "11/11"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "사야 할 아파트 vs 사지 말아야 할 아파트",
+      "link": "https://www.youtube.com/shorts/urOfgn4ifbU",
+      "pub_ts": 1794391275.0,
+      "pub_date": "11/11"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "9억 미만 아파트를 살 때, 반드시 해야 할 2가지",
+      "link": "https://www.youtube.com/shorts/XH5MHfGDx1E",
+      "pub_ts": 1794303923.0,
+      "pub_date": "11/10"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "수도권 집값 상승이 나에게 미치는 영향",
+      "link": "https://www.youtube.com/shorts/_5g-aVChKWA",
+      "pub_ts": 1794302573.0,
+      "pub_date": "11/10"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "30개월 만에 서울 추월한 경기 아파트값, 지금 당장 주목해야 할 곳은 따로 있습니다 (자모의 주간부동산)",
+      "link": "https://www.youtube.com/watch?v=3SGQnkSgulY",
+      "pub_ts": 1794261635.0,
+      "pub_date": "11/09"
+    }
+  ],
   "market": {
-    "total_count": 535,
-    "total_districts": 25,
+    "total_count": 624,
+    "total_districts": 24,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 14,
-          "avg": 276021,
+          "count": 17,
+          "avg": 275223,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
         }
@@ -27,19 +133,10 @@
       [
         "성동구",
         {
-          "count": 10,
-          "avg": 199440,
+          "count": 15,
+          "avg": 192126,
           "max_price": 244000,
           "max_name": "옥수파크힐스101동~116동"
-        }
-      ],
-      [
-        "용산구",
-        {
-          "count": 4,
-          "avg": 189250,
-          "max_price": 253000,
-          "max_name": "금호베스트빌1"
         }
       ],
       [
@@ -49,6 +146,15 @@
           "avg": 178350,
           "max_price": 333000,
           "max_name": "리센츠"
+        }
+      ],
+      [
+        "용산구",
+        {
+          "count": 5,
+          "avg": 173400,
+          "max_price": 253000,
+          "max_name": "금호베스트빌1"
         }
       ]
     ],
@@ -78,20 +184,20 @@
         "date": "2026.11.03"
       },
       {
+        "name": "래미안대치팰리스",
+        "dong": "대치동",
+        "area": 94.49,
+        "price": 467000,
+        "floor": "31",
+        "date": "2026.11.12"
+      },
+      {
         "name": "역삼2차아이파크",
         "dong": "역삼동",
         "area": 84.587,
         "price": 360000,
         "floor": "10",
         "date": "2026.11.03"
-      },
-      {
-        "name": "삼성래미안",
-        "dong": "도곡동",
-        "area": 122.81,
-        "price": 345000,
-        "floor": "8",
-        "date": "2026.11.01"
       }
     ],
     "songpa_count": 17,
