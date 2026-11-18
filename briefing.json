@@ -1,5 +1,5 @@
 {
-  "date": "2026.11.17",
+  "date": "2026.11.18",
   "data_month": "2026년 11월",
   "videos": [
     {
@@ -10,38 +10,10 @@
       "pub_date": "11/16"
     },
     {
-      "channel": "부읽남TV",
-      "title": "내 집값 절대 안 떨어져야 한다면 집 사고 싶어도 못 삽니다 [송희구 작가]",
-      "link": "https://www.youtube.com/shorts/JboSrx0CTBY",
-      "pub_ts": 1794781833.0,
-      "pub_date": "11/15"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "\"금리 오르는데 부동산 시장 어떻게 될까요?\" 대부분 놓치고 있는 비밀 하나 알려드릴게요 (구해줘월부 기사)",
       "link": "https://www.youtube.com/watch?v=keBDvYok2TI",
       "pub_ts": 1794780003.0,
-      "pub_date": "11/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "“팔란티어 무섭게 나아간다” 전세계 장악할 계획 나왔습니다 [테크피드 2부]",
-      "link": "https://www.youtube.com/watch?v=yV6KrbCgnKg",
-      "pub_ts": 1794729621.0,
-      "pub_date": "11/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "1주택자 전세대출 막는다? 우리가 오해하는 것 [레오 김은진 대표]",
-      "link": "https://www.youtube.com/shorts/qPxlEilzwAg",
-      "pub_ts": 1794713431.0,
-      "pub_date": "11/15"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"이제 강제로 집 사게 될 겁니다\" 한국 부동산에 나타난 이상현상 [송희구 작가 풀버전]",
-      "link": "https://www.youtube.com/watch?v=GZfTpovi56k",
-      "pub_ts": 1794704438.0,
       "pub_date": "11/15"
     },
     {
@@ -106,21 +78,33 @@
       "link": "https://www.youtube.com/watch?v=3SGQnkSgulY",
       "pub_ts": 1794261635.0,
       "pub_date": "11/09"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "대통령 집값 떨어졌다? 체감 Zero... 쏟아져 나온 검증들...",
+      "link": "https://www.youtube.com/watch?v=PagXOzT7D_g",
+      "pub_ts": 1794183393.0,
+      "pub_date": "11/09"
+    },
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"역대급 난이도의 서울 부동산 상황\" 더 이상 우리가 알던 부동산 시장이 아닙니다 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=xfBoKFg3nck",
+      "pub_ts": 1794006032.0,
+      "pub_date": "11/06"
+    },
+    {
+      "channel": "아포유 AforU",
+      "title": "강남 집값 하락이라더니... 민간통계는 정 반대의 결과가... 설상가상 대출까지?",
+      "link": "https://www.youtube.com/watch?v=N7bm7949es4",
+      "pub_ts": 1793666351.0,
+      "pub_date": "11/03"
     }
   ],
   "market": {
-    "total_count": 624,
-    "total_districts": 24,
+    "total_count": 775,
+    "total_districts": 25,
     "top5_districts": [
-      [
-        "강남구",
-        {
-          "count": 17,
-          "avg": 275223,
-          "max_price": 660000,
-          "max_name": "현대6차(78~81,83,84,86,87동)"
-        }
-      ],
       [
         "종로구",
         {
@@ -131,30 +115,39 @@
         }
       ],
       [
-        "성동구",
+        "강남구",
         {
-          "count": 15,
-          "avg": 192126,
-          "max_price": 244000,
-          "max_name": "옥수파크힐스101동~116동"
+          "count": 24,
+          "avg": 260116,
+          "max_price": 660000,
+          "max_name": "현대6차(78~81,83,84,86,87동)"
         }
       ],
       [
-        "송파구",
+        "성동구",
         {
-          "count": 22,
-          "avg": 178350,
-          "max_price": 333000,
-          "max_name": "리센츠"
+          "count": 17,
+          "avg": 193435,
+          "max_price": 245000,
+          "max_name": "성동상가"
         }
       ],
       [
         "용산구",
         {
-          "count": 5,
-          "avg": 173400,
-          "max_price": 253000,
-          "max_name": "금호베스트빌1"
+          "count": 7,
+          "avg": 190000,
+          "max_price": 338000,
+          "max_name": "GS자이"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 23,
+          "avg": 181465,
+          "max_price": 333000,
+          "max_name": "리센츠"
         }
       ]
     ],
@@ -192,16 +185,16 @@
         "date": "2026.11.12"
       },
       {
-        "name": "역삼2차아이파크",
-        "dong": "역삼동",
-        "area": 84.587,
-        "price": 360000,
-        "floor": "10",
-        "date": "2026.11.03"
+        "name": "삼성동센트럴아이파크",
+        "dong": "삼성동",
+        "area": 123.3,
+        "price": 430000,
+        "floor": "16",
+        "date": "2026.11.16"
       }
     ],
-    "songpa_count": 17,
-    "songpa_avg": 177041
+    "songpa_count": 18,
+    "songpa_avg": 181094
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
