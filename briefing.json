@@ -1,13 +1,27 @@
 {
-  "date": "2026.11.18",
+  "date": "2026.11.19",
   "data_month": "2026년 11월",
   "videos": [
     {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"S&P500, 이렇게 해야 돈 벌어요\" 지수투자 무조건 성공할 수 있는 '이 전략' 지금 당장 시작해야 합니다",
+      "link": "https://www.youtube.com/watch?v=1NTyi0IsS7M",
+      "pub_ts": 1795039201.0,
+      "pub_date": "11/18"
+    },
+    {
       "channel": "부읽남TV",
-      "title": "\"44년 만에 처음 보는 수준입니다\" 서울 아파트에 나타나는 이상현상 [김경필 작가 2부]",
-      "link": "https://www.youtube.com/watch?v=H0nw0ubxo2w",
-      "pub_ts": 1794823217.0,
-      "pub_date": "11/16"
+      "title": "\"전국이 곧 난리날 겁니다\" 부동산 호재 오디션 시작",
+      "link": "https://www.youtube.com/watch?v=vaSwhrG3ekc",
+      "pub_ts": 1794999605.0,
+      "pub_date": "11/18"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "매물 8만 건이 10만 건 되면 집값 결국 '이렇게' 됩니다 [김경필 작가]",
+      "link": "https://www.youtube.com/shorts/rx9oxsjFG9g",
+      "pub_ts": 1794990625.0,
+      "pub_date": "11/18"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -87,13 +101,6 @@
       "pub_date": "11/09"
     },
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"역대급 난이도의 서울 부동산 상황\" 더 이상 우리가 알던 부동산 시장이 아닙니다 (주간머니이슈_부동산편)",
-      "link": "https://www.youtube.com/watch?v=xfBoKFg3nck",
-      "pub_ts": 1794006032.0,
-      "pub_date": "11/06"
-    },
-    {
       "channel": "아포유 AforU",
       "title": "강남 집값 하락이라더니... 민간통계는 정 반대의 결과가... 설상가상 대출까지?",
       "link": "https://www.youtube.com/watch?v=N7bm7949es4",
@@ -102,52 +109,52 @@
     }
   ],
   "market": {
-    "total_count": 775,
+    "total_count": 902,
     "total_districts": 25,
     "top5_districts": [
       [
-        "종로구",
-        {
-          "count": 1,
-          "avg": 275000,
-          "max_price": 275000,
-          "max_name": "경희궁자이(2단지)"
-        }
-      ],
-      [
         "강남구",
         {
-          "count": 24,
-          "avg": 260116,
+          "count": 30,
+          "avg": 248826,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
         }
       ],
       [
-        "성동구",
+        "용산구",
         {
-          "count": 17,
-          "avg": 193435,
-          "max_price": 245000,
-          "max_name": "성동상가"
+          "count": 11,
+          "avg": 206043,
+          "max_price": 374980,
+          "max_name": "현대맨숀"
         }
       ],
       [
-        "용산구",
+        "종로구",
         {
-          "count": 7,
-          "avg": 190000,
-          "max_price": 338000,
-          "max_name": "GS자이"
+          "count": 2,
+          "avg": 189500,
+          "max_price": 275000,
+          "max_name": "경희궁자이(2단지)"
         }
       ],
       [
         "송파구",
         {
-          "count": 23,
-          "avg": 181465,
-          "max_price": 333000,
-          "max_name": "리센츠"
+          "count": 26,
+          "avg": 188815,
+          "max_price": 360000,
+          "max_name": "레이크팰리스"
+        }
+      ],
+      [
+        "성동구",
+        {
+          "count": 19,
+          "avg": 187705,
+          "max_price": 245000,
+          "max_name": "성동상가"
         }
       ]
     ],
@@ -193,8 +200,8 @@
         "date": "2026.11.16"
       }
     ],
-    "songpa_count": 18,
-    "songpa_avg": 181094
+    "songpa_count": 21,
+    "songpa_avg": 190247
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
