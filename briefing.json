@@ -1,7 +1,35 @@
 {
-  "date": "2026.11.20",
+  "date": "2026.11.21",
   "data_month": "2026년 11월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"강남 하락과 외곽 상승\" 서울 집값 상승률 6개월만 최저수준, 지금 시장을 다시 봐야하는 진짜 이유 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=zRwiZSQXjlw",
+      "pub_ts": 1795219237.0,
+      "pub_date": "11/21"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "2, 3천 갖고 투자하는 분들이 부자가 못 되는 진짜 이유 [김경필 작가]",
+      "link": "https://www.youtube.com/shorts/edtEP20sv0s",
+      "pub_ts": 1795213810.0,
+      "pub_date": "11/20"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "S&P500 이렇게 투자하면, 10년 뒤 은퇴가 바뀝니다 [곽병열 이사 3부]",
+      "link": "https://www.youtube.com/watch?v=qcNgV49U2ps",
+      "pub_ts": 1795165207.0,
+      "pub_date": "11/20"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "삼성전자 하이닉스 투자자는 '이것'부터 꼭 읽으세요 [곽병열 이사]",
+      "link": "https://www.youtube.com/shorts/NcAZadlKsjE",
+      "pub_ts": 1795163407.0,
+      "pub_date": "11/20"
+    },
     {
       "channel": "부읽남TV",
       "title": "한강 벨트도 하락 시작, 앞으로 부동산 시장에 벌어질 일들",
@@ -24,31 +52,10 @@
       "pub_date": "11/19"
     },
     {
-      "channel": "부읽남TV",
-      "title": "유튜버들은 지금 집 사라는데 제가 부동산 파는 진짜 이유 [최필주 작가]",
-      "link": "https://www.youtube.com/shorts/YnSgCPKZV-c",
-      "pub_ts": 1795059033.0,
-      "pub_date": "11/19"
-    },
-    {
       "channel": "월급쟁이부자들TV",
       "title": "\"S&P500, 이렇게 해야 돈 벌어요\" 지수투자 무조건 성공할 수 있는 '이 전략' 지금 당장 시작해야 합니다",
       "link": "https://www.youtube.com/watch?v=1NTyi0IsS7M",
       "pub_ts": 1795039201.0,
-      "pub_date": "11/18"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"전국이 곧 난리날 겁니다\" 부동산 호재 오디션 시작",
-      "link": "https://www.youtube.com/watch?v=vaSwhrG3ekc",
-      "pub_ts": 1794999605.0,
-      "pub_date": "11/18"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "매물 8만 건이 10만 건 되면 집값 결국 '이렇게' 됩니다 [김경필 작가]",
-      "link": "https://www.youtube.com/shorts/rx9oxsjFG9g",
-      "pub_ts": 1794990625.0,
       "pub_date": "11/18"
     },
     {
@@ -99,26 +106,28 @@
       "link": "https://www.youtube.com/shorts/urOfgn4ifbU",
       "pub_ts": 1794391275.0,
       "pub_date": "11/11"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "9억 미만 아파트를 살 때, 반드시 해야 할 2가지",
-      "link": "https://www.youtube.com/shorts/XH5MHfGDx1E",
-      "pub_ts": 1794303923.0,
-      "pub_date": "11/10"
     }
   ],
   "market": {
-    "total_count": 1009,
+    "total_count": 1108,
     "total_districts": 24,
     "top5_districts": [
       [
         "강남구",
         {
-          "count": 34,
-          "avg": 236567,
+          "count": 39,
+          "avg": 227751,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 60,
+          "avg": 200005,
+          "max_price": 400000,
+          "max_name": "잠실엘스"
         }
       ],
       [
@@ -131,28 +140,19 @@
         }
       ],
       [
-        "송파구",
-        {
-          "count": 46,
-          "avg": 192343,
-          "max_price": 360000,
-          "max_name": "레이크팰리스"
-        }
-      ],
-      [
         "서초구",
         {
-          "count": 26,
-          "avg": 185721,
-          "max_price": 450000,
-          "max_name": "반포센트럴자이"
+          "count": 32,
+          "avg": 193335,
+          "max_price": 542000,
+          "max_name": "아크로리버파크"
         }
       ],
       [
         "성동구",
         {
-          "count": 24,
-          "avg": 178504,
+          "count": 26,
+          "avg": 177926,
           "max_price": 245000,
           "max_name": "성동상가"
         }
@@ -165,6 +165,14 @@
         "area": 144.2,
         "price": 660000,
         "floor": "9",
+        "date": "2026.11.05"
+      },
+      {
+        "name": "아크로리버파크",
+        "dong": "반포동",
+        "area": 84.97,
+        "price": 542000,
+        "floor": "8",
         "date": "2026.11.05"
       },
       {
@@ -190,18 +198,10 @@
         "price": 467000,
         "floor": "31",
         "date": "2026.11.12"
-      },
-      {
-        "name": "반포센트럴자이",
-        "dong": "잠원동",
-        "area": 84.98,
-        "price": 450000,
-        "floor": "10",
-        "date": "2026.11.16"
       }
     ],
-    "songpa_count": 41,
-    "songpa_avg": 193507
+    "songpa_count": 51,
+    "songpa_avg": 202849
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
