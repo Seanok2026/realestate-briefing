@@ -1,7 +1,14 @@
 {
-  "date": "2026.11.21",
+  "date": "2026.11.22",
   "data_month": "2026년 11월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "전세 만기가 된 분들은 강제로 집 사야 합니다 [정민우 대표]",
+      "link": "https://www.youtube.com/shorts/CPR4yN6cFu4",
+      "pub_ts": 1795249822.0,
+      "pub_date": "11/21"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"강남 하락과 외곽 상승\" 서울 집값 상승률 6개월만 최저수준, 지금 시장을 다시 봐야하는 진짜 이유 (주간머니이슈_부동산편)",
@@ -18,6 +25,13 @@
     },
     {
       "channel": "부읽남TV",
+      "title": "전세난보다 무서운 일이 옵니다, 앞으로 4년 부동산 시장이 위험한 이유 [정민우 대표 2부]",
+      "link": "https://www.youtube.com/watch?v=RoMQq5ik_tE",
+      "pub_ts": 1795172437.0,
+      "pub_date": "11/20"
+    },
+    {
+      "channel": "부읽남TV",
       "title": "S&P500 이렇게 투자하면, 10년 뒤 은퇴가 바뀝니다 [곽병열 이사 3부]",
       "link": "https://www.youtube.com/watch?v=qcNgV49U2ps",
       "pub_ts": 1795165207.0,
@@ -29,20 +43,6 @@
       "link": "https://www.youtube.com/shorts/NcAZadlKsjE",
       "pub_ts": 1795163407.0,
       "pub_date": "11/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "한강 벨트도 하락 시작, 앞으로 부동산 시장에 벌어질 일들",
-      "link": "https://www.youtube.com/watch?v=mU8F1BxHB-I",
-      "pub_ts": 1795086033.0,
-      "pub_date": "11/19"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "이제 한강벨트도 하락한다? 부동산에 펼쳐지는 이상현상 [정민우 대표 1부]",
-      "link": "https://www.youtube.com/watch?v=XxvA8dYvYbA",
-      "pub_ts": 1795082430.0,
-      "pub_date": "11/19"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -109,7 +109,7 @@
     }
   ],
   "market": {
-    "total_count": 1108,
+    "total_count": 1110,
     "total_districts": 24,
     "top5_districts": [
       [
@@ -119,15 +119,6 @@
           "avg": 227751,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 60,
-          "avg": 200005,
-          "max_price": 400000,
-          "max_name": "잠실엘스"
         }
       ],
       [
@@ -155,6 +146,15 @@
           "avg": 177926,
           "max_price": 245000,
           "max_name": "성동상가"
+        }
+      ],
+      [
+        "종로구",
+        {
+          "count": 4,
+          "avg": 146625,
+          "max_price": 275000,
+          "max_name": "경희궁자이(2단지)"
         }
       ]
     ],
@@ -200,8 +200,8 @@
         "date": "2026.11.12"
       }
     ],
-    "songpa_count": 51,
-    "songpa_avg": 202849
+    "songpa_count": 0,
+    "songpa_avg": 0
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
