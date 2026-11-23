@@ -1,7 +1,28 @@
 {
-  "date": "2026.11.22",
+  "date": "2026.11.23",
   "data_month": "2026년 11월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "\"이제 전세 다 사라졌습니다\" 세입자들 강제로 집 사게 됩니다 [정민우 대표 풀버전]",
+      "link": "https://www.youtube.com/watch?v=mlaiAPjVvxE",
+      "pub_ts": 1795323624.0,
+      "pub_date": "11/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "삼전 하이닉스 다니는 분들 빼면 전세 월세 진짜 심각해집니다 [정민우 대표]",
+      "link": "https://www.youtube.com/shorts/FP0Trg5C2Wk",
+      "pub_ts": 1795318233.0,
+      "pub_date": "11/22"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"지금 집값 거품 아닌가요?\" 기다렸다 집 사고 싶다면 보세요 [정민우 대표 3부]",
+      "link": "https://www.youtube.com/watch?v=osIEcsHyUZ0",
+      "pub_ts": 1795258824.0,
+      "pub_date": "11/21"
+    },
     {
       "channel": "부읽남TV",
       "title": "전세 만기가 된 분들은 강제로 집 사야 합니다 [정민우 대표]",
@@ -21,27 +42,6 @@
       "title": "2, 3천 갖고 투자하는 분들이 부자가 못 되는 진짜 이유 [김경필 작가]",
       "link": "https://www.youtube.com/shorts/edtEP20sv0s",
       "pub_ts": 1795213810.0,
-      "pub_date": "11/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세난보다 무서운 일이 옵니다, 앞으로 4년 부동산 시장이 위험한 이유 [정민우 대표 2부]",
-      "link": "https://www.youtube.com/watch?v=RoMQq5ik_tE",
-      "pub_ts": 1795172437.0,
-      "pub_date": "11/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "S&P500 이렇게 투자하면, 10년 뒤 은퇴가 바뀝니다 [곽병열 이사 3부]",
-      "link": "https://www.youtube.com/watch?v=qcNgV49U2ps",
-      "pub_ts": 1795165207.0,
-      "pub_date": "11/20"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "삼성전자 하이닉스 투자자는 '이것'부터 꼭 읽으세요 [곽병열 이사]",
-      "link": "https://www.youtube.com/shorts/NcAZadlKsjE",
-      "pub_ts": 1795163407.0,
       "pub_date": "11/20"
     },
     {
@@ -109,7 +109,7 @@
     }
   ],
   "market": {
-    "total_count": 1110,
+    "total_count": 1089,
     "total_districts": 24,
     "top5_districts": [
       [
@@ -119,6 +119,15 @@
           "avg": 227751,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
+        }
+      ],
+      [
+        "송파구",
+        {
+          "count": 61,
+          "avg": 201250,
+          "max_price": 400000,
+          "max_name": "잠실엘스"
         }
       ],
       [
@@ -146,15 +155,6 @@
           "avg": 177926,
           "max_price": 245000,
           "max_name": "성동상가"
-        }
-      ],
-      [
-        "종로구",
-        {
-          "count": 4,
-          "avg": 146625,
-          "max_price": 275000,
-          "max_name": "경희궁자이(2단지)"
         }
       ]
     ],
@@ -200,8 +200,8 @@
         "date": "2026.11.12"
       }
     ],
-    "songpa_count": 0,
-    "songpa_avg": 0
+    "songpa_count": 52,
+    "songpa_avg": 204255
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
