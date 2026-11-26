@@ -1,7 +1,35 @@
 {
-  "date": "2026.11.25",
+  "date": "2026.11.26",
   "data_month": "2026년 11월",
   "videos": [
+    {
+      "channel": "부읽남TV",
+      "title": "강남 아닌 곳 재건축 가지고 계시면 지금 빨리 집 파세요 [한문도 교수]",
+      "link": "https://www.youtube.com/shorts/C_OcbEZZZ-w",
+      "pub_ts": 1795663821.0,
+      "pub_date": "11/26"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "집값 더 싸지길 기다리는 분들 지금 '이렇게' 하세요 [한문도 교수]",
+      "link": "https://www.youtube.com/shorts/yna43yg_Eq0",
+      "pub_ts": 1795645828.0,
+      "pub_date": "11/25"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "중국 기습 배터리 포기 선언, 전세계가 한국 배터리만 찾는 이유 [윤석천 경제평론가 3부]",
+      "link": "https://www.youtube.com/watch?v=LRYv58fLy8A",
+      "pub_ts": 1795600818.0,
+      "pub_date": "11/25"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"경기 외곽까지 번졌습니다\" 수도권 집값 이제 이렇게 됩니다 [한문도 교수 3부]",
+      "link": "https://www.youtube.com/watch?v=3PGJmlVN8Ms",
+      "pub_ts": 1795597210.0,
+      "pub_date": "11/25"
+    },
     {
       "channel": "월급쟁이부자들TV",
       "title": "\"2027년, 부동산 판도 확 바뀐다\" 앞으로 서울 집값은 '이렇게' 흘러갑니다 (서울대 김경민 교수)",
@@ -15,13 +43,6 @@
       "link": "https://www.youtube.com/watch?v=xpmERd8pUcw",
       "pub_ts": 1795514419.0,
       "pub_date": "11/24"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "전세난보다 무서운 일이 옵니다, 내년 부동산 시장이 위험한 이유 [한문도 교수 1부]",
-      "link": "https://www.youtube.com/watch?v=gCtXDtgmWI8",
-      "pub_ts": 1795431626.0,
-      "pub_date": "11/23"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -80,13 +101,6 @@
       "pub_date": "11/11"
     },
     {
-      "channel": "월급쟁이부자들TV",
-      "title": "동탄 집값이 오르는 이유 미니 지역분석",
-      "link": "https://www.youtube.com/shorts/jCb1g0zDDKg",
-      "pub_ts": 1794392107.0,
-      "pub_date": "11/11"
-    },
-    {
       "channel": "아포유 AforU",
       "title": "대통령 집값 떨어졌다? 체감 Zero... 쏟아져 나온 검증들...",
       "link": "https://www.youtube.com/watch?v=PagXOzT7D_g",
@@ -95,14 +109,14 @@
     }
   ],
   "market": {
-    "total_count": 1415,
-    "total_districts": 25,
+    "total_count": 1431,
+    "total_districts": 24,
     "top5_districts": [
       [
         "용산구",
         {
-          "count": 17,
-          "avg": 261704,
+          "count": 18,
+          "avg": 256554,
           "max_price": 1375000,
           "max_name": "한남더힐"
         }
@@ -110,35 +124,35 @@
       [
         "강남구",
         {
-          "count": 53,
-          "avg": 228894,
+          "count": 57,
+          "avg": 226507,
           "max_price": 660000,
           "max_name": "현대6차(78~81,83,84,86,87동)"
         }
       ],
       [
-        "송파구",
-        {
-          "count": 75,
-          "avg": 208694,
-          "max_price": 437300,
-          "max_name": "주공아파트 5단지"
-        }
-      ],
-      [
         "서초구",
         {
-          "count": 39,
-          "avg": 206006,
+          "count": 43,
+          "avg": 222412,
           "max_price": 575000,
           "max_name": "래미안원베일리"
         }
       ],
       [
+        "송파구",
+        {
+          "count": 84,
+          "avg": 209632,
+          "max_price": 437300,
+          "max_name": "주공아파트 5단지"
+        }
+      ],
+      [
         "성동구",
         {
-          "count": 30,
-          "avg": 186136,
+          "count": 31,
+          "avg": 184841,
           "max_price": 330000,
           "max_name": "힐스테이트서울숲리버"
         }
@@ -178,16 +192,16 @@
         "date": "2026.11.05"
       },
       {
-        "name": "현대14차(203,204,205,206동)",
-        "dong": "압구정동",
+        "name": "래미안원베일리",
+        "dong": "반포동",
         "area": 84.98,
-        "price": 526000,
-        "floor": "5",
-        "date": "2026.11.13"
+        "price": 535000,
+        "floor": "8",
+        "date": "2026.11.24"
       }
     ],
-    "songpa_count": 63,
-    "songpa_avg": 212287
+    "songpa_count": 69,
+    "songpa_avg": 215624
   },
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
