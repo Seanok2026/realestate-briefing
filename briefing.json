@@ -1,7 +1,42 @@
 {
-  "date": "2026.11.27",
-  "data_month": "2026년 11월",
+  "date": "2026.11.28",
+  "data_month": "2026년 10월",
   "videos": [
+    {
+      "channel": "월급쟁이부자들TV",
+      "title": "\"금리 인상, 집값은 비상\" 결국 분위기 더 싸해진 서울 부동산 상황, 앞으로 이렇게 흘러갑니다 (주간머니이슈_부동산편)",
+      "link": "https://www.youtube.com/watch?v=ubl0vL5npK4",
+      "pub_ts": 1795824015.0,
+      "pub_date": "11/28"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "\"이제 강제로 집 사게 될 겁니다\" 한국 부동산에 나타난 이상현상 [빠숑 김학렬 소장 2부]",
+      "link": "https://www.youtube.com/watch?v=Vanm_sGMnNM",
+      "pub_ts": 1795777224.0,
+      "pub_date": "11/27"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "경기 인천까지 번질 겁니다, 수도권 집값 이제 이렇게 됩니다 [쏘쿨 1부]",
+      "link": "https://www.youtube.com/watch?v=FlZRRXlsKe0",
+      "pub_ts": 1795773620.0,
+      "pub_date": "11/27"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "분위기 싸해진 현장 상황, 앞으로 부동산 시장 무서울 겁니다 [한문도 교수 4부]",
+      "link": "https://www.youtube.com/watch?v=RPu6zA90l6I",
+      "pub_ts": 1795770014.0,
+      "pub_date": "11/27"
+    },
+    {
+      "channel": "부읽남TV",
+      "title": "나홀로 아파트를 급하게 샀습니다, 저 집 잘못 샀나요? [상남자들]",
+      "link": "https://www.youtube.com/watch?v=bf1G6G9Rb7M",
+      "pub_ts": 1795766412.0,
+      "pub_date": "11/27"
+    },
     {
       "channel": "부읽남TV",
       "title": "\"30대가 17억 집을 삽니다\" 지금 부동산에서 벌어지는 이상현상",
@@ -29,27 +64,6 @@
       "link": "https://www.youtube.com/shorts/C_OcbEZZZ-w",
       "pub_ts": 1795663821.0,
       "pub_date": "11/26"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "집값 더 싸지길 기다리는 분들 지금 '이렇게' 하세요 [한문도 교수]",
-      "link": "https://www.youtube.com/shorts/yna43yg_Eq0",
-      "pub_ts": 1795645828.0,
-      "pub_date": "11/25"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "중국 기습 배터리 포기 선언, 전세계가 한국 배터리만 찾는 이유 [윤석천 경제평론가 3부]",
-      "link": "https://www.youtube.com/watch?v=LRYv58fLy8A",
-      "pub_ts": 1795600818.0,
-      "pub_date": "11/25"
-    },
-    {
-      "channel": "부읽남TV",
-      "title": "\"경기 외곽까지 번졌습니다\" 수도권 집값 이제 이렇게 됩니다 [한문도 교수 3부]",
-      "link": "https://www.youtube.com/watch?v=3PGJmlVN8Ms",
-      "pub_ts": 1795597210.0,
-      "pub_date": "11/25"
     },
     {
       "channel": "월급쟁이부자들TV",
@@ -92,117 +106,9 @@
       "link": "https://www.youtube.com/watch?v=5O6ZL7ZRM7Y",
       "pub_ts": 1794610829.0,
       "pub_date": "11/13"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "\"금리인상, 공포의 12월이 온다\" 앞으로 벌어질 무서운 시장 시나리오와 지금 꼭 봐야 할 경제 신호 (주간머니이슈_경제편)",
-      "link": "https://www.youtube.com/watch?v=F0EHJthS5KI",
-      "pub_ts": 1794560416.0,
-      "pub_date": "11/13"
-    },
-    {
-      "channel": "월급쟁이부자들TV",
-      "title": "상승장마다 달라지는 집값 폭등의 진짜 순서",
-      "link": "https://www.youtube.com/shorts/yQi1CyVksfE",
-      "pub_ts": 1794556342.0,
-      "pub_date": "11/13"
     }
   ],
-  "market": {
-    "total_count": 1514,
-    "total_districts": 24,
-    "top5_districts": [
-      [
-        "용산구",
-        {
-          "count": 23,
-          "avg": 242781,
-          "max_price": 1375000,
-          "max_name": "한남더힐"
-        }
-      ],
-      [
-        "강남구",
-        {
-          "count": 63,
-          "avg": 233823,
-          "max_price": 660000,
-          "max_name": "현대6차(78~81,83,84,86,87동)"
-        }
-      ],
-      [
-        "서초구",
-        {
-          "count": 48,
-          "avg": 218390,
-          "max_price": 575000,
-          "max_name": "래미안원베일리"
-        }
-      ],
-      [
-        "송파구",
-        {
-          "count": 93,
-          "avg": 214312,
-          "max_price": 437300,
-          "max_name": "주공아파트 5단지"
-        }
-      ],
-      [
-        "성동구",
-        {
-          "count": 33,
-          "avg": 183972,
-          "max_price": 330000,
-          "max_name": "힐스테이트서울숲리버"
-        }
-      ]
-    ],
-    "top5_trades": [
-      {
-        "name": "한남더힐",
-        "dong": "한남동",
-        "area": 208.478,
-        "price": 1375000,
-        "floor": "5",
-        "date": "2026.11.10"
-      },
-      {
-        "name": "현대6차(78~81,83,84,86,87동)",
-        "dong": "압구정동",
-        "area": 144.2,
-        "price": 660000,
-        "floor": "9",
-        "date": "2026.11.05"
-      },
-      {
-        "name": "현대6차(78~81,83,84,86,87동)",
-        "dong": "압구정동",
-        "area": 144.7,
-        "price": 645000,
-        "floor": "6",
-        "date": "2026.11.04"
-      },
-      {
-        "name": "래미안원베일리",
-        "dong": "반포동",
-        "area": 84.98,
-        "price": 575000,
-        "floor": "11",
-        "date": "2026.11.09"
-      },
-      {
-        "name": "아크로리버파크",
-        "dong": "반포동",
-        "area": 84.97,
-        "price": 542000,
-        "floor": "8",
-        "date": "2026.11.05"
-      }
-    ],
-    "songpa_count": 77,
-    "songpa_avg": 221105
-  },
+  "market": {},
   "signals": [
     "수원 아파트: 보유 11.5년 → 장기보유 구간 진입, 매도 우호적",
     "송도 오피스텔: 보유 9.5년 → 장기보유공제 누적 중",
